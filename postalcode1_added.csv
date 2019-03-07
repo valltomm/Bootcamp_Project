@@ -1,0 +1,2001 @@
+Address,AreaName,Price,lat,lng,postal_code,neighbourhood
+"86 Waterford Dr Toronto, ON",Richview,999888,43.679882,-79.54426600000001,M9R 2N8,Wincott Drive
+"#1409 - 230 King St Toronto, ON",Downtown,362000,43.651478000000004,-79.36811800000001,M5A 2P8,Old Toronto
+"254A Monarch Park Ave Toronto, ON",Old East York,1488000,43.686375,-79.328918,M4J 4S5,Monarch Park Avenue
+"3 Bracebridge Ave Toronto, ON",Old East York,599900,43.697842,-79.317368,M4C 2X6,Bracebridge Avenue
+"#710 - 1080 Bay St Toronto, ON",Downtown,805900,43.666794,-79.388756,M5S 0A5,Bay Street
+"160 Jenkinson Way Toronto, ON",Dorset Park,549900,43.749598999999996,-79.270844,M1P 5H4,Jenkinson Way
+"40 Hawthorne Rd Toronto, ON",Richview,850000,43.692314,-79.552635,M9R 1P3,Hawthorne Road
+"#4905 - 16 Harbour St Toronto, ON",Downtown,1348000,43.642578,-79.3769,M5J 2Y4,Harbour Street
+"430 Military Tr Toronto, ON",Morningside,675000,43.788639,-79.207932,M1E 4E7,Misthollow Square
+"31 Yorkshire Rd Toronto, ON",Ionview,499900,43.740097,-79.273987,M1K 3B7,Yorkshire Road
+"34 Ordway Rd Toronto, ON",Kennedy Park,599000,43.733814,-79.25,M1K 4J4,Ordway Road
+"47 Waterbeach Cres Toronto, ON",Rexdale,549900,43.726189,-79.582047,M9W 3L9,Waterbeach Crescent
+"2 Moraine Hill Dr Toronto, ON",Tam O'Shanter,698000,43.774623999999996,-79.298141,M1T 1Z9,Corundum Crescent
+"#18 - 170 Wickson Tr Toronto, ON",Malvern,338000,43.805099,-79.21195999999999,M1B 1M4,Wickson Trail
+"6 Willesden Rd Toronto, ON",Don Valley Village,699800,43.792187,-79.365669,M2H 1V5,Willesden Road
+"#2705 - 70 Temperance St Toronto, ON",Downtown,325000,43.650372,-79.382347,M5H 3V5,Sheppard Street
+"49 Cadillac Ave Toronto, ON",Wilson Heights,1149000,43.734875,-79.441017,M3H 1S3,Cadillac Avenue
+"4 Danube Dr Toronto, ON",Wexford - Maryvale,749900,43.742484999999995,-79.296707,M1R 1Y7,Wayne Avenue
+"#1209 - 35 Finch Ave Toronto, ON",Willowdale,419000,43.779987,-79.412735,M2N 6Z8,North York
+"9 Struthers St Toronto, ON",Mimico,749000,43.609004999999996,-79.496078,M8V 1Y2,Struthers Street
+"1574 Pharmacy Ave Toronto, ON",Wexford - Maryvale,649900,43.763866,-79.312263,M1R 2K7,Pharmacy Avenue
+"26 Waterbury Dr Toronto, ON",Richview,595500,43.687061,-79.571083,M9R 3X6,Waterbury Drive
+"#3010 - 65 St  Mary St Toronto, ON",Downtown,312000,43.666897,-79.389038,M5S 0A6,Bay Street
+"1 Silbury Dr Toronto, ON",Agincourt,709900,43.809810999999996,-79.263359,M1V 2P2,Silbury Drive
+"1465A Birchmount Rd Toronto, ON",Dorset Park,599900,43.755790999999995,-79.28788,M1P 2G4,Birchmount Road
+"143 Princess Margaret Blvd Toronto, ON",Princess Margaret,1049000,43.666405,-79.553543,M9B 2Z4,Princess Margaret Boulevard
+"175 Haddington Ave Toronto, ON",Nortown,2888000,43.733734000000005,-79.425026,M5M 2P7,Haddington Avenue
+"## 911 - 5 Shady Gfwy Toronto, ON",Flemingdon Park,279900,43.717915000000005,-79.326309,M3C 3A5,Shady Golfway
+"#1805 - 16 Harrison Garden Blvd Toronto, ON",Willowdale,299900,43.757698,-79.409042,M2N 7K6,Harrison Garden Boulevard
+"68 Kenilworth Ave Toronto, ON",The Beach,1929000,43.668091,-79.301514,M4L 3S5,Kenilworth Avenue
+"#1505 - 125 Western Battery Rd Toronto, ON",Niagara,399900,43.639946,-79.416664,M6K 3R8,Western Battery Road
+"138 Mckee Ave Toronto, ON",Willowdale,3988000,43.774734,-79.40568499999999,M2N 4C5,McKee Avenue
+"#2403 - 375 King St Toronto, ON",Downtown,548000,43.645641,-79.39295200000001,M5V 1K1,King Street West
+"22 Strathearn Blvd Toronto, ON",Midtown Toronto,5288000,43.691134999999996,-79.415573,M5P 1S7,Strathearn Boulevard
+"#406 - 300 Manitoba St Toronto, ON",Mimico,309000,43.62421,-79.489449,M8Y 4G9,Manitoba Street
+"#1901 - 231 Fort York Blvd Toronto, ON",Niagara,369000,43.636837,-79.406052,M5V 4A2,Fort York Boulevard
+"#1010 - 65 East Liberty St Toronto, ON",Liberty Village,420000,43.638054,-79.41481800000001,M6K 0A2,East Liberty Street
+"#203 - 17 Kenaston Gdns Toronto, ON",Bayview Village,429000,43.766094,-79.385582,M2K 1G7,Kenaston Gardens
+"#502 - 2 Anndale Dr Toronto, ON",Willowdale,559000,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"1060 Midland Ave Toronto, ON",Bendale,699900,43.744205,-79.262428,M1K 4G9,Midland Avenue
+"#701 - 3 Massey Sq Toronto, ON",Old East York,315000,43.696827,-79.29341099999999,M4C 5L5,Massey Square
+"#711 - 33 Singer Crt Toronto, ON",Bayview Village,428000,43.769611,-79.368416,M2K 0B4,Singer Court
+"#1127 - 5 Everson Dr Toronto, ON",Willowdale,348800,43.757408,-79.406853,M2N 7C3,Everson Drive
+"#1501 - 3050 Ellesmere Rd Toronto, ON",Morningside,209900,43.786037,-79.197723,M1E 5E6,Ellesmere Road
+"112 Helendale Ave Toronto, ON",Midtown Toronto,989000,43.708542,-79.40211500000001,M4R 1C7,Helendale Avenue
+"#2004 - 21 Balmuto St Toronto, ON",Downtown,445900,43.669151,-79.387375,M4Y 1W4,Balmuto Street
+"#707 - 5 Rowntree Rd Toronto, ON",Rexdale,319901,43.74955,-79.58075,M9V 5G9,Etobicoke
+"45 Valhalla Blvd Toronto, ON",Birch Cliff,699000,43.688419,-79.267677,M1N 3B4,Valhalla Boulevard
+"102 Mcgillivray Ave Toronto, ON",Nortown,1299900,43.736374,-79.430412,M5M 2Y4,McGillivray Avenue
+"#1912 - 62 Forest Manor Rd Toronto, ON",Henry Farm,325000,43.773922,-79.345726,M2J 0B6,George Henry Boulevard
+"9 Isaac Devins Blvd Toronto, ON",Humberlea,1049000,43.729229,-79.534203,M9M 0C7,Isaac Devins Boulevard
+"#3601 - 2220 Lakeshore Blvd Toronto, ON",Mimico,320000,43.62273,-79.483192,M8V 0C1,Lake Shore Boulevard West
+"#537 - 665 Kennedy Rd Toronto, ON",Scarborough Junction,179000,43.72599,-79.265015,M1K 2B8,Kennedy Road
+"#2709 - 70 Temperance St Toronto, ON",Downtown,459000,43.650372,-79.382347,M5H 3V5,Sheppard Street
+"#2708 - 5168 Yonge St Toronto, ON",Willowdale,409900,43.769829,-79.413467,M2N 0G1,Yonge Street
+"#1905 - 17 Anndale Dr Toronto, ON",Willowdale,580000,43.760135999999996,-79.40789000000001,M2N 2W7,Anndale Drive
+"#2002 - 2 Anndale Dr Toronto, ON",Willowdale,605900,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"#2016 - 155 Beecroft Rd Toronto, ON",Willowdale,469900,43.765537,-79.413155,M2N 7C5,Beecroft Road
+"#1016 - 35 Bales Ave Toronto, ON",Willowdale,515000,43.760181,-79.408218,M2N 7L7,Anndale Drive
+"#729 - 39 Queens Quay Way Toronto, ON",Downtown,438800,43.641346,-79.372421,M5E 0A4,Queens Quay East
+"22 Norman Wesley Way Toronto, ON",Downsview,579999,43.743221000000005,-79.488487,M3M 3H4,Norman Wesley Way
+"25 Parkland Rd Toronto, ON",Birch Cliff,1790000,43.685295,-79.281013,M1N 1Y7,North Drive
+"30 Exeter St Toronto, ON",Carleton Village,699900,43.673656,-79.455894,M6N 1G2,Exeter Street
+"#305 - 9 Burnhamthorpe Cres Toronto, ON",Islington,598000,43.649681,-79.530716,M9A 1G4,Burnhamthorpe Crescent
+"#Loft 2 - 2B Minto St Toronto, ON",Leslieville,1369900,43.663742,-79.324966,M4L 1B6,Minto Street
+"#1605 - 61 Markbrook Lane Toronto, ON",Rexdale,254900,43.759262,-79.585342,M9V 5E7,Markbrook Lane
+"#724 - 2885 Bayview Ave Toronto, ON",Bayview Village,559999,43.767936999999996,-79.387955,M2K 0A3,Bayview Avenue
+"#402 - 323 Richmond St Toronto, ON",Old Town,337000,43.653217,-79.368378,M5A 4S8,Richmond Street East
+"90 Browning Ave Toronto, ON",Riverdale,1599000,43.682064000000004,-79.353073,M4K 1V9,Browning Avenue
+"#3307 - 21 Widmer St Toronto, ON",Downtown,438000,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#1108 - 55 Bamburgh Circ Toronto, ON",Steeles,329900,43.814667,-79.326698,M1W 3V4,Bamburgh Circle
+"42 Rovinelli Rd Toronto, ON",Malvern,849000,43.815104999999996,-79.217415,M1B 4L2,Middleport Crescent
+"#907 - 5791 Yonge St Toronto, ON",Newtonbrook,389999,43.784409000000004,-79.416061,M2M 0A8,Yonge Street
+"592 The Queensway Toronto, ON",The Queensway,699900,43.628426,-79.49398000000001,M8Y 1J9,The Queensway
+"#2604 - 1 King St Toronto, ON",Weston,319800,43.701572,-79.52018699999999,M9N 1K8,King Street
+"#713 - 15 Greenview Ave Toronto, ON",Newtonbrook,560000,43.78017,-79.418251,M2M 4M7,Greenview Avenue
+"#1711 - 45 Charles St Toronto, ON",Downtown,448888,43.668777,-79.383995,M4Y 1S2,Charles Street East
+"#2011 - 215 Fort York Blvd Toronto, ON",Niagara,399000,43.636345,-79.404808,M5V 4A2,Angelique Street
+"#4004 - 21 Grenville St Toronto, ON",Downtown,704900,43.661792999999996,-79.384506,M4Y 0B9,Grenville Street
+"#1310 - 8 Mercer St Toronto, ON",Downtown,389000,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"#201 - 3 Pemberton Ave Toronto, ON",Newtonbrook,283000,43.780453,-79.413811,M2M 4M1,North York
+"#1103 - 3 Marine Parade Dr Toronto, ON",Mimico,579000,43.630383,-79.47627299999999,M8V 3Z4,Lake Shore Boulevard West
+"61 Boydwood Lane Toronto, ON",Rouge,3599000,43.806259000000004,-79.158813,M1B 1H2,Boydwood Lane
+"75 Highland Cres Toronto, ON",York Mills,8995000,43.743626,-79.391846,M2L 1G7,Highland Crescent
+"#816 - 210 Victoria St Toronto, ON",Downtown,329000,43.654648,-79.37925,M5B 2R3,Yonge Street
+"17 Tineta Cres Toronto, ON",White Haven,650000,43.786873,-79.256088,M1S 2Y5,Tineta Crescent
+"#612 - 800 Lawrence Ave Toronto, ON",Lawrence Heights,359000,43.714591999999996,-79.452911,M6A 0B1,Lawrence Avenue West
+"#525 - 380 MACPHERSON AVE Toronto, ON",Midtown Toronto,699000,43.676369,-79.405739,M4V 3E4,Macpherson Avenue
+"#2704 - 103 THE QUEENSWAY WAY Toronto, ON",Swansea,789900,43.636292,-79.470467,M6S 5B3,The Queensway
+"#725 - 10 CAPREOL CRT Toronto, ON",Downtown,379000,43.640223999999996,-79.39595,M5V 4A3,Capreol Court
+"#2103 - 151 DAN LECKIE WAY Toronto, ON",Downtown,568000,43.639782000000004,-79.397949,M5V 4B2,Dan Leckie Way
+"#1407 - 914 YONGE ST Toronto, ON",Midtown Toronto,415000,43.674103,-79.388809,M4W 3C8,Old Toronto
+"77 MCGILL ST Toronto, ON",Downtown,1299000,43.6604,-79.379234,M5B 1H3,Church Street
+"#307 - 20 BLUE JAYS WAY Toronto, ON",Downtown,650000,43.643845,-79.391823,M5V 3W6,Blue Jays Way
+"#902 - 150 EAST LIBERTY ST Toronto, ON",Liberty Village,388000,43.638775,-79.41626,M6K 3R5,Ontario
+"#511 - 44 GERRARD ST W Toronto, ON",Downtown,375000,43.658798,-79.384392,M5G 2K2,Bay Street
+"#Th6 - 6 PIRANDELLO ST Toronto, ON",King West Village,589900,43.63818,-79.413895,M6K 3P4,East Liberty Street
+"48 BALMORAL AVE Toronto, ON",Midtown Toronto,1399000,43.68544,-79.395966,M4V 1J4,Balmoral Avenue
+"148 BLYTHWOOD RD Toronto, ON",Midtown Toronto,2799000,43.717831,-79.395996,M4N 1A4,Blythwood Road
+"#432 - 231 FORT YORK BLVD Toronto, ON",Niagara,450000,43.636837,-79.406052,M5V 4A2,Fort York Boulevard
+"#N707 - 455 FRONT ST E Toronto, ON",Downtown,449900,43.652714,-79.3563,M5A 0J2,Diamond Jubilee Promenade
+"#711 - 2055 DANFORTH AVE Toronto, ON",East Danforth,397500,43.685455,-79.313133,M4C 1J8,Danforth Avenue
+"712 BROCK AVE Toronto, ON",Wallace Emerson,939000,43.661915,-79.439941,M6H 3P2,Brock Avenue
+"#319 - 900 MOUNT PLEASANT RD Toronto, ON",North Toronto,380000,43.711781,-79.39164,M4P 3J9,Mount Pleasant Road
+"#630 - 155 DALHOUSIE ST Toronto, ON",Downtown,565000,43.65765,-79.376762,M5B 2R2,Church Street
+"#915 - 50 WESTERN BATTERY RD Toronto, ON",Niagara,349000,43.639881,-79.414192,M6K 3P1,Western Battery Road
+"1004 126 Simcoe Street Toronto, ON",Entertainment District,573000,43.649025,-79.38713800000001,M5H 4E6,Simcoe Street
+"#804 - 210 SIMCOE ST Toronto, ON",Downtown,589000,43.652451,-79.388931,M5T 0A9,Michael Sweet Avenue
+"#202 - 8 MERCER ST Toronto, ON",Downtown,299000,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"#4001 - 38 GRENVILLE ST Toronto, ON",Downtown,599000,43.661896,-79.38575,M4Y 1A5,Ontario
+"#411 - 10 YONGE ST Toronto, ON",Downtown,739900,43.642464000000004,-79.375519,M5E 1R4,Yonge Street
+"#707 - 383 ELLIS PARK RD Toronto, ON",Swansea,1299900,43.652039,-79.470833,M6S 5B2,Ellis Park Road
+"#2111 - 290 ADELAIDE ST W Toronto, ON",Downtown,508000,43.647942,-79.390945,M5V 1P6,Adelaide Street West
+"#1807 - 58 ORCHARD VIEW BLVD Toronto, ON",Midtown Toronto,599000,43.708008,-79.400787,M4R 0A2,Orchard View Boulevard
+"4 A VIOLET AVE Toronto, ON",The Beach,2095000,43.668625,-79.296623,M4E 1B1,Violet Avenue
+"#702 - 500 SHERBOURNE ST Toronto, ON",Downtown,375000,43.667915,-79.375679,M4X 1L1,Sherbourne Street
+"#2115 - 763 BAY ST Toronto, ON",Downtown,339000,43.660103,-79.385086,M5G,Bay Street
+"#406 - 707 DOVERCOURT RD Toronto, ON",Dufferin Grove,379900,43.660225,-79.428726,M6H 2W7,Dovercourt Road
+"82 CHISHOLM AVE Toronto, ON",Woodbine - Lumsden,899900,43.690174,-79.304123,M4C 4V4,Chisholm Avenue
+"#616 - 6 PARKWOOD AVE Toronto, ON",Midtown Toronto,579000,43.685623,-79.409592,M4V 2W9,Parkwood Avenue
+"#414 - 22 LEADER LANE Toronto, ON",Downtown,579000,43.649246000000005,-79.375755,M5E 0B2,King Street East
+"#525 - 36 BLUE JAYS WAY Toronto, ON",Downtown,359900,43.644932,-79.392143,M5V 3T3,Blue Jays Way
+"6 GROVE AVE Toronto, ON",Trinity - Bellwoods,919000,43.647694,-79.42276,M6J 3B6,Grove Avenue
+"90 FAIRLEIGH CRES Toronto, ON",Midtown Toronto,1399000,43.70208,-79.437904,M6C 3R9,Fairleigh Crescent
+"40 MALLON AVE W Toronto, ON",Leslieville,859000,43.665805999999996,-79.33489200000001,M4M 1P8,Mallon Avenue
+"#603 - 215 FORT YORK BLVD Toronto, ON",Niagara,289000,43.636345,-79.404808,M5V 4A2,Angelique Street
+"#810 - 51 LOWER SIMCOE ST Toronto, ON",Entertainment District,560000,43.642208000000004,-79.383728,M5J 3A6,Lower Simcoe Street
+"#1231 - 38 GRAND MAGAZINE ST Toronto, ON",Niagara,309900,43.637035,-79.402863,M5V 0B2,Sloping Sky Mews
+"#407 - 105 THE QUEENSWAY AVE Toronto, ON",Swansea,269900,43.636173,-79.47075699999999,M6S 5B5,The Queensway
+"#2407 - 35 BALMUTO ST Toronto, ON",Downtown,425000,43.669456,-79.387474,M4Y 0A3,Balmuto Street
+"#609 - 222 THE ESPLANADE Toronto, ON",Downtown,395000,43.649731,-79.365303,M5A 4M8,The Esplanade
+"#2 B - 36 HAZELTON AVE Toronto, ON",Midtown Toronto,1399999,43.671864,-79.393814,M5R 2E2,Hazelton Avenue
+"#1315 - 150 EAST LIBERTY ST Toronto, ON",Liberty Village,375000,43.638775,-79.41626,M6K 3R5,Ontario
+"#3614 - 18 YONGE ST Toronto, ON",Downtown,420000,43.644455,-79.37653399999999,M5E 1Z8,Old Toronto
+"#703 - 1166 BAY ST Toronto, ON",Downtown,1525000,43.668617,-79.38943499999999,M5S 2B4,Bay Street
+"#910 - 75 EAST LIBERTY ST Toronto, ON",Liberty Village,379900,43.638306,-79.414787,M6K 0A2,Old Toronto
+"#2111 - 170 FORT YORK BLVD Toronto, ON",Downtown,449900,43.639343,-79.39984100000001,M5V 0E6,Ontario
+"#1203 - 159 DUNDAS ST E Toronto, ON",Downtown,374000,43.656807,-79.37509200000001,M5B 0A9,Old Toronto
+"1315 DANFORTH RD Toronto, ON",Eglinton East,699900,43.742371,-79.245285,M1J 1G2,Danforth Road
+"#39 - 17 PEMBROKE ST Toronto, ON",Downtown,500000,43.656715000000005,-79.37155899999999,M5A 2N6,Pembroke Street
+"#3010 - 2191 YONGE ST Toronto, ON",Davisville,415000,43.705597,-79.397453,M4S 3H8,Yonge Street
+"#728 - 2 OLD MILL DR Toronto, ON",Lambton Baby Point,404900,43.648071,-79.486664,M6S,Old Mill Drive
+"#211 - 2 OLD MILL DR Toronto, ON",Lambton Baby Point,514900,43.648071,-79.486664,M6S,Old Mill Drive
+"#902 - 2261 LAKE SHORE BLVD W Toronto, ON",Mimico,699995,43.62001,-79.483086,M8V 3X1,Etobicoke
+"#3005 - 2015 SHEPPARD AVE E Toronto, ON",Henry Farm,399000,43.775208,-79.336426,M2J 0A8,Sheppard Avenue East
+"#1606 - 19 SINGER CRT Toronto, ON",Bayview Village,349900,43.769569,-79.369514,M2K 1C5,Singer Court
+"129 WATSON AVE Toronto, ON",Lambton,959000,43.664501,-79.492035,M6S 4E3,Watson Avenue
+"154 DUNBLAINE AVE Toronto, ON",Nortown,2698000,43.734093,-79.42907,M5M 2S3,Dunblaine Avenue
+"24 CORONATION DR Toronto, ON",West Hill,669000,43.760899,-79.191841,M1E 2H1,Coronation Drive
+"#210 - 165 CHEROKEE BLVD Toronto, ON",Pleasant View,385000,43.792374,-79.33669300000001,M2J 4T7,Cherokee Boulevard
+"#5 - 175 TORYORK DR Toronto, ON",Humber Summit,312900,43.757954,-79.557304,M9L 2Y7,North York
+"#905 - 120 HARRISON GARDEN BLVD Toronto, ON",Willowdale,399000,43.757988,-79.403625,M2N 0H1,Harrison Garden Boulevard
+"93 DAIRY DR Toronto, ON",Scarborough Junction,678000,43.701309,-79.27533000000001,M1L 0G1,Dairy Drive
+"#2010 - 100 MORNELLE CRT Toronto, ON",Morningside,255999,43.786823,-79.19548,M1E 4X2,Mornelle Court
+"195 GILTSPUR DR Toronto, ON",Downsview,619900,43.738079,-79.50128199999999,M3L 1N4,Giltspur Drive
+"#1016 - 55 DE BOERS DR Toronto, ON",Toronto,352500,43.75103,-79.465858,M3J 0G5,De Boers Drive
+"#2308 - 2000 ISLINGTON AVE Toronto, ON",Kingsview Village,479900,43.697365000000005,-79.546089,M9P 3T5,Dixon Road
+"#13 - 1415 KENNEDY RD Toronto, ON",Dorset Park,688888,43.764812,-79.280273,M1P 2L6,Scarborough
+"3 JASMINE RD Toronto, ON",Humberlea,599000,43.721088,-79.538445,M9M 2P8,Weston Road
+"#809 - 40 PANORAMA CRT Toronto, ON",Rexdale,59500,43.747585,-79.579842,M9V 4M1,Panorama Court
+"35 MAGNOLIA AVE Toronto, ON",Kennedy Park,749000,43.720936,-79.254662,M1K 3K3,Harmony Avenue
+"#513 - 4200 BATHURST ST Toronto, ON",Wilson Heights,294000,43.749321,-79.437149,M3H 6C7,North York
+"#25 - 21 REPLIN RD Toronto, ON",Lawrence Heights,575000,43.717735,-79.44203900000001,M6A 2M8,North York
+"198 GLENDORA AVE Toronto, ON",Willowdale,1528000,43.761971,-79.397667,M2N 2W5,Anndale Drive
+"53 ASPENWOOD DR Toronto, ON",Hillcrest Village,2000000,43.807964,-79.366913,M2H 2E8,Aspenwood Drive
+"627 CALEDONIA RD Toronto, ON",Briar Hill - Belgravia,650000,43.694396999999995,-79.462372,M6E 4V7,Caledonia Road
+"#903 - 335 MILL RD Toronto, ON",Eringate - Centennial - West Deane,259900,43.639858000000004,-79.584564,M9C 1Y6,Mill Road
+"#730 - 2885 BAYVIEW AVE Toronto, ON",Bayview Village,524888,43.767936999999996,-79.387955,M2K 0A3,Bayview Avenue
+"124 GREENWICH SQ Toronto, ON",Eglinton East,699800,43.743881,-79.231148,M1J 3L3,Greenwich Square
+"#2813 - 181 VILLAGE GREEN SQ Toronto, ON",Agincourt,293900,43.779205,-79.28151700000001,M1S 0K5,Village Green Square
+"117 VEROBEACH BLVD Toronto, ON",Emery,699800,43.736176,-79.544945,M9M 1P8,Verobeach Boulevard
+"43 JOHN CABOT WAY Toronto, ON",Jane and Finch,399900,43.738815,-79.51902,M3N 2T5,John Cabot Way
+"#821 - 165 LEGION RD N Toronto, ON",Mimico,314900,43.624207,-79.488228,M8Y 0B3,Legion Road North
+"63 JARWICK DR Toronto, ON",Bendale,639000,43.764198,-79.241608,M1H 2H1,Chatsmere Place
+"22 MOSSBROOK CRES Toronto, ON",L'Amoreaux,699000,43.809433,-79.32437900000001,M1W 2W9,Mossbrook Crescent
+"92 FRANK RIVERS DR Toronto, ON",Steeles,699900,43.818989,-79.32539399999999,M1W 3N4,Frank Rivers Drive
+"90 CRITTENDEN SQ Toronto, ON",Malvern,549000,43.81366,-79.234749,M1B 1V1,Ontario
+"#1304 - 2 ANNDALE DR Toronto, ON",Willowdale,418888,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"45 MILLENNIUM DR Toronto, ON",Brookhaven - Amesbury,599900,43.695271000000005,-79.497498,M6M 5K5,Millennium Drive
+"6 WOODY VINEWAY WAY Toronto, ON",Bayview Village,529000,43.788269,-79.368301,M2J,Woody Vine Way
+"84 MUIRHEAD RD Toronto, ON",Pleasant View,599000,43.780949,-79.339569,M2J 3W4,Muirhead Road
+"#1101 - 335 MILL RD Toronto, ON",Eringate - Centennial - West Deane,419900,43.639858000000004,-79.584564,M9C 1Y6,Mill Road
+"#2611 - 88 CORPORATE DR Toronto, ON",Woburn,355000,43.780956,-79.249779,M1H 3G6,Scarborough
+"114 MEIGHEN AVE Toronto, ON",Woodbine Gardens,665000,43.703903000000004,-79.295723,M4B 2H7,Meighen Avenue
+"821 B OXFORD ST Toronto, ON",Mimico,778900,43.621113,-79.507195,M8Z 6C6,Oxford Street
+"132 ELVASTON DR Toronto, ON",Victoria Village,1388800,43.728958,-79.315933,M4A 1N6,Elvaston Drive
+"#2102 - 155 BEECROFT RD Toronto, ON",Willowdale,299000,43.765537,-79.413155,M2N 7C5,Beecroft Road
+"#1010 - 3043 FINCH WEST AVE Toronto, ON",Emery,309000,43.747166,-79.564651,M9M 0A6,North York
+"571 CUMMER AVE Toronto, ON",Newtonbrook,1599000,43.793625,-79.387253,M2K 2M5,Cummer Avenue
+"31 VESSEL CRES Toronto, ON",Port Union,756900,43.777721,-79.137276,M1C 5K7,Vessel Crescent
+"#109 - 165 CHEROKEE BLVD Toronto, ON",Pleasant View,372000,43.792374,-79.33669300000001,M2J 4T7,Cherokee Boulevard
+"37 GEMINI RD Toronto, ON",Bayview Woods - Steeles,1369000,43.788219,-79.388046,M2K 2G7,Gemini Road
+"7 OVIDA AVE Toronto, ON",Eatonville,1569000,43.635109,-79.543159,M9B 1E2,Ovida Avenue
+"#E 508 - 555 WILSON AVE Toronto, ON",Wilson Heights,319900,43.734035,-79.447968,M3H 0C6,Wilson Avenue
+"#49 - 49 HENDON AVE Toronto, ON",Newtonbrook,520000,43.780727,-79.41999100000001,M2M 1A4,Hendon Avenue
+"#1008 - 5 NORTHTOWN WAY Toronto, ON",Willowdale,335000,43.774994,-79.413467,M2N 7A1,Northtown Way
+"#2504 - 2220 LAKE SHORE BLVD W Toronto, ON",Mimico,425000,43.62273,-79.483192,M8V 0C1,Lake Shore Boulevard West
+"#108 - 275 BAMBURGH CIRC Toronto, ON",Steeles,381000,43.81361,-79.32341,M1W 3X4,Bamburgh Circle
+"#1202 - 185 BONIS AVE Toronto, ON",Tam O'Shanter,338000,43.785804999999996,-79.292114,M1T 3W6,Bonis Avenue
+"#2208 - 100 ANTIBES DR Toronto, ON",Newtonbrook,299000,43.780666,-79.44633499999999,M2R 3N1,Antibes Drive
+"#509 - 525 WILSON AVE Toronto, ON",Wilson Heights,339900,43.734478,-79.446472,M3H 1V1,North York
+"80 HEPSCOTT TERR Toronto, ON",L'Amoreaux,799000,43.793324,-79.327263,M1W 1E1,Hepscott Terrace
+"#27 - 242 JOHN GARLAND BLVD Toronto, ON",Rexdale,200000,43.733540000000005,-79.592949,M9V 1N8,John Garland Boulevard
+"7 LANDOUR AVE Toronto, ON",Silverthorn,829000,43.687645,-79.477287,M6M 4J3,Landour Avenue
+"4937 DUNDAS ST W Toronto, ON",Islington,54900,43.648006,-79.529228,M9A 1B6,Dundas Street West
+"90 GLEN PARK AVE Toronto, ON",Midtown Toronto,1395000,43.711784,-79.43515,M6B 2C3,Glen Park Avenue
+"#1210 - 275 BAMBURGH CIRC Toronto, ON",Steeles,269000,43.81361,-79.32341,M1W 3X4,Bamburgh Circle
+"225 ATLAS AVE Toronto, ON",Midtown Toronto,1420000,43.688213,-79.433723,M6C 3P6,Atlas Avenue
+"108 AYLESWORTH AVE Toronto, ON",Birch Cliff,455000,43.701328000000004,-79.264549,M1N 2J6,Aylesworth Avenue
+"567 MELROSE AVE Toronto, ON",Nortown,2388000,43.727737,-79.42942,M5M 2A4,Melrose Avenue
+"55 LAURIE SHEPWAY WAY Toronto, ON",Don Valley Village,669000,43.773926,-79.361595,M2J 1X6,Laurie Shepway
+"33 PUMA DR Toronto, ON",L'Amoreaux,599000,43.802258,-79.29860699999999,M1V 1J7,Puma Drive
+"#155 - 68 DRIFTWOOD AVE Toronto, ON",Jane and Finch,239900,43.753849,-79.513535,M3N 2M5,Driftwood Avenue
+"17 WHITBREAD CRES Toronto, ON",Jane and Finch,575000,43.74192,-79.509659,M3L 2A8,Whitbread Crescent
+"36 CASTLEBAR RD Toronto, ON",The Queensway,849500,43.631695,-79.510124,M8Z 2J6,Uno Drive
+"92 BLANTYRE AVE Toronto, ON",Birch Cliff,2348900,43.678131,-79.280182,M1N 2R5,Blantyre Avenue
+"#302 - 801 SHEPPARD AVE W Toronto, ON",Wilson Heights,318000,43.752891999999996,-79.449783,M3H 2T3,Sheppard Avenue West
+"#601 - 1888 BAYVIEW AVE Toronto, ON",Midtown Toronto,1148000,43.717461,-79.37886,M4N 3J5,Old Toronto
+"#2308 - 88 SHEPPARD AVE E Toronto, ON",Willowdale,399800,43.763969,-79.407013,M2N 0G9,Sheppard Avenue East
+"#827 - 2 EVA RD Toronto, ON",Eatonville,274900,43.639694,-79.563148,M9C 4Z5,Eva Road
+"#711 - 125 PETER ST Toronto, ON",Downtown,401900,43.648296,-79.39295200000001,M5V 0M3,Peter Street
+"#1702 - 210 SIMCOE ST Toronto, ON",Downtown,388800,43.652451,-79.388931,M5T 0A9,Michael Sweet Avenue
+"63 COUNCIL CRES Toronto, ON",Jane and Finch,599900,43.759514,-79.491844,M3J 1J5,Council Crescent
+"#1508 - 121 MCMAHON DR Toronto, ON",Bayview Village,478000,43.767746,-79.370918,M2K 1C2,McMahon Drive
+"#738 - 650 LAWRENCE AVE W Toronto, ON",Lawrence Heights,357000,43.717121,-79.441757,M6A 3E8,Lawrence Avenue West
+"#3501 - 70 TEMPERANCE ST Toronto, ON",Downtown,593900,43.650372,-79.382347,M5H 3V5,Sheppard Street
+"#108 - 525 WILSON AVE Toronto, ON",Wilson Heights,455000,43.734478,-79.446472,M3H 1V1,North York
+"#1902 - 35 HOLLYWOOD AVE Toronto, ON",Willowdale,399000,43.765842,-79.410057,M2N 0A9,Ontario
+"#1414 - 85 BLOOR ST E Toronto, ON",Downtown,419000,43.670372,-79.384468,M4W 3G9,Bloor Street East
+"#2607 - 2200 LAKESHORE BLVD Toronto, ON",Mimico,437888,43.622883,-79.481972,M8V 1A4,Lake Shore Boulevard West
+"#1207 - 2550 LAWRENCE AVE E Toronto, ON",Dorset Park,229000,43.751743,-79.266388,M1P 4Z3,Lawrence Avenue East
+"#207 - 55 ANN O&#39;REILLY RD Toronto, ON",Port Hope,497250,43.960762,-78.323914,L1A 3V5,Toronto Road
+"#111 - 215 FORT YORK BLVD Toronto, ON",Niagara,303400,43.636345,-79.404808,M5V 4A2,Angelique Street
+"#3511 - 14 YORK ST Toronto, ON",Downtown,299999,43.641788,-79.381874,M5J 0B1,York Street
+"25 DELABO DR Toronto, ON",York University Heights,779000,43.765240000000006,-79.502808,M3J 3S5,Delabo Drive
+"#5014 - 70 TEMPERANCE ST Toronto, ON",Downtown,419900,43.650372,-79.382347,M5H 3V5,Sheppard Street
+"#3105 - 33 SINGER CRT Toronto, ON",Bayview Village,475000,43.769611,-79.368416,M2K 0B4,Singer Court
+"#602 - 11 BOGERT AVE Toronto, ON",Lansing,589000,43.760517,-79.411743,M2N 0H3,Sheppard Avenue West
+"9 ANTELOPE DR Toronto, ON",Rouge,899900,43.808025,-79.189018,M1B 6K4,Antelope Drive
+"278 BETTY ANN DR N Toronto, ON",Willowdale,2498000,43.765755,-79.433098,M2R 1A8,Betty Ann Drive
+"#711 - 6 EVA RD Toronto, ON",Eatonville,289900,43.640301,-79.562302,M9C 0A9,Etobicoke
+"#3103 - 28 TED ROGERS WAY Toronto, ON",Downtown,378000,43.670547,-79.380585,M4Y 2J4,Toronto
+"#2702 - 101 CHARLES ST E Toronto, ON",Downtown,559800,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"#Th 40 - 31 CONEFLOWER CRES Toronto, ON",Newtonbrook,688000,43.778427,-79.45053100000001,M2R 0A5,Coneflower Crescent
+"#2316 - 700 HUMBERWOOD BLVD Toronto, ON",Rexdale,239900,43.724765999999995,-79.616486,M9W 7J4,Humberwood Boulevard
+"#1905 - 17 Anndale Dr Toronto, ON",Willowdale,568000,43.760135999999996,-79.40789000000001,M2N 2W7,Anndale Drive
+"#305 - 39 Shank St Toronto, ON",King West Village,636000,43.642071,-79.41458100000001,M6J 3X3,Shank Street
+"9 Andrew Ave Toronto, ON",Cliffcrest,599000,43.721256,-79.24503299999999,M1M 3G9,Andrew Avenue
+"#1815 - 150 Sudbury St Toronto, ON",Little Portugal,330000,43.641529,-79.424118,M6J 3S8,Sudbury Street
+"23 Kenton Dr Toronto, ON",Newtonbrook,949900,43.778614000000005,-79.441551,M2R 2H8,Kenton Drive
+"#402 - 1250 Bridletowne Circ Toronto, ON",Bridlewood,229900,43.794464000000005,-79.312782,M1W 2V1,Stonehill Court
+"#302 - 28 Empress Ave Toronto, ON",Willowdale,427900,43.769981,-79.411751,M2N 6Z7,Empress Avenue
+"#514 - 25 Laidlaw St Toronto, ON",Toronto,749000,43.640353999999995,-79.426109,M6K 1X3,Old Toronto
+"255 Blythwood Rd Toronto, ON",Midtown Toronto,1750000,43.718014000000004,-79.392662,M4N 1A7,Blythwood Road
+"#320 - 801 KING ST W Toronto, ON",Niagara,299900,43.642792,-79.407196,M5V 3C9,Old Toronto
+"69 GILBERT AVE Toronto, ON",Earlscourt,625000,43.679153,-79.457504,M6E 4W2,Gilbert Avenue
+"#554 - 313 RICHMOND ST E Toronto, ON",Old Town,320000,43.653194,-79.36863699999999,M5A 4S8,Richmond Street East
+"359 ASHDALE AVE Toronto, ON",Leslieville,599900,43.674438,-79.322563,M4L 2Z1,Ashdale Avenue
+"#Th 2 - 68 CARR ST Toronto, ON",Downtown,519900,43.649609000000005,-79.403625,M5T 1B7,Carr Street
+"7 HARRISON ST Toronto, ON",Little Italy,1098000,43.651443,-79.418373,M6J 1Z7,Shaw Street
+"#Ph06 - 21 GRENVILLE ST Toronto, ON",Downtown,479000,43.661792999999996,-79.384506,M4Y 0B9,Grenville Street
+"482 SPADINA RD Toronto, ON",Midtown Toronto,2495000,43.692696000000005,-79.414703,M5P 2W8,Old Toronto
+"#419 - 68 BROADVIEW AVE Toronto, ON",Riverdale,539000,43.657416999999995,-79.349815,M4M 2E6,Broadview Avenue
+"785 EASTERN AVE Toronto, ON",Leslieville,699000,43.66098,-79.330055,M4M 1E9,Eastern Avenue
+"152 MEDLAND ST Toronto, ON",High Park North,995000,43.662804,-79.465935,M6P 2N5,Medland Street
+"162 ROSEMOUNT Avenue Toronto, ON",Earlscourt,789000,43.676144,-79.443947,M6H 2M9,Rosemount Avenue
+"#Ph62 - 313 RICHMOND ST E Toronto, ON",Old Town,369900,43.653194,-79.36863699999999,M5A 4S8,Richmond Street East
+"737 AVENUE RD Toronto, ON",Midtown Toronto,2399900,43.696071999999994,-79.40477,M5P 2J9,Avenue Road
+"17 BRAD ST Toronto, ON",High Park North,749900,43.663395,-79.45800799999999,M6P 1M9,Dundas Street West
+"51 BELLEVILLE ST Toronto, ON",Upper Beaches,799900,43.686946999999996,-79.290451,M4E 3X9,Belleville Street
+"283 SNOWDON AVE Toronto, ON",North Toronto,1480000,43.733105,-79.39321899999999,M4N 2B4,Snowdon Avenue
+"18 NATALIE PL Toronto, ON",Leslieville,799000,43.66235,-79.342567,M4M 3P7,Natalie Place
+"#808 - 110 BLOOR ST W Toronto, ON",Midtown Toronto,1099000,43.669445,-79.39225,M5S 2W7,Bloor Street West
+"80 NEWMARKET AVE Toronto, ON",Woodbine - Lumsden,899900,43.68996,-79.304413,M4C 1W1,Newmarket Avenue
+"34 AUSTIN TERR Toronto, ON",Midtown Toronto,2629000,43.678748999999996,-79.414062,M5R 1Y5,Wells Hill Avenue
+"#2010 - 151 VILLAGE GREEN SQ Toronto, ON",Agincourt,249888,43.778614000000005,-79.281258,M1S 0K5,Village Green Square
+"97 CULTRA SQ Toronto, ON",West Hill,599900,43.758068,-79.191078,M1E 2E1,Waldock Street
+"1 PEGASUS TR Toronto, ON",Woburn,649000,43.779556,-79.225761,M1G 3N3,Dormington Drive
+"175 FLORENCE AVE Toronto, ON",Lansing,1288000,43.756256,-79.41838800000001,M2N 1G5,Florence Avenue
+"6 ALBA PL Toronto, ON",Rexdale,549900,43.731327,-79.60414899999999,M9W 6G6,Alba Place
+"210 RORY RD Toronto, ON",Maple Leaf,599900,43.720924,-79.483597,M6L 3E7,North York
+"7 LEHAR CRES Toronto, ON",Hillcrest Village,950000,43.793015000000004,-79.361977,M2H 1T6,Lehar Crescent
+"124 ASHBOURNE DR Toronto, ON",Eatonville,929000,43.648678000000004,-79.54588299999999,M9B 4H8,Ashbourne Drive
+"79 CHAPMAN AVE Toronto, ON",Woodbine Gardens,679900,43.700798,-79.297798,M4B 1C6,Chapman Avenue
+"52 FERNANDO RD Toronto, ON",Emery,579900,43.745102,-79.539406,M9M 2P6,Fernando Road
+"42 PARADE SQ Toronto, ON",Highland Creek,734900,43.791893,-79.180328,M1C 3T6,Parade Square
+"103 FISHERY RD Toronto, ON",Highland Creek,699900,43.790642,-79.176041,M1C 4H5,Fishery Road
+"#1721 - 5 SHEPPARD AVE E Toronto, ON",Willowdale,419800,43.761501,-79.409882,M2N 0C8,North York
+"#P1 -01 - 10 BLOORVIEW PL Toronto, ON",Don Valley Village,798000,43.773495000000004,-79.358963,M2J 0B1,Bloorview Place
+"#32 - 83 IRWIN RD Toronto, ON",Rexdale,349900,43.724998,-79.559105,M9W 2P8,Irwin Road
+"207 ENNERDALE RD Toronto, ON",Fairbank,1149000,43.693851,-79.452827,M6E 4E1,Ennerdale Road
+"#1614 - 390 DIXON RD Toronto, ON",Kingsview Village,225000,43.695709,-79.557632,M9R 4B9,Dixon Road
+"#408 - 3845 LAKE SHORE BLVD W Toronto, ON",Long Branch,349000,43.590603,-79.544258,M8W 4Y3,Lake Shore Boulevard West
+"49 THIRTY SEVENTH ST Toronto, ON",Long Branch,1659888,43.591671000000005,-79.53720899999999,M8W 3L7,Thirty Seventh Street
+"103 BAMFORD CRES Toronto, ON",Jane and Finch,647500,43.769268,-79.526489,M3N 1T8,Bamford Crescent
+"#1809 - 265 RIDLEY BLVD Toronto, ON",Nortown,595000,43.739478999999996,-79.42408,M5M 4N8,Old Toronto
+"17 A HOBDEN PL Toronto, ON",Richview,519000,43.684471,-79.565704,M9R 1H7,Hobden Place
+"39 COBALT ST Toronto, ON",Mount Dennis,499000,43.692429,-79.498917,M6M 2K1,Nickle Street
+"22 TOULON RD Toronto, ON",Woburn,599999,43.761688,-79.221779,M1G 1V5,Toulon Road
+"11 ELLINGTON DR Toronto, ON",Wexford,649000,43.747566,-79.290649,M1R 3X6,Ellington Drive
+"137 CONN SMYTHE DR Toronto, ON",Scarborough Village,479000,43.743988,-79.223457,M1J 3P6,Conn Smythe Drive
+"41 ARCHIBALD MEWS Toronto, ON",Bendale,649900,43.753349,-79.264595,M1P 0A5,Archibald Mews
+"20 HEAVITREE DR Toronto, ON",Downsview,519000,43.726231,-79.514557,M3L 1K6,Heavitree Drive
+"1 B BOWSPRIT AVE Toronto, ON",Humber Heights - Westmount,699000,43.697193,-79.52858,M9P 2A5,Lawrence Avenue West
+"33 MUNRO BLVD Toronto, ON",St. Andrew - Windfields,2498000,43.745895000000004,-79.39791899999999,M2P 1C1,Munro Boulevard
+"30 BUSHEY AVE Toronto, ON",Rockcliffe - Smythe,560000,43.6833,-79.484657,M6N 2R3,Bushey Avenue
+"#17 - 671 HUNTINGWOOD DR Toronto, ON",Tam O'Shanter,499900,43.7897,-79.30526,M1W 1H6,Huntingwood Drive
+"#335 - 4750 YONGE ST Toronto, ON",Toronto,299000,43.761047,-79.410904,L4C 0M5,Sheppard Avenue East
+"#279 - 209 FORT YORK BLVD Toronto, ON",Niagara,539900,43.636963,-79.404671,M5V 4A1,Gzowski Boulevard
+"#1007 - 32 DAVENPORT RD Toronto, ON",Midtown Toronto,899000,43.673171999999994,-79.389687,M5R 0B5,Davenport Road
+"#6802 - 10 YORK ST Toronto, ON",Downtown,2340000,43.641247,-79.380821,M5J 1B7,York Street
+"#605 - 18 HOLMES AVE Toronto, ON",Willowdale,457000,43.778434999999995,-79.41333,M2N 0E1,Holmes Avenue
+"#1908 - 23 LORRAINE DR Toronto, ON",Willowdale,419900,43.778015,-79.416656,M2N 6Z6,Lorraine Drive
+"#1904 - 1 MARKET ST Toronto, ON",Downtown,695000,43.646873,-79.371078,M5E 1N1,Market Street
+"#18 - 385 The East Mall Toronto, ON",Islington - City Centre West,589900,43.645439,-79.558334,M9B 6C6,Cantle Path
+"#514 - 1403 Royal York Rd Toronto, ON",Humber Heights - Westmount,439900,43.682999,-79.525726,M9P 0A1,Eglinton Avenue West
+"#2303 - 820 Burnhamthorpe Rd Rd Toronto, ON",Markland Wood,415900,43.639656,-79.58270999999999,M9C 4W2,Burnhamthorpe Road
+"#904 - 1 Valhalla Inn Rd Toronto, ON",Islington - City Centre West,345000,43.640285,-79.559464,M9B 1S9,Valhalla Inn Road
+"#2106 - 1 Valhalla Inn Rd Toronto, ON",Islington - City Centre West,289900,43.640285,-79.559464,M9B 1S9,Valhalla Inn Road
+"#708 - 7 Michael Power Pl Toronto, ON",Islington - City Centre West,359900,43.644325,-79.529732,M9A 0A4,Michael Power Place
+"#906 - 235 Sherway Gardens Rd Toronto, ON",Islington - City Centre West,389900,43.609261,-79.558998,M9C 0A2,Sherway Gardens Road
+"#801 - 627 The West Mall Dr Toronto, ON",Eringate - Centennial - West Deane,344888,43.655231,-79.570572,M9C 4X5,The West Mall
+"#3 - 15 Valhalla Inn Rd Toronto, ON",Islington - City Centre West,549900,43.640156,-79.558861,M9B 0B3,Valhalla Inn Road
+"#2408 - 235 Sherway Gardens Rd Toronto, ON",Islington - City Centre West,309900,43.609261,-79.558998,M9C 0A2,Sherway Gardens Road
+"#1520 - 100 Harrison Garden Blvd Toronto, ON",Willowdale,449800,43.757233,-79.404686,M2N 2T2,Harrison Garden Boulevard
+"#1217 - 155 YORKVILLE AVE Toronto, ON",Midtown Toronto,529000,43.670319,-79.394432,M5R 1C4,Yorkville Avenue
+"#705 - 100 WESTERN BATTERY RD Toronto, ON",Niagara,389900,43.63966,-79.41577099999999,M6K 3S2,Western Battery Road
+"#1102 - 100 WESTERN BATTERY RD Toronto, ON",Niagara,379900,43.63966,-79.41577099999999,M6K 3S2,Western Battery Road
+"#603 - 141 ROEHAMPTON AVE Toronto, ON",Midtown Toronto,789800,43.708694,-79.394318,M4P 1P9,Roehampton Avenue
+"#1205 - 8 THE ESPLANADE AVE Toronto, ON",Downtown,989000,43.64613,-79.375778,M5E 0A6,Old Toronto
+"#1611 - 125 WESTERN BATTERY RD Toronto, ON",Niagara,449900,43.639946,-79.416664,M6K 3R8,Western Battery Road
+"#225 - 380 MACPHERSON AVE Toronto, ON",Midtown Toronto,359000,43.676369,-79.405739,M4V 3E4,Macpherson Avenue
+"#415 - 707 DOVERCOURT RD Toronto, ON",Dufferin Grove,259000,43.660225,-79.428726,M6H 2W7,Dovercourt Road
+"#314 - 101 ERSKINE AVE Toronto, ON",Mount Pleasant West,467000,43.711609,-79.3955,M4P 1Y5,Erskine Avenue
+"#1105 - 500 ST CLAIR AVE W Toronto, ON",Midtown Toronto,599900,43.683372,-79.418686,M6C 1A8,Saint Clair Avenue West
+"#208 - 9 SPADINA AVE Toronto, ON",Entertainment District,329900,43.640246999999995,-79.392395,M5V 3V5,Old Toronto
+"#506 - 9 SPADINA AVE Toronto, ON",Entertainment District,318000,43.640246999999995,-79.392395,M5V 3V5,Old Toronto
+"#3011 - 155 YORKVILLE AVE Toronto, ON",Midtown Toronto,444900,43.670319,-79.394432,M5R 1C4,Yorkville Avenue
+"#811 - 1 MICHAEL POWER PL Toronto, ON",Islington - City Centre West,420000,43.643925,-79.528885,M9A 0A3,Michael Power Place
+"#Ph602 - 25 EARLINGTON AVE Toronto, ON",The Kingsway,649900,43.661209,-79.508301,M8X 3A3,Earlington Avenue
+"#1406 - 551 THE WEST MALL RD Toronto, ON",Etobicoke West Mall,299000,43.651909,-79.569687,M9C 1G7,The West Mall
+"#104 - 50 SCARBOROUGH GOLF CLUB RD Toronto, ON",Scarborough Village,249900,43.744296999999996,-79.209541,M1M 3T5,Scarborough Golf Club Road
+"#1409 - 10 PARKWAY FOREST DR Toronto, ON",Henry Farm,285000,43.769733,-79.34548199999999,M2J 1L3,Forest Manor Road
+"#3108 - 3303 DON MILLS RD Toronto, ON",Don Valley Village,549000,43.791603,-79.354248,M2J 4T6,Don Mills Road
+"#1405 - 100 HARRISON GARDEN BLVD Toronto, ON",Willowdale,400900,43.757233,-79.404686,M2N 2T2,Harrison Garden Boulevard
+"#606 - 96 FIFESHIRE RD Toronto, ON",St. Andrew - Windfields,529900,43.76083,-79.38720699999999,M2L 2X9,Fifeshire Road
+"#3 - 80 BELL ESTATE RD E Toronto, ON",Clairlea - Birchmount,779000,43.705589,-79.275879,M1L 0E2,Bell Estate Road
+"#801 - 18 WILLIAM CARSON CRES Toronto, ON",York Mills,354000,43.749531,-79.407188,M2P 2A9,William Carson Crescent
+"#1509 - 2111 LAKE SHORE BLVD W Toronto, ON",Mimico,545000,43.628983000000005,-79.477852,M8V 4B2,Lake Shore Boulevard West
+"#2324 - 135 VILLAGE GREEN SQ Toronto, ON",Agincourt,378000,43.777565,-79.281006,M1S 0G4,Village Green Square
+"#907 - 151 VILLAGE GREEN SQ Toronto, ON",Agincourt,383000,43.778614000000005,-79.281258,M1S 0K5,Village Green Square
+"#1511 - 30 HARRISON GARDEN BLVD Toronto, ON",Willowdale,269900,43.756371,-79.408394,M2N 7A9,Harrison Garden Boulevard
+"#2305 - 820 BURNHAMTHORPE RD Toronto, ON",Markland Wood,424000,43.639656,-79.58270999999999,M9C 4W2,Burnhamthorpe Road
+"#Block - 6443 KINGSTON RD Toronto, ON",Highland Creek,1174900,43.791302,-79.158119,M1C 1L2,Kingston Road
+"#2007 - 16 BROOKERS LANE Toronto, ON",Humber Bay Shores,679900,43.626965000000006,-79.47848499999999,M8V 0A5,Brookers Lane
+"#1505 - 133 TORRESDALE AVE Toronto, ON",Newtonbrook,354990,43.778614000000005,-79.452042,M2R 3T2,North York
+"#308 - 28 HARRISON GARDEN BLVD Toronto, ON",Willowdale,368800,43.756668,-79.40862299999999,M2N 7A9,Harrison Garden Boulevard
+"#2009 - 5 VALHALLA INN RD Toronto, ON",Islington - City Centre West,259999,43.640293,-79.559761,M9B 1S9,Valhalla Inn Road
+"#1109 - 5 SHADY GOLFWAY GLWY Toronto, ON",Toronto,309900,43.653225,-79.383186,M5G 1P5,Kennedy Avenue
+"#808 - 3380 EGLINTON AVE E Toronto, ON",Scarborough Village,209900,43.744811999999996,-79.214561,M1J 3L6,Eglinton Avenue East
+"#1801 - 16 BROOKERS LANE Toronto, ON",Humber Bay Shores,279999,43.626965000000006,-79.47848499999999,M8V 0A5,Brookers Lane
+"235 Sherway Gardens Road Toronto, ON",Islington - City Centre West,309900,43.609261,-79.558998,M9C 0A2,Sherway Gardens Road
+"#710 - 100 HARRISON GARDEN BLVD Toronto, ON",Willowdale,399900,43.757233,-79.404686,M2N 2T2,Harrison Garden Boulevard
+"#1534 - 120 HARRISON GARDEN BLVD Toronto, ON",Willowdale,444000,43.757988,-79.403625,M2N 0H1,Harrison Garden Boulevard
+"#72 - 3 CENTENNIAL PARK RD Toronto, ON",Eringate - Centennial - West Deane,374900,43.651314,-79.58139,M9C 4W8,Rathburn Road
+"#1508 - 50 BRIAN HARRISON WAY Toronto, ON",Bendale,286000,43.773582,-79.25891899999999,M1P 5J4,Ontario
+"#2402 - 2220 LAKE SHORE BLVD W Toronto, ON",Mimico,409900,43.62273,-79.483192,M8V 0C1,Lake Shore Boulevard West
+"#1109 - 40 BAY MILLS BLVD Toronto, ON",Tam O'Shanter,228000,43.780746,-79.30529,M1T 3P5,Bay Mills Boulevard
+"#120 - 50 SCARBOROUGH GOLF CLUB RD Toronto, ON",Scarborough Village,299900,43.744296999999996,-79.209541,M1M 3T5,Scarborough Golf Club Road
+"#2402 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,550000,43.774895,-79.345955,M2J 1G2,Forest Manor Road
+"#808 - 2 COVINGTON RD Toronto, ON",Englemount - Lawrence,539000,43.721115000000005,-79.430847,M6A 3E2,North York
+"#209 - 2240 LAKE SHORE BLVD W Toronto, ON",Mimico,269900,43.621063,-79.483322,M8V 0B1,Lake Shore Boulevard West
+"#523 - 650 SHEPPARD AVE E Toronto, ON",Bayview Village,324800,43.768475,-79.38160699999999,M2K 1B7,Sheppard Avenue East
+"#3107 -3- 4438 SHEPPARD AVE E Toronto, ON",Agincourt,970000,43.788311,-79.26808199999999,M1S 1V2,Sheppard Avenue East
+"#1506 A - 710 HUMBERWOOD BLVD Toronto, ON",Rexdale,289900,43.724556,-79.616455,M9W 7J4,Humberwood Boulevard
+"#Ph01 - 1070 SHEPPARD AVE W Toronto, ON",York University Heights,519000,43.750637,-79.465103,M3J 0G7,Sheppard Avenue West
+"#Lph05 - 797 DON MILLS RD Toronto, ON",Flemingdon Park,354000,43.719494,-79.337746,M3C 1V1,Ontario
+"#2004 - 4101 SHEPPARD AVE E Toronto, ON",Agincourt,268000,43.78344,-79.283562,M1S 3H3,Sheppard Avenue East
+"#301 - 60 PAVANE LINKWAY WAY Toronto, ON",Flemingdon Park,299900,43.711529,-79.32289899999999,M3C 1A1,Pavane Linkway
+"#15 - 2112 Queen St Toronto, ON",The Beach,569000,43.671459000000006,-79.295059,M4E 1E2,Queen Street East
+"1 Currie Ave Toronto, ON",East Danforth,689900,43.68047,-79.321823,M4C 1C3,Hanson Street
+"#3010 - 12 York St Toronto, ON",Downtown,499000,43.641632,-79.38205,M5J 2T8,Old Toronto
+"80 Martindale Rd Toronto, ON",Cliffcrest,699900,43.734875,-79.22728000000001,M1M 2C1,Martindale Road
+"61 Rory Rd Toronto, ON",Maple Leaf,799000,43.720276,-79.48490100000001,M6L 3E9,Rory Road
+"26 Angora St Toronto, ON",Woburn,525000,43.758507,-79.21279100000001,M1G 1L6,Angora Street
+"35 Strathcona Ave Toronto, ON",Riverdale,899000,43.675503000000006,-79.34429200000001,M4K 1K6,Strathcona Avenue
+"39 Belleville St Toronto, ON",Upper Beaches,899900,43.686844,-79.29077099999999,M4E 3X9,Belleville Street
+"#92 - 100 Burrows Hall Blvd Toronto, ON",Malvern,379900,43.792198,-79.232147,M1B 1Z7,Burrows Hall Boulevard
+"592 The Queensway Toronto, ON",The Queensway,649900,43.628426,-79.49398000000001,M8Y 1J9,The Queensway
+"49 Caracas Rd Toronto, ON",Bayview Village,1050000,43.767426,-79.37751,M2K 1A8,Talara Drive
+"##1 - 108 Redpath Ave Toronto, ON",Midtown Toronto,549000,43.707161,-79.393127,M4S 2J7,Redpath Avenue
+"#S608 - 455 Front St Toronto, ON",Downtown,374900,43.652714,-79.3563,M5A 0J2,Diamond Jubilee Promenade
+"29 Bromton Dr Toronto, ON",Bendale,499900,43.765526,-79.253128,M1P 4B7,Brimorton Drive
+"135 King St Toronto, ON",Downtown,748888,43.650040000000004,-79.373352,M5C 1G6,King Street East
+"#1006 - 2 Anndale Dr Toronto, ON",Willowdale,419900,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"592 The Queensway Toronto, ON",The Queensway,649900,43.628426,-79.49398000000001,M8Y 1J9,The Queensway
+"##11 - 242 John Garland Blvd Toronto, ON",Rexdale,195900,43.733540000000005,-79.592949,M9V 1N8,John Garland Boulevard
+"#108 - 35 HAYDEN ST Toronto, ON",Downtown,649900,43.669609,-79.384773,M4Y 3C3,Hayden Street
+"435 MAYBANK AVE Toronto, ON",Harwood,699400,43.677654,-79.473663,M6N 3S7,Maybank Avenue
+"#562 - 209 FORT YORK BLVD S Toronto, ON",Niagara,349000,43.636963,-79.404671,M5V 4A1,Gzowski Boulevard
+"39 FAIRLEIGH CRES Toronto, ON",Midtown Toronto,1299000,43.700653,-79.439201,M6C 3R9,Fairleigh Crescent
+"114 Roebuck Dr Toronto, ON",Kennedy Park,628000,43.726383,-79.270432,M1K 2H7,Roebuck Drive
+"3369 Weston Rd Toronto, ON",Emery,569900,43.745125,-79.54053499999999,M9M 2V6,Weston Road
+"170 ELDER ST Toronto, ON",Bathurst Manor,998000,43.758739,-79.45270500000001,M3H 4E6,Brighton Avenue
+"104 Homedale Dr Toronto, ON",Milliken,699900,43.811809999999994,-79.282883,M1V 1M2,Homedale Drive
+"14 Saunders Rd Toronto, ON",Scarborough Village,698000,43.748539,-79.208725,M1J 3H9,Saunders Road
+"99 Red River Cres Toronto, ON",Rouge,465000,43.80365,-79.17235600000001,M1B 1Z5,Red River Crescent
+"2 Moraine Hill Dr Toronto, ON",Tam O'Shanter,788888,43.774623999999996,-79.298141,M1T 1Z9,Corundum Crescent
+"10 Sudbury Hall Dr Toronto, ON",Rouge,599000,43.800362,-79.17734499999999,M1B 3H6,Sudbury Hall Drive
+"9 Red River Cres Toronto, ON",Rouge,439000,43.802834000000004,-79.172585,M1B 1Z5,Red River Crescent
+"82 PITT AVE Toronto, ON",Clairlea - Birchmount,799900,43.704266,-79.293152,M1L 2R6,Pitt Avenue
+"227 REINER Road Toronto, ON",Wilson Heights,1399990,43.748855999999996,-79.453499,M3H 2M2,Dunsmore Gardens
+"# 74 - 20 BRIMWOOD BLVD Toronto, ON",Milliken,429000,43.811077000000004,-79.279678,M1V 1E1,Brimley Road
+"80 VALLEY STREAM DR Toronto, ON",Toronto,688000,43.820442,-79.26374100000001,M1V 2A5,Valley Stream Drive
+"82 SUN ROW DR Toronto, ON",Richview,908800,43.687252,-79.539108,M9P 3J3,Sun Row Drive
+"69 GILBERT AVE Toronto, ON",Earlscourt,599000,43.679153,-79.457504,M6E 4W2,Gilbert Avenue
+"7 RESTEVER GATE Toronto, ON",Rexdale,609900,43.727604,-79.564903,M9W 4B8,Restever Gate
+"135 CEDRIC AVE Toronto, ON",Midtown Toronto,1179000,43.687832,-79.436775,M6C 3X7,Cedric Avenue
+"#813 - 3 Rean Dr Toronto, ON",Bayview Village,312900,43.765289,-79.382339,M2K 3C2,Rean Drive
+"#1722 - 230 Queens Quay Toronto, ON",Downtown,389900,43.639381,-79.384064,M5J,Queens Quay West
+"#711 - 6 Eva Rd Toronto, ON",Eatonville,289900,43.640301,-79.562302,M9C 0A9,Etobicoke
+"39 Stainforth Dr Toronto, ON",Agincourt,868888,43.794025,-79.285156,M1S 1L8,Stainforth Drive
+"33 BALDWIN ST Toronto, ON",Downtown,1699000,43.655937,-79.39340200000001,M5T 1L1,Baldwin Street
+"1404 25 Carlton Street Toronto, ON",Downtown,539900,43.661045,-79.38166,M5B 1L4,Carlton Street
+"127 WEIR CRES Toronto, ON",West Hill,675000,43.773659,-79.196533,M1E 4T1,Weir Crescent
+"60 IGNATIUS LANE Toronto, ON",West Hill,469500,43.765007000000004,-79.19281,M1E 0A2,Ignatius Lane
+"159 GOULDING AVE Toronto, ON",Newtonbrook,1599000,43.789004999999996,-79.432106,M2M 1L5,Goulding Avenue
+"80 VALLEY STREAM DR Toronto, ON",Toronto,698800,43.820442,-79.26374100000001,M1V 2A5,Valley Stream Drive
+"19 LILY CUP AVE Toronto, ON",Clairlea - Birchmount,629000,43.702591,-79.272026,M1L 0H4,Lily Cup Avenue
+"#1709 - 45 SILVER SPRINGS BLVD Toronto, ON",Milliken,319000,43.800647999999995,-79.307007,M1V 1M9,Silver Springs Boulevard
+"#906 - 235 SHERWAY GARDENS RD Toronto, ON",Islington - City Centre West,389900,43.609261,-79.558998,M9C 0A2,Sherway Gardens Road
+"#1505 - 25 Capreol Crt Toronto, ON",Downtown,461000,43.640816,-79.395538,M5V 3Z7,Capreol Court
+"25 Linelle St Toronto, ON",Lansing,778800,43.755134999999996,-79.41078900000001,M2N 2J3,Linelle Street
+"209 Ellendale Dr Toronto, ON",Dorset Park,599000,43.752731,-79.277641,M1P 1P5,Ellendale Drive
+"#3001 - 375 KING ST W Toronto, ON",Downtown,335000,43.645641,-79.39295200000001,M5V 1K1,King Street West
+"#3902 - 21 CARLTON ST Toronto, ON",Downtown,539900,43.661102,-79.382103,M5B 1L3,Carlton Street
+"71 GLENCOYNE CRES Toronto, ON",L'Amoreaux,775999,43.816643,-79.333656,M1W 2Z1,Glencoyne Crescent
+"#3405 - 2230 LAKESHORE BLVD W Toronto, ON",Mimico,329000,43.621615999999996,-79.48291800000001,M8V 0B2,Lake Shore Boulevard West
+"#104 - 915 KING ST W Toronto, ON",Niagara,499999,43.641571,-79.412743,M6K 3M2,King Street West
+"4 BROWSIDE AVE Toronto, ON",Midtown Toronto,2349000,43.696521999999995,-79.415451,M5P 2V1,Browside Avenue
+"25 MILLICENT Street Toronto, ON",Wallace Emerson,899900,43.665096000000005,-79.439278,M6H 1W3,Millicent Street
+"560 JANE ST Toronto, ON",Lambton,799999,43.663452,-79.49045600000001,M6S 4A5,Jane Street
+"64 SEAMIST CRES Toronto, ON",Toronto,769000,43.827942,-79.273911,M1V 3K3,Seamist Crescent
+"67 NEAMES CRES Toronto, ON",Downsview,534900,43.727352,-79.511032,M3L 1K8,Neames Crescent
+"1 ROVINELLI RD Toronto, ON",Malvern,571300,43.814308000000004,-79.21575899999999,M1B 4L6,Rovinelli Road
+"#711 - 275 YORKLAND RD Toronto, ON",Henry Farm,366000,43.774746,-79.336929,M2J 1S3,275
+"#C - 26 C SCARLETT RD Toronto, ON",Rockcliffe - Smythe,549900,43.66758,-79.500061,M6N 4K1,Scarlett Road
+"190 NAIRN AVE Toronto, ON",Earlscourt,598000,43.682091,-79.451126,M6E 4H3,Nairn Avenue
+"80 VALLEY STREAM DR Toronto, ON",Toronto,738800,43.820442,-79.26374100000001,M1V 2A5,Valley Stream Drive
+"40 Clonmore Dr Toronto, ON",Birch Cliff,1599900,43.685364,-79.280182,M1N 1X6,Clonmore Drive
+"19 FOXWARREN DR Toronto, ON",Bayview Village,1688000,43.771053,-79.38715400000001,M2K 1L1,Foxwarren Drive
+"#2515 - 238 Bonis Ave Toronto, ON",Tam O'Shanter,339800,43.786015,-79.290237,M1T 3W7,Bonis Avenue
+"145 Silverstone Dr Toronto, ON",Rexdale,599900,43.751723999999996,-79.590424,M9V 3G8,Silverstone Drive
+"#2108 - 80 Antibes Dr Toronto, ON",Newtonbrook,348800,43.780464,-79.447006,M2R 3N1,Antibes Drive
+"#2307 - 2 Anndale Dr Toronto, ON",Willowdale,638000,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"#914 - 222 The Esplanade Toronto, ON",Downtown,468800,43.649731,-79.365303,M5A 4M8,The Esplanade
+"785 Eastern Ave Toronto, ON",Leslieville,699000,43.66098,-79.330055,M4M 1E9,Eastern Avenue
+"283 Snowdon Ave Toronto, ON",North Toronto,1480000,43.733105,-79.39321899999999,M4N 2B4,Snowdon Avenue
+"229 Catalina Dr Toronto, ON",Guildwood,715000,43.743652000000004,-79.20015,M1E 1B8,Bledlow Manor Drive
+"532 Caledonia Rd Toronto, ON",Fairbank,499000,43.691193,-79.461662,M6E 4V4,Caledonia Road
+"#316 - 200 Manitoba St Toronto, ON",Mimico,367000,43.624401,-79.491013,M8Y 3Y9,Manitoba Street
+"9 Gablehurst Cres Toronto, ON",Tam O'Shanter,999900,43.788258,-79.306534,M1T 2L1,Dunmurray Boulevard
+"1026 Kennedy Rd Toronto, ON",Dorset Park,619900,43.747279999999996,-79.274452,M1P 2K6,Kennedy Road
+"198 Rouge River Dr Toronto, ON",Rouge,559999,43.807819,-79.180832,M1B 0A8,Red Fox Place
+"5 Edgecroft Rd Toronto, ON",The Queensway,799800,43.629925,-79.50619499999999,M8Z 2B6,Edgecroft Road
+"208 Dunforest Ave Toronto, ON",Willowdale,1998800,43.77861,-79.401772,M2N 4J7,Dunforest Avenue
+"49 Norbert Cres Toronto, ON",Eringate - Centennial - West Deane,1047900,43.646442,-79.581795,M9C 3J8,Norbert Crescent
+"#1909 - 1 Palace Pier Crt Toronto, ON",Mimico,685000,43.631432000000004,-79.473564,M8V 2Z6,Palace Pier Court
+"#1508 - 21 Iceboat Terr Toronto, ON",Downtown,378000,43.640381,-79.397339,M5V 4A9,Iceboat Terrace
+"#106 - 60 Douro St Toronto, ON",King West Village,399900,43.640839,-79.41508499999999,M6K 3N5,Old Toronto
+"#3015 - 150 East Liberty St Toronto, ON",Liberty Village,399900,43.638775,-79.41626,M6K 3R5,Ontario
+"198 Rankin Cres Toronto, ON",Junction Triangle,719000,43.660889000000005,-79.44720500000001,M6P 4H9,Rankin Crescent
+"#411 - 1000 King St Toronto, ON",Niagara,424900,43.641735,-79.41449,M6K 3N1,Shank Street
+"#2005 - 103 The Queensway Ave Toronto, ON",Swansea,498000,43.636292,-79.470467,M6S 5B3,The Queensway
+"#3108 - 270 Queens Quay Toronto, ON",Downtown,399900,43.639095000000005,-79.386475,M5V 3A7,Queens Quay West
+"#809 - 35 Ormskirk Ave Toronto, ON",Swansea,480000,43.63913,-79.47483100000001,M6S 1A8,Old Toronto
+"#721 - 65 Scadding Ave Toronto, ON",Downtown,438000,43.648983,-79.365219,M5A 4L1,Scadding Avenue
+"99 Glen Albert Dr Toronto, ON",Woodbine Gardens,699900,43.701794,-79.30358100000001,M4B 1J1,Glen Albert Drive
+"10 Beverly Glen Blvd Toronto, ON",Bridlewood,979000,43.802124,-79.32852199999999,M1W 1V9,Beverly Glen Boulevard
+"44 Hawksbury Dr Toronto, ON",Bayview Village,2495000,43.773731,-79.380814,M2K 1M5,Hawksbury Drive
+"239 Taysham Cres Toronto, ON",Rexdale,549900,43.739346000000005,-79.575073,M9V 1X8,Taysham Crescent
+"#420 - 6 Humberline Dr Toronto, ON",Rexdale,200199,43.73069,-79.611,M9W 6X8,Humberline Drive
+"9 Grove Hill Dr Toronto, ON",L'Amoreaux,1599000,43.797714,-79.295837,M1T 3C8,Grove Hill Drive
+"#321 - 2121 Lake Shore Blvd Toronto, ON",Humber Bay Shores,349900,43.627644000000004,-79.478188,M8V 4E9,Lake Shore Boulevard West
+"#914 - 20 Bloorview Pl Toronto, ON",Don Valley Village,338800,43.774311,-79.359085,M2J 0A6,Bloorview Place
+"80 Martindale Rd Toronto, ON",Cliffcrest,629900,43.734875,-79.22728000000001,M1M 2C1,Martindale Road
+"79 De Quincy Blvd Toronto, ON",Wilson Heights,999900,43.73904,-79.44236,M3H 1Y8,De Quincy Boulevard
+"27 Conference Blvd Toronto, ON",Port Union,649900,43.782429,-79.14582800000001,M1C 2E1,Conference Boulevard
+"58 Horseley Hill Dr Toronto, ON",Malvern,539000,43.808029,-79.229721,M1B 1W5,Horseley Hill Drive
+"#1710 - 101 Charles St Toronto, ON",Downtown,634900,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"#102 - 1075 Ellesmere Rd Toronto, ON",Dorset Park,588000,43.767146999999994,-79.271454,M1P 5E2,Midland Avenue
+"#909 - 185 Bonis Ave Toronto, ON",Tam O'Shanter,285000,43.785804999999996,-79.292114,M1T 3W6,Bonis Avenue
+"#801 - 89 Dunfield Ave Toronto, ON",Midtown Toronto,495000,43.706771999999994,-79.39523299999999,M4S 3A4,Eglinton Avenue East
+"#508 - 28 Rosebank Dr Toronto, ON",Malvern,498000,43.792122,-79.235725,M1B,Rosebank Drive
+"39 Chestermere Blvd Toronto, ON",Woburn,529000,43.749328999999996,-79.226715,M1J 2X8,Chestermere Boulevard
+"384 Blackthorn Ave Toronto, ON",Silverthorn,589000,43.684425,-79.462715,M6M 3B9,Blackthorn Avenue
+"#1805 - 103 The Queensway Toronto, ON",Swansea,498000,43.636292,-79.470467,M6S 5B3,The Queensway
+"24 Brady Cres Toronto, ON",Jane and Finch,569900,43.741797999999996,-79.508911,M3L 2B5,Brady Crescent
+"56 Millview Cres Toronto, ON",Rexdale,664900,43.723648,-79.589729,M9W 3K5,Etobicoke
+"1336 Pharmacy Ave Toronto, ON",Wexford - Maryvale,649000,43.755215,-79.30976899999999,M1R 2J5,Scarborough
+"#807 - 250 Scarlett Rd Toronto, ON",Rockcliffe - Smythe,322000,43.676445,-79.505966,M6N 2M6,York
+"#514 - 10 Queens Quay W Quay Toronto, ON",Downtown,469900,43.642139,-79.37571,M5J 2V7,Old Toronto
+"15 Eldon Ave Toronto, ON",Danforth Village,499000,43.691113,-79.291534,M4C 5G2,Eldon Avenue
+"#804 - 44 Gerrard St Toronto, ON",Downtown,588000,43.659618,-79.379684,M5B 2E8,Gerrard Street East
+"#1605 - 105 The Queensway Ave Toronto, ON",Swansea,329900,43.636173,-79.47075699999999,M6S 5B5,The Queensway
+"#1305 - 155 Legion Rd Toronto, ON",Mimico,435000,43.62381,-79.488022,M8Y 0A1,Legion Road North
+"51 Old Finch Ave Toronto, ON",Malvern,799000,43.819778,-79.211075,M1B 5J1,Old Finch Avenue
+"#2729 - 165 Legion Rd Toronto, ON",Mimico,359900,43.624207,-79.488228,M8Y 0B3,Legion Road North
+"#520 - 245 Dalesford Rd Toronto, ON",The Queensway,479000,43.625931,-79.490524,M8Y 4H7,Dalesford Road
+"65 Hart Ave Toronto, ON",Scarborough Junction,699900,43.723095,-79.260643,M1K 3H3,Hart Avenue
+"#504 - 778 Sheppard Ave Toronto, ON",Bathurst Manor,349900,43.753578000000005,-79.448555,M3H 2T1,Sheppard Avenue West
+"#1313 - 320 Richmond St Toronto, ON",Downtown,369900,43.64904,-79.392258,M5V 1X2,Richmond Street West
+"#1123A - 111 Elizabeth St Toronto, ON",Downtown,299800,43.655113,-79.384804,M5G 1P7,Elizabeth Street
+"#808 - 300 Front St Toronto, ON",Downtown,512000,43.644172999999995,-79.38942,M5V 0E9,Front Street West
+"89 Cordella Ave Toronto, ON",Rockcliffe - Smythe,599900,43.680248,-79.483566,M6N 2J8,Cordella Avenue
+"#907 - 1900 Sheppard Ave Toronto, ON",Jane and Finch,285000,43.740059,-79.50960500000001,M3L 1Y7,Sheppard Avenue West
+"#204 - 31 Olive Ave Toronto, ON",Midtown Toronto,719000,43.66983,-79.414742,M6G 1T7,Olive Avenue
+"#885 - 36 Tandridge Cres Toronto, ON",The Elms,299900,43.728195,-79.549736,M9W 2N7,Etobicoke
+"#3 - 175 Jones Ave Toronto, ON",Leslieville,747400,43.667384999999996,-79.334412,M4M 3A2,Jones Avenue
+"#2118 - 75 East Liberty St Toronto, ON",Liberty Village,798000,43.638306,-79.414787,M6K 0A2,Old Toronto
+"#4309 - 35 Mariner Terr Toronto, ON",Downtown,849000,43.639683000000005,-79.39211999999999,M5V 3V9,Mariner Terrace
+"#503 - 15 Michael Power Pl Toronto, ON",Six Points,384900,43.644825,-79.53009,M9A 5G4,Michael Power Place
+"#708 - 3 Rean Dr Toronto, ON",Bayview Village,449000,43.765289,-79.382339,M2K 3C2,Rean Drive
+"62 Northdale Rd Toronto, ON",St. Andrew - Windfields,2080000,43.76339,-79.382515,M2L 2M1,Northdale Road
+"#509 - 68 Canterbury Pl Toronto, ON",Willowdale,399888,43.773746,-79.41551199999999,M2N 1Y7,Canterbury Place
+"#302 - 24 Wellesley St Toronto, ON",Downtown,489000,43.664845,-79.385933,M4Y 2X6,Wellesley Street West
+"#1101 - 75 Portland St Toronto, ON",Downtown,1599000,43.643799,-79.39960500000001,M5V 2M9,Portland Street
+"#123 - 326 Carlaw Ave Toronto, ON",Leslieville,1200000,43.664089000000004,-79.341415,M4M 3L1,Carlaw Avenue
+"#8 - 169 Jones Ave Toronto, ON",Leslieville,953350,43.667133,-79.334404,M4M 3A2,Jones Avenue
+"#Th 28 - 9 Oakburn Cres Toronto, ON",Willowdale,929000,43.758666999999996,-79.403778,M2N 2T5,Oakburn Crescent
+"#611 - 1250 Bridletowne Circ Toronto, ON",Bridlewood,229900,43.794464000000005,-79.312782,M1W 2V1,Stonehill Court
+"#3611 - 121 Mcmahon Dr Toronto, ON",Bayview Village,339900,43.767746,-79.370918,M2K 1C2,McMahon Drive
+"#1307T - 628 Fleet St Toronto, ON",Niagara,629000,43.636234,-79.403122,M5V 1A8,Fleet Street
+"#2711 - 1 Palace Pier Crt Toronto, ON",Mimico,459000,43.631432000000004,-79.473564,M8V 2Z6,Palace Pier Court
+"2 Monastery Lane Toronto, ON",Clairlea,1090000,43.715702,-79.286171,M1L 4V6,Monastery Lane
+"#1006 - 900 Mount Pleasant Rd Toronto, ON",North Toronto,414000,43.711781,-79.39164,M4P 3J9,Mount Pleasant Road
+"142 Silverthorn Ave Toronto, ON",Earlscourt,579000,43.677620000000005,-79.46127299999999,M6N 3K3,Rockwell Avenue
+"#1611 - 25 Carlton St Toronto, ON",Downtown,399000,43.661045,-79.38166,M5B 1L4,Carlton Street
+"#1607 - 170 Avenue Rd Toronto, ON",Midtown Toronto,785000,43.675331,-79.397125,M5R 2H8,Avenue Road
+"#703 - 35 Finch Ave Toronto, ON",Willowdale,334800,43.779987,-79.412735,M2N 6Z8,North York
+"#2208 - 90 Park Lawn Rd Toronto, ON",Humber Bay,649000,43.624373999999996,-79.48554200000001,M8Y 0B6,Park Lawn Road
+"#431 - 39 Queens Quay St Toronto, ON",Downtown,499900,43.641346,-79.372421,M5E 0A4,Queens Quay East
+"#801 - 101 Charles St Toronto, ON",Downtown,949900,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"389 Silverstone Dr Toronto, ON",Silverstone,699900,43.745613,-79.600151,M9V 3K2,Silverstone Drive
+"62 Deerhurst Ave Toronto, ON",Pelmo Park,899000,43.711338,-79.51726500000001,M9N 3A7,North York
+"#37 - 619 Evans Ave Toronto, ON",Alderwood,777000,43.6105,-79.55011,M8W 2W6,Evans Avenue
+"118 Fairglen Ave Toronto, ON",L'Amoreaux,1999000,43.782825,-79.32382199999999,M1W 1A7,Fairglen Avenue
+"#1403 - 55 Bamburgh Circ Toronto, ON",Steeles,429000,43.814667,-79.326698,M1W 3V4,Bamburgh Circle
+"#1611 - 68 Grangeway Ave Toronto, ON",Woburn,343900,43.773685,-79.249619,M1H 0A1,Grangeway Avenue
+"#11 - 40 Wayside Ave Toronto, ON",L'Amoreaux,599800,43.800545,-79.299683,M1T 3T9,Scarborough
+"#509 - 10 Old Mill Tr Toronto, ON",The Kingsway,439000,43.650345,-79.495689,M8X 2Z4,York
+"#22 - 365 Murray Ross Pkwy Toronto, ON",York University Heights,499900,43.765209000000006,-79.500168,M3J 3T7,Murray Ross Parkway
+"#1308 - 105 George St Toronto, ON",Downtown,399888,43.652221999999995,-79.37087199999999,M5A 0L4,Adelaide Street East
+"#2910 - 75 Queens Wharf Rd Toronto, ON",Downtown,332000,43.638477,-79.397987,M5V 0J8,Housey Street
+"#503 - 199 Richmond St Toronto, ON",Downtown,385000,43.649597,-79.388489,M5V 3E5,Richmond Street West
+"#405 - 1238 Dundas St Toronto, ON",Dufferin Grove,449800,43.64962,-79.423973,M6J 1X5,Dundas Street West
+"#204 - 799 College St Toronto, ON",Trinity - Bellwoods,508000,43.65464,-79.421013,M6G 1C7,College Street
+"174 Sloane Ave Toronto, ON",Victoria Village,1088000,43.735703,-79.31237800000001,M4A,Sloane Avenue
+"212 Johnston Ave Toronto, ON",Lansing,3058000,43.757053000000006,-79.420387,M2N 1H3,Johnston Avenue
+"#626 - 230 Queens Quay Toronto, ON",Downtown,349000,43.639381,-79.384064,M5J,Queens Quay West
+"#813 - 3 Rean Dr Toronto, ON",Bayview Village,316000,43.765289,-79.382339,M2K 3C2,Rean Drive
+"479 Glengarry Ave Toronto, ON",Nortown,1488000,43.720818,-79.425377,M5M 1E9,Glengarry Avenue
+"#2819 - 88 Corporate Dr Toronto, ON",Woburn,275000,43.780956,-79.249779,M1H 3G6,Scarborough
+"#1509 - 2212 Lakeshore Blvd Toronto, ON",Mimico,359900,43.622589000000005,-79.482445,M8V 0A9,Etobicoke
+"#2507 - 225 Sackville St Toronto, ON",Downtown,385800,43.659824,-79.362724,M5A 0B9,Sackville Street
+"#219 - 1 Massey Sq Toronto, ON",Old East York,159000,43.69614,-79.294983,M4C 5L5,Massey Square
+"#322 - 500 Doris Ave Toronto, ON",Willowdale,718800,43.776451,-79.414017,M2N 0C1,Doris Avenue
+"39 Crewe Ave Toronto, ON",Woodbine - Lumsden,1130000,43.693939,-79.306885,M4C 2J2,Crewe Avenue
+"#207 - 55 Harrison Garden Blvd Toronto, ON",Willowdale,325000,43.75666,-79.407364,M2N 7G3,Harrison Garden Boulevard
+"#1510 - 10 Markbrook Lane Toronto, ON",Rexdale,259999,43.759009999999996,-79.588539,M9V 5E3,Kipling Avenue
+"#10 - 850 Richmond St Toronto, ON",Niagara,869900,43.644657,-79.411919,M6J 1C9,Richmond Street West
+"199 Oakmount Rd Toronto, ON",High Park North,2249000,43.659157,-79.46459200000001,M6P 2N1,Oakmount Road
+"43 Hillsview Ave Toronto, ON",High Park North,1299000,43.659706,-79.464279,M6P 1J4,Hillsview Avenue
+"#1705 - 3 Rowntree Rd Toronto, ON",Rexdale,289900,43.750534,-79.581467,M9V 5G8,Rowntree Road
+"#403 - 2010 Islington Ave Toronto, ON",Kingsview Village,529900,43.698036,-79.54692800000001,M9P 3T5,Islington Avenue
+"#404 - 17 Ruddington Dr Toronto, ON",Newtonbrook,328000,43.788425,-79.390388,M2K 2G6,Ruddington Drive
+"#2205 - 10 Tangreen Crt Toronto, ON",Newtonbrook,468000,43.795891,-79.42712399999999,M2M 4B9,Tangreen Court
+"#1002 - 400 Mclevin Ave Toronto, ON",Malvern,269000,43.809708,-79.22116899999999,M1B 4Z8,McLevin Avenue
+"#506 - 169 Fort York Blvd Toronto, ON",Niagara,368900,43.638512,-79.400894,M5V 0C8,Fort York Boulevard
+"#526 - 23 Glebe Rd Toronto, ON",Midtown Toronto,345000,43.701252000000004,-79.39589699999999,M4S 1N7,Glebe Road East
+"#1908 - 175 Bamburgh Circ Toronto, ON",Steeles,438888,43.812259999999995,-79.32494399999999,M1W 3X8,Bamburgh Circle
+"#301 - 16 Brookers Lane Toronto, ON",Humber Bay Shores,339900,43.626965000000006,-79.47848499999999,M8V 0A5,Brookers Lane
+"56 Macdonell Ave Toronto, ON",Roncesvalles Village,1450000,43.642044,-79.438721,M6R 2A2,Macdonell Avenue
+"#1624 - 700 Humberwood Blvd Toronto, ON",Rexdale,319900,43.724765999999995,-79.616486,M9W 7J4,Humberwood Boulevard
+"#4104 - 2045 Lake Shore Blvd Toronto, ON",Mimico,1199000,43.631355,-79.474609,M8V 2Z6,Lake Shore Boulevard West
+"48 Rondeau Dr Toronto, ON",Hillcrest Village,1850000,43.806202,-79.37043800000001,M2H 1R6,Rondeau Drive
+"612 Conacher Dr Toronto, ON",Newtonbrook,3288000,43.792961,-79.397667,M2M 3N1,Conacher Drive
+"#1603 - 151 Village Green Sq Toronto, ON",Agincourt,332000,43.778614000000005,-79.281258,M1S 0K5,Village Green Square
+"#506 - 125 Peter St Toronto, ON",Downtown,399900,43.648296,-79.39295200000001,M5V 0M3,Peter Street
+"551 Dufferin St Toronto, ON",Little Portugal,949000,43.647655,-79.43049599999999,M6K 2B1,Dufferin Street
+"#1508 - 5 Michael Power Pl Toronto, ON",Islington - City Centre West,359900,43.644081,-79.5289,M9A 0A3,Michael Power Place
+"#2308 - 55 Skymark Dr Toronto, ON",Don Valley Village,425800,43.794937,-79.352112,M2H 3N4,Skymark Drive
+"#1908 - 35 Balmuto St Toronto, ON",Downtown,719000,43.669456,-79.387474,M4Y 0A3,Balmuto Street
+"#1206 - 11 Wincott Dr Toronto, ON",The Westway,309900,43.695362,-79.55070500000001,M9R 2R9,Wincott Drive
+"#2405 - 5 St Joseph St Toronto, ON",Downtown,549900,43.665749,-79.385513,M4Y 0B6,Saint Joseph Street
+"#804 - 581 Avenue Rd Toronto, ON",Midtown Toronto,319000,43.689021999999994,-79.402077,M4V 2K4,Avenue Road
+"#105 - 60 Haslett Ave Toronto, ON",The Beach,611000,43.674232,-79.307144,M4L 3R2,Haslett Avenue
+"#3 - 125 Isaac Devins Blvd Toronto, ON",Humberlea,199900,43.731235999999996,-79.531784,M9M 3A1,Isaac Devins Boulevard
+"#812 - 1 Avondale Ave Toronto, ON",Willowdale,389900,43.757996,-79.409592,M2N 7J1,Avondale Avenue
+"#309 - 68 Canterbury Pl Toronto, ON",Willowdale,420000,43.773746,-79.41551199999999,M2N 1Y7,Canterbury Place
+"18 Bathford Cres Toronto, ON",Bayview Village,1299000,43.788948,-79.372192,M2J 2S4,Bathford Crescent
+"#311 - 3559 Eglinton Ave Toronto, ON",Mount Dennis,319000,43.686134,-79.491875,M6M 1V7,Eglinton Avenue West
+"#134 - 150 Burrows Hall Blvd Toronto, ON",Malvern,419990,43.792770000000004,-79.229561,M1B 1M6,Burrows Hall Boulevard
+"1602 Bloor St Toronto, ON",High Park North,1199000,43.655978999999995,-79.455147,M6P 1A7,Bloor Street West
+"435 Murray Ross Pkwy Toronto, ON",York University Heights,950000,43.764462,-79.504471,M3J 3P1,Murray Ross Parkway
+"181 Goddard St Toronto, ON",Bathurst Manor,1420000,43.761913,-79.45127099999999,M3H 5E4,Goddard Street
+"#1906 - 21 Widmer St Toronto, ON",Downtown,465000,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#3108 - 21 Widmer St Toronto, ON",Downtown,409800,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#728 - 231 Fort York Blvd Toronto, ON",Niagara,398880,43.636837,-79.406052,M5V 4A2,Fort York Boulevard
+"#2630 - 165 Legion Rd Toronto, ON",Mimico,459900,43.624207,-79.488228,M8Y 0B3,Legion Road North
+"125 Trowell Ave Toronto, ON",Silverthorn,559900,43.686015999999995,-79.47228199999999,M6M 1L6,Trowell Avenue
+"#3311 - 36 Lee Centre Dr Toronto, ON",Woburn,319000,43.78167,-79.247215,M1H 3J7,Lee Centre Drive
+"1209 Glencairn Ave Toronto, ON",Glen Park,1788000,43.704937,-79.462776,M6B 2B6,Glencairn Avenue
+"40 Clearbrooke Circ Toronto, ON",Rexdale,629000,43.719516999999996,-79.56390400000001,M9W 2E4,Daysland Road
+"#2601 - 225 Sherway Gardens Rd Toronto, ON",Islington - City Centre West,314900,43.609169,-79.558167,M9C 0A8,Sherway Gardens Road
+"#3301 - 5168 Yonge St Toronto, ON",Willowdale,479800,43.769829,-79.413467,M2N 0G1,Yonge Street
+"#1012 - 15 James Finlay Way Toronto, ON",Downsview,339000,43.726418,-79.47994200000001,M3M 0B3,Wilson Avenue
+"#309 - 3 Michael Power Pl Toronto, ON",Islington - City Centre West,287900,43.64397,-79.528503,M9A 0A3,Michael Power Place
+"66 Cotswold Cres Toronto, ON",St. Andrew - Windfields,3618800,43.758784999999996,-79.396378,M2P 1N2,Cotswold Crescent
+"#509 - 1 Ripley Ave Toronto, ON",Swansea,639500,43.636818,-79.47419000000001,M6S 4Z6,Old Toronto
+"#314 - 21 Scollard St Toronto, ON",Midtown Toronto,539000,43.672318,-79.388817,M5R 1G1,Scollard Street
+"211 Cranbrooke Ave Toronto, ON",Bedford Park,2888000,43.727428,-79.410751,M5M 1M8,Cranbrooke Avenue
+"#P311 - 25 Soho St Toronto, ON",Downtown,898000,43.65036,-79.393578,M5T 3L8,Soho Street
+"#2209 - 18 Sommerset Way Toronto, ON",Willowdale,484900,43.776028000000004,-79.412056,M2N,Rouge Street
+"90 Lonsdale Rd Toronto, ON",Midtown Toronto,1979000,43.691390999999996,-79.400566,M4V 1W5,Lonsdale Road
+"51B Sherwood Ave Toronto, ON",Sherwood Park,2350000,43.713936,-79.396851,M4P 2A6,Sherwood Avenue
+"#2605 - 18 Holmes Ave Toronto, ON",Willowdale,489900,43.778434999999995,-79.41333,M2N 0E1,Holmes Avenue
+"2 Chauncey Ave Toronto, ON",Islington - City Centre West,1400000,43.6381,-79.521408,M8Z 2Z2,Chauncey Avenue
+"#825 - 68 Abell St Toronto, ON",Little Portugal,255990,43.642390999999996,-79.424736,M6J 0B1,Queen Street West
+"#3708 - 8 Park Rd Toronto, ON",Midtown Toronto,449800,43.671303,-79.384689,M4W 1A8,Park Road
+"273 Murray Ross Pkwy Toronto, ON",York University Heights,799000,43.765755,-79.496803,M3J 3N6,Murray Ross Parkway
+"#2517 - 70 Temperance St Toronto, ON",Downtown,574900,43.650372,-79.382347,M5H 3V5,Sheppard Street
+"#2506 - 28 Ted Rogers Way Toronto, ON",Downtown,429900,43.670547,-79.380585,M4Y 2J4,Toronto
+"253 Searle Ave Toronto, ON",Bathurst Manor,1279000,43.756145000000004,-79.45931999999999,M3H 4C1,Searle Avenue
+"121 Clearbrooke Circ Toronto, ON",Rexdale,629900,43.722485,-79.563148,M9W 2E9,Clearbrooke Circle
+"#335 - 58 Marine Parade Dr Toronto, ON",Mimico,329800,43.627303999999995,-79.47686800000001,M8V 0A3,Marine Parade Drive
+"#1907 - 11 Bogert Ave Toronto, ON",Lansing,598000,43.760517,-79.411743,M2N 0H3,Sheppard Avenue West
+"275 Riverside Dr Toronto, ON",Swansea,4995000,43.644661,-79.484764,M6S 4A8,Riverside Drive
+"#1609 - 85 Queens Wharf Rd Toronto, ON",Downtown,339000,43.638866,-79.398438,M5V 1A9,Fort York Boulevard
+"#4901 - 11 Brunel Crt Toronto, ON",Downtown,419000,43.6395,-79.393425,M5V 3Y3,Brunel Court
+"298 Lauder Ave Toronto, ON",Oakwood Village,1499000,43.682838000000004,-79.441528,M6E 3H6,Lauder Avenue
+"#1110 - 275 Yorkland Rd Toronto, ON",Henry Farm,400000,43.774746,-79.336929,M2J 1S3,275
+"#1807 - 2121 Lake Shore Blvd Toronto, ON",Humber Bay Shores,529900,43.627644000000004,-79.478188,M8V 4E9,Lake Shore Boulevard West
+"#1009 - 21 Grand Magazine St Toronto, ON",Niagara,549900,43.63641,-79.402,M5V 1B5,Grand Magazine Street
+"#102 - 352 Front St Toronto, ON",Downtown,549900,43.643485999999996,-79.392303,M5V 0K3,Front Street West
+"262 Weston Rd Toronto, ON",Rockcliffe - Smythe,799900,43.677685,-79.472687,M6N 3P5,Weston Road
+"#516 - 181 Village Green Sq Toronto, ON",Agincourt,279500,43.779205,-79.28151700000001,M1S 0K5,Village Green Square
+"112 Bombay Ave Toronto, ON",Armour Heights,1590000,43.743423,-79.426872,M3H 1C3,Bombay Avenue
+"#2606 - 33 Charles St Toronto, ON",Downtown,838000,43.668785,-79.384766,M4Y 1R9,Charles Street East
+"178 Roslin Ave Toronto, ON",North Toronto,2595000,43.731457,-79.39439399999999,M4N 1Z6,Roslin Avenue
+"52 Avonhurst Rd Toronto, ON",Eatonville,1799900,43.647533,-79.533516,M9A 2G9,Avonhurst Road
+"#821 - 800 Lawrence Ave Toronto, ON",Lawrence Heights,289000,43.714591999999996,-79.452911,M6A 0B1,Lawrence Avenue West
+"#410 - 1060 Sheppard Ave Toronto, ON",Downsview,348000,43.750595000000004,-79.464058,M3J 0G7,Ontario
+"#1109 - 88 Grandview Way Toronto, ON",Willowdale,349000,43.774658,-79.412415,M2N 6V6,Grandview Way
+"171 Cornelius Pkwy Toronto, ON",Maple Leaf,1264000,43.720005,-79.475037,M6L 2K8,Cornelius Parkway
+"32 Berkindale Dr Toronto, ON",St. Andrew - Windfields,5800000,43.755501,-79.38423900000001,M2L 1Z8,Berkindale Drive
+"#Lph2 - 1910 Lake Shore Blvd Toronto, ON",Sunnyside,339900,43.636387,-79.466263,M6S,Lake Shore Boulevard West
+"#312 - 710 Humberwood Blvd Toronto, ON",Rexdale,324900,43.724556,-79.616455,M9W 7J4,Humberwood Boulevard
+"#Ph01 - 1910 Lake Shore Blvd Toronto, ON",Sunnyside,330000,43.636387,-79.466263,M6S,Lake Shore Boulevard West
+"2656 Bayview Ave Toronto, ON",York Mills,3388000,43.756172,-79.385963,M2L 1B9,Bayview Avenue
+"588 Conacher Dr Toronto, ON",Newtonbrook,2888800,43.791988,-79.397247,M2M 3M9,Conacher Drive
+"1 Old Yonge St Toronto, ON",York Mills,5998000,43.740790999999994,-79.403267,M2P 1A9,Brookfield Road
+"#1002 - 3 Marine Parade Dr Toronto, ON",Mimico,649000,43.630383,-79.47627299999999,M8V 3Z4,Lake Shore Boulevard West
+"#432 - 22 Leader Lane Toronto, ON",Downtown,458000,43.649246000000005,-79.375755,M5E 0B2,King Street East
+"#2109 - 59 Annie Craig Dr Toronto, ON",Mimico,417900,43.624969,-79.478081,M8V 0C4,Annie Craig Drive
+"201 Boulton Ave Toronto, ON",Riverside,1099000,43.664547,-79.348579,M4M 2J8,Boulton Avenue
+"426 Kingston Rd Toronto, ON",Upper Beaches,799000,43.67691,-79.304825,M4L 1T9,Kingston Road
+"#1822 - 3 Greystone Walk Dr Toronto, ON",Kennedy Park,319900,43.724361,-79.251663,M1K 5J3,Greystone Walk Drive
+"352 Maple Leaf Dr Toronto, ON",Maple Leaf,979900,43.713287,-79.48689300000001,M6L 1P6,Maple Leaf Drive
+"#3105 - 5 Valhalla Inn Rd Toronto, ON",Islington - City Centre West,325000,43.640293,-79.559761,M9B 1S9,Valhalla Inn Road
+"#416 - 101 Charles St Toronto, ON",Downtown,599000,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"#903 - 1 Michael Power Pl Toronto, ON",Islington - City Centre West,414900,43.643925,-79.528885,M9A 0A3,Michael Power Place
+"#802 - 101 Peter St Toronto, ON",Downtown,269900,43.647514,-79.3927,M5V 0G6,Peter Street
+"#1901 - 45 Charles St Toronto, ON",Downtown,629000,43.668777,-79.383995,M4Y 1S2,Charles Street East
+"#804 - 1040 The Queensway Ave Toronto, ON",The Queensway,269999,43.623482,-79.516762,M8Z 0A7,The Queensway
+"#C002 - 2300 Yonge St Toronto, ON",Lawrence Park South,539900,43.707275,-79.399559,M4P 1E4,Yonge Street
+"#423 - 2737 Keele St Toronto, ON",Downsview,179900,43.72578,-79.48075899999999,M3M 2E9,Keele Street
+"#307 - 8 Rean Dr Toronto, ON",Bayview Village,289999,43.766068,-79.382774,M2K 3B9,Rean Drive
+"#2603 - 22 Olive Ave Toronto, ON",Willowdale,299900,43.779659,-79.414589,M2N 7G6,Olive Avenue
+"#406 - 1387 Bayview Ave Toronto, ON",Leaside,329900,43.701004,-79.3731,M4G 3A5,McRae Drive
+"#2708 - 103 The Queensway Ave Toronto, ON",Swansea,334000,43.636292,-79.470467,M6S 5B3,The Queensway
+"44 Nottingham Dr Toronto, ON",Chestnut Hills,2749900,43.654602000000004,-79.5252,M9A 2W4,Nottingham Drive
+"#Ph08 - 80 Antibes Dr Toronto, ON",Newtonbrook,359900,43.780464,-79.447006,M2R 3N1,Antibes Drive
+"#604 - 218 Queens Quay Toronto, ON",Downtown,372000,43.639851,-79.38243100000001,M5J 2Y6,Queens Quay West
+"#2106 - 88 Sheppard Ave Toronto, ON",Lansing,458800,43.760658,-79.41581,M2N 1M5,Sheppard Avenue West
+"#2702 - 180 University Ave Toronto, ON",Downtown,748000,43.648827000000004,-79.385551,M5H 3B3,Adelaide Street West
+"#912 - 236 Albion Rd Toronto, ON",Rexdale,109900,43.722031,-79.543945,M9W 6A6,Albion Road
+"#119 - 45 Overlea Blvd Toronto, ON",Thorncliffe Park,200000,43.705597,-79.345993,M4H 1C3,Overlea Boulevard
+"#3008 - 11 Bogert Ave Toronto, ON",Lansing,659000,43.760517,-79.411743,M2N 0H3,Sheppard Avenue West
+"#7407 - 388 Yonge St Toronto, ON",Downtown,1188800,43.659534,-79.382828,M5G 2K2,Old Toronto
+"#3B - 4773 Yonge St Toronto, ON",Willowdale,569000,43.760952,-79.41038499999999,M2N 0G3,North York
+"#1207 - 70 Forest Manor Rd Toronto, ON",Henry Farm,364900,43.774895,-79.345955,M2J 1G2,Forest Manor Road
+"#3027 - 165 Legion Rd Toronto, ON",Mimico,729900,43.624207,-79.488228,M8Y 0B3,Legion Road North
+"#1008 - 12 York St Toronto, ON",Downtown,289000,43.641632,-79.38205,M5J 2T8,Old Toronto
+"#441 - 36 Via Bagnato Toronto, ON",Lawrence Heights,315000,43.715069,-79.4533,M6A 0B7,Via Bagnato
+"#1020 - 39 Queens Quay Toronto, ON",Downtown,589900,43.641346,-79.372421,M5E 0A4,Queens Quay East
+"#209B - 80 Nashdene Rd Toronto, ON",Armdale,89900,43.819328000000006,-79.25386800000001,M1V 5E4,Scarborough
+"#4 - 228 Queens Quay Toronto, ON",Downtown,68888,43.639725,-79.383247,M5J 2Y6,Queens Quay West
+"#2101 - 66 Forest Manor Rd Toronto, ON",Henry Farm,358000,43.774376000000004,-79.346603,M2J 0B7,Don Mills Road
+"#2210 - 2175 Lake Shore Blvd Toronto, ON",Humber Bay Shores,649900,43.624306,-79.480461,M8V 1A2,Lake Shore Boulevard West
+"Gibbs Road Toronto, ON",Islington - City Centre West,420990,43.638020000000004,-79.558617,M9B 6E2,Gibbs Road
+"1059 Briar Hill Ave Toronto, ON",Fairbank,949900,43.702934,-79.449738,M6B 1M8,Briar Hill Avenue
+"798 QUEEN ST E Toronto, ON",Riverdale,209000,43.659657,-79.346878,M4M 1H4,Queen Street East
+"#2811 - 155 YORKVILLE AVE Toronto, ON",Midtown Toronto,434900,43.670319,-79.394432,M5R 1C4,Yorkville Avenue
+"35 MYRTLE AVE Toronto, ON",Leslieville,799000,43.671772,-79.334923,M4M 2A4,Myrtle Avenue
+"#1609 - 1 THE ESPLANADE Toronto, ON",Downtown,474900,43.645695,-79.376144,M5E 0A8,The Esplanade
+"#917 - 68 ABELL ST Toronto, ON",Little Portugal,409900,43.642390999999996,-79.424736,M6J 0B1,Queen Street West
+"#1601 - 1 THE ESPLANADE Toronto, ON",Downtown,474900,43.645695,-79.376144,M5E 0A8,The Esplanade
+"#401 - 600 EGLINTON AVE E Toronto, ON",Midtown Toronto,330000,43.710964000000004,-79.37915799999999,M4P 1N8,Eglinton Avenue East
+"#930 - 68 ABELL ST Toronto, ON",Little Portugal,495000,43.642390999999996,-79.424736,M6J 0B1,Queen Street West
+"#311 - 1088 PROGRESS AVE Toronto, ON",Malvern,399000,43.793896000000004,-79.234688,M1B 5Z6,Scarborough
+"#603 - 3 NAVY WHARF CRT Toronto, ON",Downtown,388000,43.640266,-79.391006,M5V 3V1,Navy Wharf Court
+"#720 - 25 COLE ST Toronto, ON",Downtown,272000,43.660152000000004,-79.364891,M5A 2C4,Cole Street
+"#2608 - 15 FORT YORK BLVD Toronto, ON",Downtown,399000,43.640057,-79.393967,M5V 3Y4,Fort York Boulevard
+"1245 Dupont Street Toronto, ON",Wallace Emerson,119000,43.667503,-79.44208499999999,M6H 2A6,Dupont Street
+"#1601 - 1171 QUEEN ST W Toronto, ON",Little Portugal,398900,43.642563,-79.42572,M6J 1J4,Queen Street West
+"#1211 - 15 ICEBOAT TERR Toronto, ON",Downtown,354900,43.640526,-79.397102,M5V 4A5,Iceboat Terrace
+"#507 - 783 BATHURST ST Toronto, ON",Downtown,369900,43.664471,-79.410561,M5S 0A8,Bathurst Street
+"#18 - 20 TURNTABLE CRES Toronto, ON",Davenport,499000,43.670421999999995,-79.45005,M6H 4K9,Turntable Crescent
+"#1211 - 65 BREMNER BLVD Toronto, ON",Downtown,375000,43.64286,-79.38073,M5J,Bremner Boulevard
+"#810 - 500 SHERBOURNE ST Toronto, ON",Downtown,538000,43.667915,-79.375679,M4X 1L1,Sherbourne Street
+"#2108 - 770 BAY ST Toronto, ON",Downtown,459000,43.660137,-79.38587199999999,M5G 0A6,Bay Street
+"#1115 - 20 JOE SHUSTER WAY Toronto, ON",Toronto,299900,43.640209000000006,-79.42394300000001,M6K 0A4,Old Toronto
+"#Lph906 - 1 DEER PARK CRES Toronto, ON",Midtown Toronto,890000,43.687538,-79.397873,M4V 3C4,Saint Clair Avenue West
+"#3909 - 21 ICEBOAT TERR Toronto, ON",Downtown,619000,43.640381,-79.397339,M5V 4A9,Iceboat Terrace
+"#2811 - 20 BRUYERES MEWS Toronto, ON",Niagara,428800,43.637432000000004,-79.401039,M5V 0G8,Bruyeres Mews
+"#108 - 39 SHANK ST Toronto, ON",King West Village,579900,43.642071,-79.41458100000001,M6J 3X3,Shank Street
+"23 BOWOOD AVE Toronto, ON",Yonge and Lawrence,1589000,43.728615000000005,-79.40226700000001,M4N 1Y3,Bowood Avenue
+"#3206 - 38 GRENVILLE ST Toronto, ON",Downtown,499000,43.661896,-79.38575,M4Y 1A5,Ontario
+"#1404 - 25 CARLTON ST Toronto, ON",Downtown,539900,43.661045,-79.38166,M5B 1L4,Carlton Street
+"12 WALDER AVE Toronto, ON",Midtown Toronto,2499000,43.710926,-79.381729,M4P 2R5,Walder Avenue
+"#401 - 707 EGLINTON AVE W Toronto, ON",Midtown Toronto,513000,43.701771,-79.421219,M5N 1C9,Eglinton Avenue West
+"#2107 - 170 SUMACH ST Toronto, ON",Downtown,469000,43.660149,-79.360886,M5A 2B9,Dundas Street East
+"#1102 - 263 WELLINGTON ST W Toronto, ON",Downtown,383000,43.644698999999996,-79.390953,M5V 3E6,Wellington Street West
+"#Ph05 - 58 ORCHARD VIEW BLVD Toronto, ON",Midtown Toronto,459000,43.708008,-79.400787,M4R 0A2,Orchard View Boulevard
+"#3305 - 224 KING ST W Toronto, ON",Downtown,549900,43.647381,-79.387276,M5K 1A1,King Street West
+"#1607 - 22 WELLESLEY ST Toronto, ON",Downtown,439000,43.665440000000004,-79.383354,M4Y 1G3,Wellesley Street East
+"335 GLENCAIRN AVE Toronto, ON",Midtown Toronto,3395000,43.714912,-79.416916,M5N 1T8,Glencairn Avenue
+"#908 - 85 BLOOR ST E Toronto, ON",Downtown,429000,43.670372,-79.384468,M4W 3G9,Bloor Street East
+"#3814 - 386 YONGE ST Toronto, ON",Downtown,478000,43.659328,-79.382675,M5G 2K2,Old Toronto
+"#515 E - 36 LISGAR ST Toronto, ON",Little Portugal,305990,43.641697,-79.42343100000001,M6J 0A9,Abell Street
+"65 HAMMERSMITH AVE Toronto, ON",The Beach,799900,43.670466999999995,-79.293976,M4E 2W3,Hammersmith Avenue
+"#710 E - 36 LISGAR ST Toronto, ON",Little Portugal,295000,43.641697,-79.42343100000001,M6J 0A9,Abell Street
+"#G6 - 60 FORT YORK BLVD Toronto, ON",Downtown,888000,43.640159999999995,-79.396309,M5V 4A6,Fort York Boulevard
+"#708 - 20 COLLIER ST Toronto, ON",Midtown Toronto,879900,43.672421,-79.38703199999999,M4W 3Y4,Collier Street
+"#1916 - 45 CARLTON ST Toronto, ON",Downtown,599900,43.661384999999996,-79.380608,M5B 2H9,Carlton Street
+"18 AFTON AVE Toronto, ON",Little Portugal,799900,43.647221,-79.426056,M6J 1R8,Afton Avenue
+"82 WYCHWOOD PARK Toronto, ON",Midtown Toronto,8980000,43.677525,-79.418228,M6G 2V5,Burnside Drive
+"#Gph2 - 101 ERSKINE AVE Toronto, ON",Mount Pleasant West,1355000,43.711609,-79.3955,M4P 1Y5,Erskine Avenue
+"#1116 - 1 EDGEWATER DR Toronto, ON",East Bayfront,2860000,43.645634,-79.362335,M5A 1B6,Queens Quay East
+"#1614 - 628 FLEET ST Toronto, ON",Niagara,679000,43.636234,-79.403122,M5V 1A8,Fleet Street
+"#1011 - 633 BAY ST Toronto, ON",Downtown,439800,43.656731,-79.383461,M5G 1C9,Bay Street
+"1245 DUPONT ST Toronto, ON",Wallace Emerson,119000,43.667503,-79.44208499999999,M6H 2A6,Dupont Street
+"#2511 - 85 QUEENS WHARF RD Toronto, ON",Downtown,348888,43.638866,-79.398438,M5V 1A9,Fort York Boulevard
+"300 SHUTER ST Toronto, ON",Downtown,1950000,43.657051,-79.365311,M5A 3A4,Parliament Street
+"1174 BLOOR ST W Toronto, ON",Wallace Emerson,84990,43.659683,-79.437279,M6H 1N1,Bloor Street West
+"166 DOUGLAS DR Toronto, ON",Midtown Toronto,3588000,43.684898,-79.375198,M4W 2B7,Douglas Drive
+"#2705 - 260 QUEENS QUAY Toronto, ON",Downtown,399900,43.63932,-79.385727,M5J 2N3,Queens Quay West
+"#1104 - 100 WESTERN BATTERY RD Toronto, ON",Niagara,249900,43.63966,-79.41577099999999,M6K 3S2,Western Battery Road
+"#2406 - 70 DISTILLERY LANE Toronto, ON",Downtown,798800,43.650082,-79.35797099999999,M5A 0E3,Rack House Mews
+"#320 - 25 COLE ST Toronto, ON",Downtown,259000,43.660152000000004,-79.364891,M5A 2C4,Cole Street
+"#1204 - 51 EAST LIBERTY ST Toronto, ON",Liberty Village,509900,43.638607,-79.411858,M6K 3P8,East Liberty Street
+"#1 - 253 WELLESLEY ST E Toronto, ON",Downtown,819900,43.667671,-79.37151300000001,M4X 1G8,Wellesley Street East
+"#2612 - 80 JOHN ST Toronto, ON",Downtown,998000,43.646809000000005,-79.390182,M5V 3X4,John Street
+"#Th03 - 101 ERSKINE AVE Toronto, ON",Mount Pleasant West,1615000,43.711609,-79.3955,M4P 1Y5,Erskine Avenue
+"#1708 - 1815 YONGE ST Toronto, ON",Midtown Toronto,849900,43.696033,-79.395668,M4T 2A4,Yonge Street
+"#712 - 51 LOWER SIMCOE ST N Toronto, ON",Entertainment District,589900,43.642208000000004,-79.383728,M5J 3A6,Lower Simcoe Street
+"#2907 - 628 FLEET ST Toronto, ON",Niagara,619000,43.636234,-79.403122,M5V 1A8,Fleet Street
+"#4104 - 33 BAY ST Toronto, ON",Downtown,599000,43.642509000000004,-79.377365,M5J 2Z3,Bay Street
+"#304 - 38 GRENVILLE ST Toronto, ON",Downtown,415800,43.661896,-79.38575,M4Y 1A5,Ontario
+"#1001 - 438 RICHMOND ST W Toronto, ON",Downtown,474900,43.648006,-79.396835,M5V 1X9,Richmond Street West
+"#506 - 68 MERTON ST Toronto, ON",Midtown Toronto,362990,43.696835,-79.393997,M4S 0A7,Merton Street
+"#527 - 29 QUEENS QUAY E Toronto, ON",Downtown,612000,43.642272999999996,-79.372704,M5E 1L7,Old Toronto
+"#511 - 600 FLEET ST Toronto, ON",Niagara,323000,43.63673,-79.40050500000001,M5V 1B7,Fleet Street
+"#1308 - 300 FRONT ST W Toronto, ON",Downtown,530000,43.644172999999995,-79.38942,M5V 0E9,Front Street West
+"#2007 - 30 GLOUCESTER ST Toronto, ON",Church and Wellesley,244900,43.66708,-79.383156,M4Y 1L6,Gloucester Street
+"797 LANSDOWNE AVE Toronto, ON",Wallace Emerson,619000,43.661896,-79.443748,M6H 3Z1,Lansdowne Avenue
+"183 SEATON ST Toronto, ON",Downtown,1199000,43.659206,-79.369415,M5A 2T5,Seaton Street
+"#310 - 222 THE ESPLANADE Toronto, ON",Downtown,375000,43.649731,-79.365303,M5A 4M8,The Esplanade
+"11 RHODES AVE Toronto, ON",Leslieville,649000,43.666817,-79.31765,M4L 2Z8,Rhodes Avenue
+"#608 - 10 BELLAIR ST Toronto, ON",Midtown Toronto,7899000,43.669788,-79.391121,M5S 3L7,Bellair Street
+"194 MANNING AVE Toronto, ON",Trinity - Bellwoods,624999,43.650940000000006,-79.410881,M6J 2K5,Dundas Street West
+"11 ST PATRICKS SQ Toronto, ON",Downtown,829900,43.650604,-79.390419,M5T 1W8,Queen Street West
+"#538 - 38 GRAND MAGAZINE ST Toronto, ON",Niagara,369900,43.637035,-79.402863,M5V 0B2,Sloping Sky Mews
+"#214 - 2055 DANFORTH AVENUE AVE Toronto, ON",East Danforth,479900,43.685455,-79.313133,M4C 1J8,Danforth Avenue
+"#819 - 825 CHURCH ST Toronto, ON",Midtown Toronto,599000,43.672985,-79.38703199999999,M4W 3Z4,Church Street
+"#3405 - 33 BAY ST Toronto, ON",Downtown,385000,43.642509000000004,-79.377365,M5J 2Z3,Bay Street
+"#2801 - 600 FLEET ST Toronto, ON",Niagara,549900,43.63673,-79.40050500000001,M5V 1B7,Fleet Street
+"#14 - 338 SPADINA RD Toronto, ON",Midtown Toronto,364900,43.684273,-79.41111,M5R 2V8,Old Toronto
+"#514 - 10 QUEENS QUAY W QUAY Toronto, ON",Downtown,469900,43.642139,-79.37571,M5J 2V7,Old Toronto
+"#2101 - 21 WIDMER ST Toronto, ON",Downtown,628000,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#106 - 253 MERTON ST Toronto, ON",Midtown Toronto,374900,43.697487,-79.38855,M4S 1A9,Merton Street
+"26 BELLAIR ST Toronto, ON",Midtown Toronto,75000,43.670742,-79.391388,M5R 2C7,Bellair Street
+"108 SPRINGHURST AVE Toronto, ON",Parkdale,959900,43.634659,-79.436211,M6K 1C1,Springhurst Avenue
+"737 AVENUE RD Toronto, ON",Midtown Toronto,2399900,43.696071999999994,-79.40477,M5P 2J9,Avenue Road
+"#524 - 628 FLEET ST Toronto, ON",Niagara,484900,43.636234,-79.403122,M5V 1A8,Fleet Street
+"#407 - 32 STEWART ST Toronto, ON",Downtown,329000,43.643566,-79.401031,M5V 1H6,Stewart Street
+"#3105 - 295 ADELAIDE ST Toronto, ON",Downtown,469000,43.647663,-79.390419,M5V 0L4,Adelaide Street West
+"#316 - 38 JOE SHUSTER WAY Toronto, ON",Toronto,298500,43.640335,-79.424477,M6K 0A5,Joe Shuster Way
+"2601 50 Quebec Avenue Toronto, ON",High Park North,795900,43.65448,-79.467651,M6P 2V8,Quebec Avenue
+"#2407 - 14 YORK ST Toronto, ON",Downtown,419000,43.641788,-79.381874,M5J 0B1,York Street
+"#518 - 103 THE QUEENSWAY BLVD Toronto, ON",Swansea,315000,43.636292,-79.470467,M6S 5B3,The Queensway
+"94 ROWNTREE AVE Toronto, ON",Earlscourt,449000,43.680565,-79.465034,M6N 1S2,Rowntree Avenue
+"#605 - 2055 DANFORTH AVE Toronto, ON",East Danforth,354900,43.685455,-79.313133,M4C 1J8,Danforth Avenue
+"#210 - 400 ADELAIDE ST E Toronto, ON",Downtown,449900,43.652817,-79.367737,M5A 1N4,Adelaide Street East
+"#903 - 35 BASTION ST Toronto, ON",Niagara,399900,43.637207000000004,-79.403572,M5V 0C2,Bastion Street
+"#211 - 270 WELLINGTON ST Toronto, ON",Downtown,449900,43.645069,-79.390862,M5V 3P5,Wellington Street West
+"#103 - 21 NASSAU ST Toronto, ON",Downtown,799900,43.655689,-79.399826,M5T 1M2,Nassau Street
+"33 BETTY NAGLE ST Toronto, ON",Humberlea,669900,43.730121999999994,-79.534042,M9M 0B2,Mary Chapman Boulevard
+"61 ELDON AVE Toronto, ON",Old East York,1199999,43.692318,-79.291946,M4C 5G2,Eldon Avenue
+"#301 - 1888 BAYVIEW AVE Toronto, ON",Midtown Toronto,1050000,43.717461,-79.37886,M4N 3J5,Old Toronto
+"#1105 - 1 OLD MILL DR Toronto, ON",Lambton Baby Point,799900,43.648243,-79.486626,M6S 0A1,Bloor Street West
+"#30 - 1770 ALBION RD W Toronto, ON",Rexdale,299000,43.744254999999995,-79.60462199999999,M9V 1C1,Albion Road
+"#511 - 205 SHERWAY GARDENS RD Toronto, ON",Islington - City Centre West,400000,43.609573,-79.557335,M9C 0A5,Sherway Gardens Road
+"#Uph07 - 19 AVONDALE AVE Toronto, ON",Willowdale,224800,43.758109999999995,-79.409081,M2N 0A6,Avondale Avenue
+"#1531 - 3 GREYSTONE WALK DR Toronto, ON",Kennedy Park,319000,43.724361,-79.251663,M1K 5J3,Greystone Walk Drive
+"#A209 A - 16 MALLARD RD Toronto, ON",Don Mills,289900,43.747749,-79.348656,M3B 3N1,Mallard Road
+"27 WADDINGTON CRES Toronto, ON",Don Valley Village,1098000,43.785618,-79.342804,M2J 2Z9,Waddington Crescent
+"#506 - 1060 SHEPPARD AVE W Toronto, ON",Downsview,340000,43.750595000000004,-79.464058,M3J 0G7,Ontario
+"924 PHARMACY AVE Toronto, ON",Wexford - Maryvale,674900,43.732147,-79.300087,M1R 2E9,Pharmacy Avenue
+"959 BRIMORTON DR Toronto, ON",Woburn,630000,43.771046000000005,-79.20991500000001,M1G 2V1,Brimorton Drive
+"448 GLENGROVE AVE W Toronto, ON",Midtown Toronto,2395000,43.71468,-79.427269,M5N 1X2,Glengrove Avenue West
+"#603 - 2330 BRIDLETOWNE CIRC Toronto, ON",Milliken,575000,43.800041,-79.31527700000001,M1W 2L3,Bridletowne Circle
+"#2107 - 725 DON MILLS RD Toronto, ON",Flemingdon Park,229000,43.711422,-79.333313,M3C 1T1,Ontario
+"#207 - 168 BONIS AVE Toronto, ON",Tam O'Shanter,499900,43.785709000000004,-79.293724,M1T 3V6,Bonis Avenue
+"535 VAUGHAN RD Toronto, ON",Midtown Toronto,449000,43.690762,-79.43740799999999,M6C 2R2,Vaughan Road
+"#3 - 94 HALSEY AVE Toronto, ON",Woodbine Gardens,82800,43.699581,-79.29782900000001,M4B 1A9,Halsey Avenue
+"#104 - 2088 LAWRENCE AVE Toronto, ON",Weston,300000,43.69976,-79.51849399999999,M9N 1J1,Lawrence Avenue West
+"#Ph 01 - 1 MICHAEL POWER PL Toronto, ON",Islington - City Centre West,319000,43.643925,-79.528885,M9A 0A3,Michael Power Place
+"#215 - 62 FOREST MANOR RD Toronto, ON",Henry Farm,550000,43.773922,-79.345726,M2J 0B6,George Henry Boulevard
+"26 PANMURE CRES Toronto, ON",Bendale,699000,43.746624,-79.253967,M1K 4Y6,Panmure Crescent
+"#2011 - 2 ANNDALE DR Toronto, ON",Willowdale,628800,43.760464,-79.410248,M2N 0G5,Anndale Drive
+"8 MANSUR TERR Toronto, ON",York University Heights,759000,43.765575,-79.499489,M3J 3R1,Murray Ross Parkway
+"#708 - 88 CORPORATE DR Toronto, ON",Woburn,335000,43.780956,-79.249779,M1H 3G6,Scarborough
+"7 CLEARBROOKE CIRC Toronto, ON",Rexdale,659900,43.717579,-79.566345,M9W 2E2,Tofield Crescent
+"#2908 - 2200 LAKE SHORE BLVD W Toronto, ON",Mimico,343000,43.622883,-79.481972,M8V 1A4,Lake Shore Boulevard West
+"#601 - 35 BRIAN PECK CRES Toronto, ON",Leaside,499000,43.714638,-79.35463,M4G 4J7,Brian Peck Crescent
+"#608 - 19 FOUR WINDS DR Toronto, ON",Jane and Finch,315000,43.764374,-79.49455999999999,M3J 2S9,Four Winds Drive
+"#216 - 80 HARRISON GARDEN BLVD Toronto, ON",Willowdale,472000,43.756294,-79.406532,M2N 7E2,Harrison Garden Boulevard
+"51 KANARICK Crescent Toronto, ON",Downsview,569900,43.738796,-79.506371,M3L 1P3,Kanarick Crescent
+"67 RABBIT LANE Toronto, ON",Eringate - Centennial - West Deane,789000,43.660441999999996,-79.568619,M9B 5S8,Rabbit Lane
+"16 RADISSON ST Toronto, ON",South Cedarbrae,599000,43.745686,-79.236183,M1J 2P2,Ascolda Boulevard
+"11 AYLESWORTH AVE Toronto, ON",Birch Cliff,989000,43.698494000000004,-79.263435,M1N 2G3,Pinegrove Avenue
+"#311 - 10 STONEHILL CRT Toronto, ON",Bridlewood,289000,43.79488,-79.313713,M1W 2X8,Stonehill Court
+"#Ph24 - 3650 KINGSTON RD Toronto, ON",Scarborough Village,249500,43.742031,-79.213844,M1M 1R9,Kingston Road
+"#68 - 464 SILVERSTONE DR Toronto, ON",Silverstone,429900,43.74168,-79.598206,M9V 3K8,Etobicoke
+"#604 - 2645 KIPLING AVE Toronto, ON",Rexdale,139995,43.747498,-79.58330500000001,M9V 3S6,Etobicoke
+"324 SPRUCEWOOD CRT Toronto, ON",L'Amoreaux,535000,43.793533000000004,-79.323593,M1W 2K3,Sprucewood Court
+"108 LAURA RD Toronto, ON",Jane and Finch,575000,43.742451,-79.521774,M3N 1Z9,Lomar Drive
+"#2810 - 16 BROOKERS LANE Toronto, ON",Humber Bay Shores,299999,43.626965000000006,-79.47848499999999,M8V 0A5,Brookers Lane
+"31 GREEN SPRING DR Toronto, ON",Toronto,658000,43.823734,-79.26403,M1V 2A9,Green Spring Drive
+"#35 - 10 ESTERBROOKE AVE Toronto, ON",Don Valley Village,472000,43.779041,-79.35199,M2J 2C2,Esterbrooke Avenue
+"12 LASKAY CRES Toronto, ON",Jane and Finch,689900,43.76384,-79.516586,M3N 1P3,Laskay Crescent
+"361 CENTENNIAL RD Toronto, ON",Port Union,999900,43.790985,-79.152229,M1C 2A3,Centennial Road
+"#1612 - 18 SOMMERSET WAY Toronto, ON",Willowdale,338800,43.776028000000004,-79.412056,M2N,Rouge Street
+"#512 - 12 REAN DR Toronto, ON",Bayview Village,382900,43.766087,-79.38183599999999,M2K 1A5,Rean Drive
+"#221 - 10 BLOORVIEW PL Toronto, ON",Don Valley Village,428800,43.773495000000004,-79.358963,M2J 0B1,Bloorview Place
+"5649 YONGE ST Toronto, ON",Newtonbrook,350000,43.781307,-79.415657,M2M 3T2,Yonge Street
+"#Th3 - 1 REAN DR Toronto, ON",Bayview Village,649000,43.76498,-79.383522,M2K 3C1,Rean Drive
+"986 CALEDONIA RD Toronto, ON",Glen Park,899000,43.708736,-79.466133,M6B 3Y8,Caledonia Road
+"#2009 - 370 DIXON RD Toronto, ON",Kingsview Village,229900,43.69582,-79.55632800000001,M9R 1T2,Etobicoke
+"#2209 - 90 PARK LAWN RD Toronto, ON",Humber Bay,377000,43.624373999999996,-79.48554200000001,M8Y 0B6,Park Lawn Road
+"#109 - 5 FRITH RD Toronto, ON",Jane and Finch,179900,43.745917999999996,-79.515724,M3N 1E9,Frith Road
+"5 LIGHTHALL CRES Toronto, ON",Malvern,649000,43.810703000000004,-79.234848,M1B 1V4,Lighthall Crescent
+"#2203 - 10 SUNNY GLEN WAY Toronto, ON",Flemingdon Park,247000,43.710075,-79.331192,M3C 2Z3,Sunny Glenway
+"# 809 - 236 ALBION RD Toronto, ON",Rexdale,109000,43.722031,-79.543945,M9W 6A6,Albion Road
+"#113 - 127 WESTMORE DR Toronto, ON",Rexdale,314900,43.736019,-79.600555,M9V 3Y6,Etobicoke
+"#20 - 50 VERNE CRES Toronto, ON",Malvern,369900,43.796494,-79.237122,M1B 2X1,Verne Crescent
+"149 LAURA RD Toronto, ON",Jane and Finch,588000,43.744061,-79.521606,M3N 1Z8,Laura Road
+"#210 - 10 BLOORVIEW PL Toronto, ON",Don Valley Village,389000,43.773495000000004,-79.358963,M2J 0B1,Bloorview Place
+"#1512 - 36 LEE CENTRE DR Toronto, ON",Woburn,259000,43.78167,-79.247215,M1H 3J7,Lee Centre Drive
+"#2301 - 181 WYNFORD DR Toronto, ON",Victoria Village,299000,43.724998,-79.328636,M3C 0C6,Wynford Drive
+"#30 - 2901 STEELES AVE W Toronto, ON",York University Heights,79988,43.781139,-79.492851,M3J 3A1,Steeles Avenue West
+"#606 - 18 HOLMES AVE Toronto, ON",Willowdale,279600,43.778434999999995,-79.41333,M2N 0E1,Holmes Avenue
+"#1622 - 19 SINGER CRT Toronto, ON",Bayview Village,418000,43.769569,-79.369514,M2K 1C5,Singer Court
+"#2309 - 2220 LAKE SHORE BLVD Toronto, ON",Mimico,418000,43.62273,-79.483192,M8V 0C1,Lake Shore Boulevard West
+"#106 - 5162 YONGE ST Toronto, ON",Willowdale,669000,43.769665,-79.41378,M2N 0E9,North York
+"34 GREEN BUSH RD Toronto, ON",Newtonbrook,849980,43.794113,-79.43051899999999,M2M 1P3,Green Bush Road
+"#2012 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,495000,43.774895,-79.345955,M2J 1G2,Forest Manor Road
+"2919 ISLINGTON AVE Toronto, ON",Humber Summit,633100,43.75555,-79.568619,M9L 2K3,Islington Avenue
+"#903 - 35 FINCH AVE E Toronto, ON",Willowdale,334900,43.779987,-79.412735,M2N 6Z8,North York
+"#218 - 2835 ISLINGTON AVE N Toronto, ON",Humber Summit,207000,43.750095,-79.567474,M9L 2K2,Islington Avenue
+"#1109 - 1 FOUR WINDS DR Toronto, ON",Jane and Finch,343000,43.764614,-79.491989,M3J 2T1,North York
+"1530 ALBION RD Toronto, ON",Rexdale,129900,43.741695,-79.584373,M9V 1B4,Albion Road
+"#2407 - 50 BRIAN HARRISON WAY Toronto, ON",Bendale,329000,43.773582,-79.25891899999999,M1P 5J4,Ontario
+"311 SILVERTHORN AVE Toronto, ON",Silverthorn,499900,43.681828,-79.462662,M6N 3K5,Silverthorn Avenue
+"#2202 - 155 LEGION RD Toronto, ON",Mimico,324900,43.62381,-79.488022,M8Y 0A1,Legion Road North
+"#914 - 2835 ISLINGTON AVE Toronto, ON",Humber Summit,169900,43.750095,-79.567474,M9L 2K2,Islington Avenue
+"#2803 - 215 SHERWAY GARDENS RD Toronto, ON",Islington - City Centre West,369000,43.609992999999996,-79.55748,M9C 0A5,Sherway Gardens Road
+"12 FULWELL CRES Toronto, ON",York University Heights,956000,43.749916,-79.503555,M3J 1Y3,Fulwell Crescent
+"#206 - 2825 ISLINGTON AVE Toronto, ON",Humber Summit,150000,43.748459000000004,-79.568283,M9L 2L2,North York
+"92 GRISTONE CRES Toronto, ON",Rouge,619900,43.823277000000004,-79.215515,M1X 1T6,Gristone Crescent
+"140 MABERLEY CRES Toronto, ON",Rouge,650000,43.782482,-79.131035,M1C 3X7,Maberley Crescent
+"52 LEAHANN DR Toronto, ON",McGregor Park,699999,43.743446,-79.278091,M1P 1B9,Leahann Drive
+"#2429 - 165 LEGION RD N Toronto, ON",Mimico,344900,43.624207,-79.488228,M8Y 0B3,Legion Road North
+"238 LUMSDEN AVE Toronto, ON",Woodbine - Lumsden,899000,43.693295,-79.313347,M4C 2K4,Lumsden Avenue
+"1 FRIARS LANE Toronto, ON",Thorncrest Village,2500000,43.663689,-79.533691,M9A 1R8,Friars Lane
+"#918 - 15 JAMES FINLAY WAY Toronto, ON",Downsview,269900,43.726418,-79.47994200000001,M3M 0B3,Wilson Avenue
+"414 MELROSE ST Toronto, ON",Mimico,849000,43.618263,-79.50885799999999,M8Z 1H2,Evans Avenue
+"17 DELABO DR Toronto, ON",York University Heights,699000,43.765301,-79.502525,M3J 3S5,Delabo Drive
+"83 HEARST CIRC Toronto, ON",Brookhaven,519000,43.699989,-79.496284,M6M 2V2,Kemp Square
+"#1703 - 5 CONCORDE PL Toronto, ON",Victoria Village,264000,43.730323999999996,-79.327217,M3C 3R8,Concorde Place
+"#421 - 120 HARRISON GARDEN BLVD Toronto, ON",Willowdale,428000,43.757988,-79.403625,M2N 0H1,Harrison Garden Boulevard
+"#801 - 15 JAMES FINLAY WAY Toronto, ON",Downsview,349900,43.726418,-79.47994200000001,M3M 0B3,Wilson Avenue
+"#1105 - 19 SINGER CRT Toronto, ON",Bayview Village,329000,43.769569,-79.369514,M2K 1C5,Singer Court
+"#1207 - 80 ANTIBES DR Toronto, ON",Newtonbrook,395000,43.780464,-79.447006,M2R 3N1,Antibes Drive
+"#203 - 275 BAMBURGH CIRC Toronto, ON",Steeles,368888,43.81361,-79.32341,M1W 3X4,Bamburgh Circle
+"18 MIDDLEPORT CRES Toronto, ON",Malvern,899000,43.815502,-79.216034,M1B 4L4,Middleport Crescent
+"3 PRINCEMERE CRES Toronto, ON",Wexford,849900,43.755328999999996,-79.302849,M1R 3J8,Murray Glen Drive
+"#2603 - 15 VIKING LANE Toronto, ON",Islington - City Centre West,339000,43.639202000000004,-79.535423,M9B 0A4,Viking Lane
+"#504 - 8 SILVER BELL GRVE Toronto, ON",Malvern,148000,43.803925,-79.216507,M1B 2L7,Silver Bell Grove
+"#1014 - 4 ELSINORE PATH Toronto, ON",New Toronto,226900,43.601498,-79.51007800000001,M8V 4G7,Elsinore Path
+"#308 - 20 OLIVE AVE Toronto, ON",Willowdale,309900,43.779163,-79.414513,M2N 7G5,Olive Avenue
+"#612 - 9 FOUR WINDS DR Toronto, ON",Jane and Finch,273900,43.765266,-79.493652,M3J 2S8,Four Winds Drive
+"#Th104 - 399 SPRING GARDEN AVE Toronto, ON",Willowdale,609000,43.768574,-79.389618,M2N 3H6,Spring Garden Avenue
+"10 FRONTENAC AVE Toronto, ON",Midtown Toronto,2900000,43.718708,-79.421021,M5N 1Z5,Saguenay Avenue
+"#2406 - 770 LAWRENCE AVE W Toronto, ON",Lawrence Heights,348800,43.715202000000005,-79.452354,M6A 3C6,Via Bagnato
+"18 SWALLOWTAIL RD Toronto, ON",Malvern,619000,43.815937,-79.223,M1B 6B1,Swallowtail Road
+"38 BELANGER CRES Toronto, ON",Clairlea - Birchmount,699000,43.702419,-79.27436800000001,M1L 0G1,Belanger Crescent
+"#702 - 256 DORIS AVE Toronto, ON",Willowdale,425000,43.771595,-79.412178,M2N 6X8,Doris Avenue
+"15 FERN AVE Toronto, ON",Roncesvalles Village,779000,43.645916,-79.441017,M6R 1J9,Fern Avenue
+"10 HIGH POINT RD Toronto, ON",Bridle Path,26800000,43.735306,-79.372612,M3B 2A4,High Point Road
+"#27 - 71 CASS AVE Toronto, ON",Tam O'Shanter,359999,43.775997,-79.305061,M1T 3P9,Cass Avenue
+"#402 - 2087 LAKE SHORE BLVD Toronto, ON",Humber Bay Shores,299000,43.629665,-79.477333,M8V 4G4,Lake Shore Boulevard West
+"#731 - 2885 BAYVIEW AVE Toronto, ON",Bayview Village,235000,43.767936999999996,-79.387955,M2K 0A3,Bayview Avenue
+"#512 - 20 OLIVE AVE Toronto, ON",Willowdale,319900,43.779163,-79.414513,M2N 7G5,Olive Avenue
+"#M4 - 3390 WESTON RD Toronto, ON",Emery,80000,43.749187,-79.542702,M9M 2X3,Weston Road
+"6 HUXTABLE LANE Toronto, ON",Rouge,469900,43.796883,-79.15486899999999,M1B 0A3,Tideswell Boulevard
+"#1703 - 50 TOWN CENTRE CRT Toronto, ON",Bendale,292000,43.773251,-79.25527199999999,M1P 0A9,Town Centre Court
+"#816 - 39 KIMBERCROFT CRT Toronto, ON",White Haven,279900,43.791035,-79.239006,M1S 4V6,Kimbercroft Court
+"6 TANNER CRT Toronto, ON",Newtonbrook,1390000,43.788364,-79.39807900000001,M2M 2C5,Tanner Court
+"#906 - 155 BEECROFT RD Toronto, ON",Willowdale,369000,43.765537,-79.413155,M2N 7C5,Beecroft Road
+"#3704 - 2045 LAKE SHORE BLVD W Toronto, ON",Mimico,999000,43.631355,-79.474609,M8V 2Z6,Lake Shore Boulevard West
+"#2908 - 25 TOWN CENTRE CRT Toronto, ON",Bendale,429900,43.773403,-79.254951,M1P 0A9,Town Centre Court
+"#405 - 2015 SHEPPARD AVE Toronto, ON",Henry Farm,299000,43.775208,-79.336426,M2J 0A8,Sheppard Avenue East
+"2655 LAWRENCE AVE E Toronto, ON",Bendale,149000,43.751389,-79.263054,M1P 2S3,Lawrence Avenue East
+"#315 - 36 LISGAR ST Toronto, ON",Little Portugal,299900,43.641697,-79.42343100000001,M6J 0A9,Abell Street
+"#1 - 3290 MIDLAND AVE Toronto, ON",Agincourt,129000,43.806225,-79.289284,M1V 3L3,Silver Star Boulevard
+"#Ph63 - 60 ANN O&#39;REILLY RD Toronto, ON",Port Hope,722000,43.960762,-78.323914,L1A 3V5,Toronto Road
+"#238 - 4438 SHEPPARD AVE E Toronto, ON",Agincourt,109988,43.788311,-79.26808199999999,M1S 1V2,Sheppard Avenue East
+"#8 G - 1921 EGLINTON AVE E Toronto, ON",Golden Mile,159000,43.726879,-79.28846,M1L 2L6,Eglinton Avenue East
+"#601 - 188 DORIS AVE Toronto, ON",Willowdale,328888,43.767403,-79.410599,M2N 3T5,Doris Avenue
+"#1217 - 800 LAWRENCE AVE W Toronto, ON",Lawrence Heights,328000,43.714591999999996,-79.452911,M6A 0B1,Lawrence Avenue West
+"#5703 - 14 YORK ST Toronto, ON",Downtown,829000,43.641788,-79.381874,M5J 0B1,York Street
+"#347 - 8 TELEGRAM MEWS Toronto, ON",Downtown,499900,43.64048,-79.394966,M5V 3Z4,Telegram Mews
+"#1305 - 2885 BAYVIEW AVE Toronto, ON",Bayview Village,394900,43.767936999999996,-79.387955,M2K 0A3,Bayview Avenue
+"#402 - 159 DUNDAS ST E Toronto, ON",Downtown,339970,43.656807,-79.37509200000001,M5B 0A9,Old Toronto
+"#1413 - 323 RICHMOND ST E Toronto, ON",Old Town,339888,43.653217,-79.368378,M5A 4S8,Richmond Street East
+"#517 - 181 VILLAGE GREEN SQ Toronto, ON",Agincourt,299000,43.779205,-79.28151700000001,M1S 0K5,Village Green Square
+"#902 - 18 HOLMES AVE Toronto, ON",Willowdale,288000,43.778434999999995,-79.41333,M2N 0E1,Holmes Avenue
+"#705 - 4101 SHEPPARD AVE E Toronto, ON",Agincourt,269000,43.78344,-79.283562,M1S 3H3,Sheppard Avenue East
+"#352 - 151 DAN LECKIE WAY Toronto, ON",Downtown,688800,43.639782000000004,-79.397949,M5V 4B2,Dan Leckie Way
+"#2706 - 5168 YONGE ST Toronto, ON",Willowdale,569000,43.769829,-79.413467,M2N 0G1,Yonge Street
+"#201 - 760 THE QUEENSWAY AVE Toronto, ON",The Queensway,414900,43.625927000000004,-79.504417,M8Z 1N1,The Queensway
+"39 RINGWAY CRES Toronto, ON",Rexdale,689500,43.717667,-79.55246700000001,M9W 1X2,Ringway Crescent
+"#427 - 300 MANITOBA ST Toronto, ON",Mimico,343000,43.62421,-79.489449,M8Y 4G9,Manitoba Street
+"#619 - 400 ADELAIDE ST E Toronto, ON",Downtown,399000,43.652817,-79.367737,M5A 1N4,Adelaide Street East
+"#Ph05 - 4091 SHEPPARD AVE E Toronto, ON",Agincourt,258000,43.783657,-79.28441600000001,M1S 3H2,Sheppard Avenue East
+"#6 - 200 MCLEVIN AVE Toronto, ON",Malvern,289000,43.804581,-79.22776800000001,M1B 6A2,Scarborough
+"#2808 - 32 DAVENPORT RD Toronto, ON",Midtown Toronto,825000,43.673171999999994,-79.389687,M5R 0B5,Davenport Road
+"#2902 - 2167 LAKESHORE BLVD Toronto, ON",Parkdale,510000,43.635578,-79.441345,M6K 3C1,Lake Shore Boulevard West
+"#4107 - 45 CHARLES ST E Toronto, ON",Downtown,550000,43.668777,-79.383995,M4Y 1S2,Charles Street East
+"#4411 - 12 YORK ST Toronto, ON",Downtown,519900,43.641632,-79.38205,M5J 2T8,Old Toronto
+"#1202 - 9 BOGERT AVE Toronto, ON",Lansing,629000,43.760303,-79.411621,M2N 0H3,Bogert Avenue
+"#510 - 125 PETER ST Toronto, ON",Downtown,329900,43.648296,-79.39295200000001,M5V 0M3,Peter Street
+"#517 - 77 MAITLAND PL Toronto, ON",Downtown,359900,43.665104,-79.3769,M4Y 2V6,Maitland Place
+"#1102 - 22 OLIVE AVE Toronto, ON",Willowdale,369000,43.779659,-79.414589,M2N 7G6,Olive Avenue
+"#901 - 15 LEGION RD Toronto, ON",Mimico,399000,43.621376,-79.483429,M8V 0B1,Etobicoke
+"236 LAWRENCE AVE E Toronto, ON",Midtown Toronto,2898000,43.727759999999996,-79.389961,M4N 1T2,Midtown Toronto
+"#510 - 18 PARKVIEW AVE Toronto, ON",Willowdale,549990,43.771309,-79.412926,M2N 5P8,Parkview Avenue
+"#Ph102 - 5791 YONGE ST Toronto, ON",Newtonbrook,498800,43.784409000000004,-79.416061,M2M 0A8,Yonge Street
+"#1202 - 5791 YONGE ST Toronto, ON",Newtonbrook,458500,43.784409000000004,-79.416061,M2M 0A8,Yonge Street
+"32 WESTLEIGH CRES Toronto, ON",Alderwood,899900,43.597782,-79.55234499999999,M8W 3Z7,Westleigh Crescent
+"#1506 - 39 SHERBOURNE ST Toronto, ON",Downtown,415000,43.65097,-79.368111,M5A 2P6,Sherbourne Street
+"#2204 - 2212 LAKESHORE BLVD W Toronto, ON",Mimico,329990,43.622589000000005,-79.482445,M8V 0A9,Etobicoke
+"#2809 - 45 CHARLES ST E Toronto, ON",Downtown,578000,43.668777,-79.383995,M4Y 1S2,Charles Street East
+"#1203 - 1910 LAKESHORE BLVD Toronto, ON",Sunnyside,389900,43.636387,-79.466263,M6S,Lake Shore Boulevard West
+"#707 - 75 QUEENS WHARF RD Toronto, ON",Downtown,417888,43.638477,-79.397987,M5V 0J8,Housey Street
+"#1801 - 60 BYNG AVE Toronto, ON",Willowdale,324900,43.777355,-79.41275,M2N 7K3,Byng Avenue
+"#3323 - 275 VILLAGE GREEN SQ Toronto, ON",Agincourt,408000,43.779129,-79.281883,M1S 0K6,Village Green Square
+"2906 EGLINTON AVE Toronto, ON",Eglinton East,199999,43.739429,-79.237755,M1J 2E4,Eglinton Avenue East
+"#2902 - 9 BOGERT AVE Toronto, ON",Lansing,688000,43.760303,-79.411621,M2N 0H3,Bogert Avenue
+"#515 - 101 CHARLES ST E Toronto, ON",Downtown,599000,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"#2203 E - 36 LISGAR ST Toronto, ON",Little Portugal,315990,43.641697,-79.42343100000001,M6J 0A9,Abell Street
+"#1512 - 352 FRONT ST Toronto, ON",Downtown,390900,43.643485999999996,-79.392303,M5V 0K3,Front Street West
+"#504 - 212 ST. GEORGE ST Toronto, ON",Midtown Toronto,409888,43.671065999999996,-79.401443,M5R 2N8,Saint George Street
+"#1808 - 60 BYNG AVE Toronto, ON",Willowdale,348000,43.777355,-79.41275,M2N 7K3,Byng Avenue
+"#207 - 228 BONIS AVE Toronto, ON",Tam O'Shanter,335000,43.786736,-79.29100799999999,M1T 3W4,Bonis Avenue
+"#610 - 637 LAKE SHORE BLVD W Toronto, ON",Niagara,1279000,43.635521000000004,-79.402435,M5V 3J6,Lake Shore Boulevard West
+"#3805 - 8 The Esplanade Ave Toronto, ON",Downtown,899000,43.64613,-79.375778,M5E 0A6,Old Toronto
+"#3 - 380 Driftwood Ave Toronto, ON",Jane and Finch,300000,43.767052,-79.514549,M3N 2P5,Driftwood Avenue
+"70 Struthers St Toronto, ON",Mimico,799900,43.608631,-79.49889399999999,M8V 1Y1,Struthers Street
+"#2807 - 90 Park Lawn Rd Toronto, ON",Humber Bay,457000,43.624373999999996,-79.48554200000001,M8Y 0B6,Park Lawn Road
+"103 Fishery Rd Toronto, ON",Highland Creek,699900,43.790642,-79.176041,M1C 4H5,Fishery Road
+"95 Treetops Crt Toronto, ON",Toronto,650000,43.825737,-79.264999,M1V 2B9,Treetops Court
+"21 Wheeling Dr Toronto, ON",Rouge,674900,43.783424,-79.131348,M1C 3X2,Oxhorn Road
+"79 Cayuga Ave Toronto, ON",Harwood,319900,43.678585,-79.478516,M6N 2G4,Cayuga Avenue
+"#2409 - 44 St Joseph St Toronto, ON",Downtown,399000,43.66592,-79.386963,M4Y 1K1,Saint Joseph Street
+"#Sph03 - 50 Bruyeres Mews Toronto, ON",Niagara,378800,43.637432000000004,-79.40136700000001,M5V 0G8,Iannuzzi Street
+"23 Temple Ave Toronto, ON",Parkdale,849000,43.636009,-79.427162,M6K 1C7,Temple Avenue
+"169 Beaconsfield Ave Toronto, ON",Little Portugal,949000,43.649033,-79.427734,M6J 3J7,Beaconsfield Avenue
+"64 Windrush Tr Toronto, ON",Highland Creek,999999,43.788246,-79.17627,M1C 3X9,Windrush Trail
+"#1033 - 3045 Finch Ave Toronto, ON",Emery,305000,43.747147,-79.564728,M9M 0A6,North York
+"8 Windwood Dr Toronto, ON",Rexdale,660000,43.730843,-79.604576,M9W 6E7,Windwood Drive
+"11 Carsbrooke Rd Toronto, ON",Etobicoke West Mall,724900,43.646446000000005,-79.57513399999999,M9C 3B9,Carsbrooke Road
+"116 Via Cassia Dr Toronto, ON",Brookhaven - Amesbury,699000,43.696663,-79.494972,M6M 5L3,Via Cassia Drive
+"41 Gage Ave Toronto, ON",Bendale,799000,43.749783,-79.25048100000001,M1J 1T6,Kilgreggan Crescent
+"72 Great Oak Dr Toronto, ON",Princess - Rosethorn,1499900,43.657866999999996,-79.540031,M9A 1N5,Great Oak Drive
+"55 Mimico Ave Toronto, ON",Mimico,799900,43.613209000000005,-79.492088,M8V 1R3,Mimico Avenue
+"130 Spring Garden Ave Toronto, ON",Willowdale,2450000,43.765537,-79.405388,M2N 3G5,Spring Garden Avenue
+"#516 - 340 Dixon Rd Toronto, ON",Kingsview Village,99900,43.696312,-79.553864,M9R 1T1,Dixon Road
+"7 Willowhurst Cres Toronto, ON",Wexford,575000,43.754829,-79.296417,M1R 3R7,Willowhurst Crescent
+"19 Humber Ridge Dr Toronto, ON",Sunnylea,950000,43.640625,-79.493217,M8Y 2A1,Humber Ridge Drive
+"#410 - 15 Sewells Rd Toronto, ON",Malvern,144900,43.806709000000005,-79.21713299999999,M1B 3V7,Scarborough
+"93 Mona Dr Toronto, ON",Lytton Park,4499900,43.714539,-79.416977,M5N 2R3,Mona Drive
+"#1110 - 33 University Ave Toronto, ON",Downtown,810000,43.646236,-79.383324,M5J 2S7,York Street
+"#1019 - 39 Queens Quay Toronto, ON",Downtown,568888,43.641346,-79.372421,M5E 0A4,Queens Quay East
+"7 Harcroft Rd Toronto, ON",Swansea,2950000,43.651108,-79.471924,M6S 2V8,Harcroft Road
+"#130 - 2320 Gerrard St Toronto, ON",Upper Beaches,579000,43.685524,-79.29414399999999,M4E 2E1,Gerrard Street East
+"#1005 - 205 Frederick St Toronto, ON",Downtown,859000,43.651722,-79.36940799999999,M5A 4V3,Frederick Street
+"75 Vanbrugh Ave Toronto, ON",Cliffside,549900,43.709721,-79.255051,M1N 3T1,Vanbrugh Avenue
+"#308 - 5940 Yonge St Toronto, ON",Newtonbrook,349000,43.787483,-79.417862,M2M 4M6,Yonge Street
+"24 Amiens Rd Toronto, ON",West Hill,550000,43.774227,-79.187302,M1E 3S6,Amiens Road
+"#603 - 28 Hollywood Ave Toronto, ON",Willowdale,799000,43.76675,-79.410332,M2N 6R6,Elmwood Avenue
+"1 Toba Dr Toronto, ON",York Mills,2588000,43.757267,-79.391624,M2L 2Y1,North York
+"140 Fairholme Ave Toronto, ON",Midtown Toronto,1179000,43.715977,-79.441673,M6B 2X2,Fairholme Avenue
+"#211 - 360 Ridelle Ave Toronto, ON",Midtown Toronto,229900,43.704834000000005,-79.439888,M6B 1K1,Ridelle Avenue
+"#9 - 1947 Lawrence Ave Toronto, ON",Weston,329900,43.702106,-79.507637,M9N 1H2,York
+"33 Chelwood Rd Toronto, ON",Ionview,519900,43.725605,-79.273972,M1K 2K5,Chelwood Road
+"4609 Kingston Rd Toronto, ON",West Hill,588000,43.774265,-79.181625,M1E 3T5,Kingston Road
+"#1001 - 15 Singer Crt Toronto, ON",Bayview Village,649000,43.769484999999996,-79.36891899999999,M2K 0B4,Singer Court
+"50 Beckett Ave Toronto, ON",Rustic,1289000,43.715168,-79.503197,M6L 2B3,Beckett Avenue
+"#201 - 56 Sidney Belsey Cres Toronto, ON",Mount Dennis,389000,43.692898,-79.506203,M6M 5H9,Sidney Belsey Crescent
+"59 New Forest Sq Toronto, ON",L'Amoreaux,899000,43.822521,-79.307266,M1V 2Z6,New Forest Square
+"4 Dubarry Ave Toronto, ON",West Hill,669900,43.760811,-79.18306,M1E 3C5,Morningside Avenue
+"#903 - 880 Grandview Way Toronto, ON",Willowdale,648880,43.775146,-79.412666,M2N 7A2,Grandview Way
+"#44 - 10 Esterbrook Ave Toronto, ON",Don Valley Village,529800,43.779041,-79.35199,M2J 2C2,Esterbrooke Avenue
+"41 Archibald Mews Toronto, ON",Bendale,649900,43.753349,-79.264595,M1P 0A5,Archibald Mews
+"37 Thirty Second St Toronto, ON",Long Branch,799000,43.595085,-79.531021,M8W 1N4,Ontario
+"326 Jaybell Grve Toronto, ON",Rouge,699000,43.792217,-79.13452099999999,M1C 2X4,Jaybell Grove
+"161 Harding Blvd Toronto, ON",Birch Cliff,599000,43.694736,-79.26387,M1N 3E1,Harding Boulevard
+"138 Andona Cres Toronto, ON",Port Union,529800,43.794605,-79.14389,M1C 5A1,Andona Crescent
+"#1804 - 5 Old Sheppard Ave Toronto, ON",Pleasant View,299900,43.777275,-79.337051,M2J 4K3,Old Sheppard Avenue
+"#1702 - 65 St Mary St Toronto, ON",Downtown,885000,43.666897,-79.389038,M5S 0A6,Bay Street
+"7 East Haven Dr Toronto, ON",Cliffside,599900,43.703185999999995,-79.251564,M1N 1L8,East Haven Drive
+"#326 - 36 Via Bagnato Toronto, ON",Lawrence Heights,364900,43.715069,-79.4533,M6A 0B7,Via Bagnato
+"#201 - 2 Glamorgan Ave Toronto, ON",Dorset Park,174900,43.769417,-79.28241,M1P 2M8,Scarborough
+"3 Bijou Walk Toronto, ON",Mount Dennis,546666,43.686855,-79.490898,M6M 5L7,Bijou Walk
+"3 Belle Ayre Blvd Toronto, ON",Mount Pleasant East,799000,43.701283000000004,-79.38310200000001,M4S 2P6,Belle Ayre Boulevard
+"#304 - 25 The Esplanade St Toronto, ON",Downtown,789900,43.646164,-79.375038,M5E 1W5,The Esplanade
+"144 Kingsdale Ave Toronto, ON",Willowdale,2548000,43.772059999999996,-79.40522,M2N 3W7,Kingsdale Avenue
+"78 Provence Tr Toronto, ON",Rexdale,539900,43.755604,-79.606697,M9V 5A4,Provence Trail
+"#309 - 1 Palace Pier Crt Toronto, ON",Mimico,459900,43.631432000000004,-79.473564,M8V 2Z6,Palace Pier Court
+"#922 - 11753 Sheppard Ave Toronto, ON",Rouge,290000,43.799521999999996,-79.148201,M1B 4T2,Sheppard Avenue East
+"#2002 - 2350 Bridletowne Circ Toronto, ON",Milliken,399800,43.800705,-79.317162,M1W 3P6,Warden Avenue
+"102 Church Ave Toronto, ON",Willowdale,2699000,43.775288,-79.408012,M2N 4G1,Dudley Avenue
+"#4 - 2009 Lawrence Ave Toronto, ON",Weston,449900,43.6996,-79.50972,M9N 3V2,Lawrence Avenue West
+"#304 - 60 Sidney Belsey Cres Toronto, ON",Mount Dennis,409000,43.692809999999994,-79.506653,M6M 5J2,Sidney Belsey Crescent
+"#1207 - 5765 Yonge St Toronto, ON",Newtonbrook,399900,43.783112,-79.415199,M2M 4H9,Yonge Street
+"#3503 - 4968 Yonge St Toronto, ON",Lansing,439000,43.765152,-79.412277,M2N 7G9,Yonge Street
+"#1006 - 20 Bloorview Pl Toronto, ON",Don Valley Village,615000,43.774311,-79.359085,M2J 0A6,Bloorview Place
+"68 Chambers Ave Toronto, ON",Earlscourt,688000,43.677956,-79.463882,M6N 3M2,Chambers Avenue
+"#405 - 600 Fleet St Toronto, ON",Niagara,239000,43.63673,-79.40050500000001,M5V 1B7,Fleet Street
+"39 Lyon Heights Rd Toronto, ON",Bendale,829900,43.758427000000005,-79.259102,M1P 3V7,Lyon Heights Road
+"414 Melrose St Toronto, ON",Mimico,849000,43.618263,-79.50885799999999,M8Z 1H2,Evans Avenue
+"#517 - 8 Mercer St Toronto, ON",Downtown,369900,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"#14 - 175 Jones Ave Toronto, ON",Leslieville,1313000,43.667384999999996,-79.334412,M4M 3A2,Jones Avenue
+"#502 - 170 Sudbury St Toronto, ON",Little Portugal,274900,43.641566999999995,-79.42460600000001,M6J 0A9,Sudbury Street
+"325 Broadway Ave Toronto, ON",Sherwood Park,1349000,43.712608,-79.38385,M4P 1W4,Broadway Avenue
+"#606 - 240 Scarlett Rd Toronto, ON",Rockcliffe - Smythe,305000,43.675777000000004,-79.507919,M6N 4X4,Scarlett Road
+"#114 - 275 Manse Rd Toronto, ON",West Hill,349900,43.767723,-79.174797,M1E 4X8,Manse Road
+"#1512 - 330 Mccowan Rd Toronto, ON",Eglinton East,269900,43.737576000000004,-79.238251,M1J 3N3,Landmark Boulevard
+"#1010 - 1900 Sheppard Ave Toronto, ON",Jane and Finch,344800,43.740059,-79.50960500000001,M3L 1Y7,Sheppard Avenue West
+"22 Hathway Dr Toronto, ON",Bendale,849800,43.767342,-79.257347,M1P 4L5,Hathway Drive
+"350 Parkview Ave Toronto, ON",Willowdale,2998000,43.775428999999995,-79.394142,M2N 3Z5,Parkview Avenue
+"444 Kingston Road Toronto, ON",Scarborough Village,999000,43.741904999999996,-79.213821,M1M 1R9,Kingston Road
+"1 Preston Pl Toronto, ON",North Toronto,1399000,43.726349,-79.39746099999999,M4N 2T1,Old Toronto
+"#509 - 816 Lansdowne Ave Toronto, ON",Wallace Emerson,299900,43.665726,-79.447418,M6H 4K6,Toronto
+"101 Glen Long Ave Toronto, ON",Glen Park,1538800,43.707947,-79.462692,M6B 2M4,Glengrove Avenue
+"#1112 - 80 Alton Towers Circ Toronto, ON",Toronto,318000,43.824078,-79.27377299999999,M1V 5E8,McCowan Road
+"320 Morningside Ave Toronto, ON",West Hill,598800,43.773823,-79.188538,M1E 3E7,Morningside Avenue
+"3 Honey Dr Toronto, ON",Wexford - Maryvale,600000,43.746807000000004,-79.29888199999999,M1R 3S3,Honey Drive
+"#301 - 30 Canterbury Pl Toronto, ON",Willowdale,425000,43.773094,-79.415596,M2N 1X8,Canterbury Place
+"#112 - 179 Bleecker St Toronto, ON",Downtown,629000,43.666996000000005,-79.37326800000001,M4X 1L9,Wellesley Street East
+"#2008 - 151 Dan Leckie Way Toronto, ON",Downtown,325000,43.639782000000004,-79.397949,M5V 4B2,Dan Leckie Way
+"#1105 - 175 Hilda Ave Toronto, ON",Newtonbrook,434900,43.794613,-79.427216,M2M 1V8,Hilda Avenue
+"#502 - 127 Queen St Toronto, ON",Downtown,339900,43.651169,-79.384987,M5H 3K6,Queen Street West
+"#306 - 1785 Eglinton Ave Toronto, ON",Victoria Village,359000,43.724509999999995,-79.307022,M4A 2Y6,North York
+"17 Grover Dr Toronto, ON",Highland Creek,719888,43.796654,-79.179451,M1C 4K8,Grover Drive
+"#703 - 160 Alton Towers Circ Toronto, ON",Toronto,229000,43.8269,-79.27565,M1V,Seamist Crescent
+"#Th110 - 116 George St Toronto, ON",Downtown,899000,43.652138,-79.371483,M5A 3S2,George Street
+"#2305 - 103 The Queensway Ave Toronto, ON",Swansea,498000,43.636292,-79.470467,M6S 5B3,The Queensway
+"128 Northcote Ave Toronto, ON",Little Portugal,1059000,43.646023,-79.427406,M6J 3K5,Northcote Avenue
+"137 Roncesvalles Ave Toronto, ON",Roncesvalles Village,8500000,43.643359999999994,-79.447777,M6R 2L2,Old Toronto
+"38 Pinery Tr Toronto, ON",Malvern,599900,43.807311999999996,-79.227303,M1B 6C2,Pinery Trail
+"#512 - 650 Lawrence Ave Toronto, ON",Lawrence Heights,419500,43.717121,-79.441757,M6A 3E8,Lawrence Avenue West
+"32 Belanger Cres Toronto, ON",Clairlea - Birchmount,584900,43.702419,-79.27436800000001,M1L 0G1,Belanger Crescent
+"38 Warrender Ave Toronto, ON",Princess Margaret,1088000,43.674389,-79.554695,M9B 5Z2,Warrender Avenue
+"676 Old Weston Rd Toronto, ON",Silverthorn,699900,43.680458,-79.46653,M6N 3B5,Old Toronto
+"#1807 - 3077 Weston Rd Toronto, ON",Humberlea,200000,43.732304,-79.537003,M9M 3A1,Weston Road
+"#2215 - 36 Lee Centre St Toronto, ON",Woburn,278000,43.78167,-79.247215,M1H 3J7,Lee Centre Drive
+"#216 - 120 Homewood Ave Toronto, ON",Downtown,439900,43.666752,-79.37623599999999,M4Y 2J3,Homewood Avenue
+"#3001 - 375 King St Toronto, ON",Downtown,335000,43.645641,-79.39295200000001,M5V 1K1,King Street West
+"#708 - 1900 Lakeshore Blvd Toronto, ON",The Beach,369000,43.666252,-79.30499300000001,M4L 6S8,Lake Shore Boulevard East
+"23 Commonwealth Ave Toronto, ON",Kennedy Park,675000,43.728794,-79.254074,M1K 4J9,Commonwealth Avenue
+"#1008 - 38 The Esplanade St Toronto, ON",Downtown,495000,43.646931,-79.374977,M5E 1A5,The Esplanade
+"103 Arundel Ave Toronto, ON",Riverdale,2639000,43.68084,-79.35170699999999,M4K 3A3,Arundel Avenue
+"98 Riverdale Ave Toronto, ON",Riverdale,2950000,43.669841999999996,-79.349106,M4K 1C3,Riverdale Avenue
+"#1109 - 88 Park Lawn Rd Toronto, ON",Humber Bay,369900,43.624072999999996,-79.48491700000001,M8Y 0B6,Park Lawn Road
+"140 Valdor Dr Toronto, ON",Milliken,930000,43.812344,-79.287697,M1V 1R5,Valdor Drive
+"#1106 - 155 Legion Rd Toronto, ON",Mimico,343000,43.62381,-79.488022,M8Y 0A1,Legion Road North
+"965 Roselawn Ave Toronto, ON",Fairbank,798000,43.701316999999996,-79.44493100000001,M6B 4M9,Roselawn Avenue
+"450 Maybank Ave Toronto, ON",Harwood,650000,43.677681,-79.47447199999999,M6N 3S8,Maybank Avenue
+"#308 - 38 Joe Shuster Way Toronto, ON",Toronto,279000,43.640335,-79.424477,M6K 0A5,Joe Shuster Way
+"#2107 - 4978 Yonge St Toronto, ON",Willowdale,315000,43.765578999999995,-79.41259000000001,M2N 7G8,Yonge Street
+"#Ph01 - 15 Vicora Link Way Toronto, ON",Flemingdon Park,320000,43.710968,-79.325294,M3C 1A9,Vicora Linkway
+"#607 - 650 Sheppard Ave Toronto, ON",Bathurst Manor,510000,43.755169,-79.441742,M3H 2S5,Sheppard Avenue West
+"1503 Danforth Rd Toronto, ON",Bendale,599000,43.750469,-79.244263,M1J 1H5,Danforth Road
+"#212 - 80 Alton Towers Circ Toronto, ON",Toronto,319900,43.824078,-79.27377299999999,M1V 5E8,McCowan Road
+"#1605 - 260 Heath St Toronto, ON",Midtown Toronto,729000,43.686378000000005,-79.415024,M5P 3L6,Heath Street West
+"#1410 - 240 Scarlett Rd Toronto, ON",Rockcliffe - Smythe,458000,43.675777000000004,-79.507919,M6N 4X4,Scarlett Road
+"#3010 - 12 York St Toronto, ON",Downtown,549900,43.641632,-79.38205,M5J 2T8,Old Toronto
+"#4415 - 386 Yonge St Toronto, ON",Downtown,798800,43.659328,-79.382675,M5G 2K2,Old Toronto
+"#307 - 5101 Dundas St Toronto, ON",Islington,429900,43.644779,-79.531929,M9A 1C2,Dundas Street West
+"#2705 - 77 Harbour Sq Toronto, ON",Downtown,343000,43.639664,-79.379272,M5J 2T5,Harbour Square
+"#1810 - 41 Markbrook Lane Toronto, ON",Rexdale,189900,43.75848,-79.586617,M9V 5E6,Markbrook Lane
+"#2614 - 1001 Bay St Toronto, ON",Downtown,765000,43.665546,-79.387245,M5S 3A6,Saint Joseph Street
+"#20 - 50 Hargrave Lane Toronto, ON",Midtown Toronto,999990,43.723293,-79.380356,M4N 0A4,Hargrave Lane
+"25 Woodthrush Crt Toronto, ON",Bayview Village,2375000,43.783833,-79.381851,M2K 2A9,Woodthrush Court
+"#1015 - 8 Hillcrest Ave Toronto, ON",Willowdale,609000,43.767891,-79.411812,M2N,Yonge Street
+"#5009 - 12 York St Toronto, ON",Downtown,495000,43.641632,-79.38205,M5J 2T8,Old Toronto
+"#1 - 175 Toryork Dr Toronto, ON",Humber Summit,849900,43.757954,-79.557304,M9L 2Y7,North York
+"#710 - 1338 York Mills Rd Toronto, ON",Parkwoods - Donalda,205000,43.762363,-79.320976,M3A 3M3,York Mills Road
+"#Th47 - 315 Village Green Sq Toronto, ON",Agincourt,499000,43.779129,-79.281883,M1S 0K6,Village Green Square
+"#607 - 140 Widdicombe Hill Blvd Toronto, ON",Richview,479900,43.677921000000005,-79.556534,M9R 4B3,Widdicombe Hill Boulevard
+"#107 - 78 Harrison Garden Blvd Toronto, ON",Willowdale,558000,43.7561,-79.406914,M2N 7E2,Harrison Garden Boulevard
+"#1902 - 105 George St Toronto, ON",Downtown,409900,43.652221999999995,-79.37087199999999,M5A 0L4,Adelaide Street East
+"#843 - 1030 King St Toronto, ON",Niagara,559800,43.641579,-79.415901,M6K 0B4,King Street West
+"39 Millwick Dr Toronto, ON",Humber Summit,2189000,43.757645000000004,-79.55954,M9L 1Y4,Millwick Drive
+"#907 - 205 Wynford Dr Toronto, ON",Wynford-Concorde,399900,43.724548,-79.32543199999999,Canada,North York
+"373 Oakwood Ave Toronto, ON",Midtown Toronto,799000,43.68766,-79.438766,M6E 2W1,Oakwood Avenue
+"#4102 - 426 University Ave Toronto, ON",Downtown,425000,43.653973,-79.388565,M5G 1S9,Simcoe Street
+"#308 - 2000 Islington Ave Toronto, ON",Kingsview Village,439000,43.697365000000005,-79.546089,M9P 3T5,Dixon Road
+"#88 - 21 Livonia Pl Toronto, ON",Morningside,329000,43.785278000000005,-79.204994,M1E 4W7,Livonia Place
+"#312 - 25 The Esplanade Toronto, ON",Downtown,388800,43.646164,-79.375038,M5E 1W5,The Esplanade
+"#413 - 560 Front St Toronto, ON",Downtown,324000,43.641346,-79.400131,M5V 1C1,Front Street West
+"268 Mcroberts Ave Toronto, ON",Earlscourt,899900,43.682190000000006,-79.45642099999999,M6E 4P6,McRoberts Avenue
+"#1107 - 318 Richmond St Toronto, ON",Downtown,630000,43.649082,-79.39208199999999,M5V 0B4,Richmond Street West
+"111 Shady Hollow Dr Toronto, ON",Toronto,688000,43.822731,-79.266121,M1V 2L9,Shady Hollow Drive
+"#608 - 250 Manitoba St Toronto, ON",Mimico,549000,43.624485,-79.49047900000001,M8Y 4G8,Manitoba Street
+"#410 - 83 Borough Dr Toronto, ON",Bendale,260000,43.772751,-79.260788,M1P 5E4,Borough Drive
+"#1916 - 5 Sheppard Ave Toronto, ON",Jane and Finch,439000,43.744011,-79.491524,M3M 3J8,North York
+"#1012 - 2285 Lake Shore Blvd Toronto, ON",Mimico,359900,43.618755,-79.485359,M8V 3X9,Lake Shore Boulevard West
+"24 Bailey Cres Toronto, ON",Woburn,649999,43.769974,-79.228714,M1G 2P3,Bailey Crescent
+"#1410 - 8 Mercer St Toronto, ON",Downtown,380000,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"#2608 - 300 Bloor St Toronto, ON",Midtown Toronto,579900,43.667389,-79.401871,M9B 6B7,Huron Street
+"#903 - 256 Doris Ave Toronto, ON",Willowdale,409000,43.771595,-79.412178,M2N 6X8,Doris Avenue
+"5 Portico Dr Toronto, ON",Woburn,799800,43.779441999999996,-79.223587,M1G 3R4,Portico Drive
+"#609 - 11 Superior Ave Toronto, ON",Mimico,339900,43.615078000000004,-79.48938000000001,M8V 1C4,Superior Avenue
+"#2301 - 33 Empress Ave Toronto, ON",Willowdale,355000,43.769207,-79.412132,M2N 6Y7,North York
+"#207 - 628 Fleet St Toronto, ON",Niagara,539000,43.636234,-79.403122,M5V 1A8,Fleet Street
+"57 Kendleton Dr Toronto, ON",Rexdale,639900,43.739422,-79.584854,M9V 1T9,Kendleton Drive
+"#12 - 761 Bay St Toronto, ON",Downtown,1699000,43.659836,-79.384956,M5G,Bay Street
+"#402 - 18 Concorde Pl Toronto, ON",Victoria Village,599500,43.730346999999995,-79.328224,M3C 3N4,North York
+"135 Bishop Ave Toronto, ON",Newtonbrook,1339900,43.783802,-79.406174,M2M 1Z6,Bishop Avenue
+"#902 - 236 Albion Rd Toronto, ON",Rexdale,115000,43.722031,-79.543945,M9W 6A6,Albion Road
+"#605 - 600 Fleet St Toronto, ON",Niagara,234850,43.63673,-79.40050500000001,M5V 1B7,Fleet Street
+"#309 - 36 Lisgar St Toronto, ON",Little Portugal,299900,43.641697,-79.42343100000001,M6J 0A9,Abell Street
+"743 Military Tr Toronto, ON",Morningside,449200,43.790234000000005,-79.197525,M1E 4P7,Military Trail
+"#2505 - 180 University Ave Toronto, ON",Downtown,1490000,43.648827000000004,-79.385551,M5H 3B3,Adelaide Street West
+"#929 - 29 Queens Quay Toronto, ON",Downtown,588000,43.642272999999996,-79.372704,M5E 1L7,Old Toronto
+"#Th115 - 399 Spring Garden Ave Toronto, ON",Willowdale,928000,43.768574,-79.389618,M2N 3H6,Spring Garden Avenue
+"##211 - 760 The Queensway Toronto, ON",The Queensway,309900,43.625927000000004,-79.504417,M8Z 1N1,The Queensway
+"350-352 Oakwood Ave Toronto, ON",Midtown Toronto,1985000,43.686703,-79.43854499999999,M6E 2W2,Oakwood Avenue
+"#1006 - 3077 Weston Rd Toronto, ON",Humberlea,219000,43.732304,-79.537003,M9M 3A1,Weston Road
+"#327 - 2645 Jane St Toronto, ON",Downsview,145000,43.737915,-79.51136,M3L 1R9,North York
+"2237 Queen St Toronto, ON",The Beach,1890000,43.670952,-79.295052,M4E 2Z9,Queen Street East
+"292 Kennedy Ave Toronto, ON",High Park North,1995000,43.653121999999996,-79.476166,M6P 3C3,Kennedy Avenue
+"2237 Queen St Toronto, ON",The Beach,1890000,43.670952,-79.295052,M4E 2Z9,Queen Street East
+"2166 Bayview Ave Toronto, ON",Midtown Toronto,899990,43.72353,-79.379761,M4N 0A4,Hargrave Lane
+"#2601 - 80 Marine Parade Dr Toronto, ON",Mimico,1120000,43.625541999999996,-79.477242,M8V 0A3,Marine Parade Drive
+"#1002 - 3380 Eglinton Ave Toronto, ON",Scarborough Village,212000,43.744811999999996,-79.214561,M1J 3L6,Eglinton Avenue East
+"9 Rollingwood Dr Toronto, ON",Hillcrest Village,1499980,43.800339,-79.352699,M2H 2M4,McNicoll Avenue
+"29 Harnish Cres Toronto, ON",Newtonbrook,1450000,43.78537,-79.406464,M2M 2C2,Revcoe Drive
+"#805 - 155 Yorkville Ave Toronto, ON",Midtown Toronto,439000,43.670319,-79.394432,M5R 1C4,Yorkville Avenue
+"12 Emily Ave Toronto, ON",Humber Summit,919000,43.754292,-79.578156,M9L 2R1,Emily Avenue
+"49 Wharfside Lane Toronto, ON",Port Union,724900,43.776131,-79.13604000000001,M1C 5K8,Wharfside Lane
+"#1103 - 38 Stewart St Toronto, ON",Downtown,479900,43.643764000000004,-79.401352,M5V 0H1,Stewart Street
+"#1357 - 209 Fort York Blvd Toronto, ON",Niagara,364900,43.636963,-79.404671,M5V 4A1,Gzowski Boulevard
+"#105 - 8 Silverbell Grve Toronto, ON",Malvern,114900,43.803925,-79.216507,M1B 2L7,Silver Bell Grove
+"#712 - 21 Widmer St Toronto, ON",Downtown,474000,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#211 - 31 Olive Ave Toronto, ON",Midtown Toronto,368800,43.66983,-79.414742,M6G 1T7,Olive Avenue
+"#311 - 80 Marine Parade Dr Toronto, ON",Mimico,324990,43.625541999999996,-79.477242,M8V 0A3,Marine Parade Drive
+"##5-213 - 50 Old Kingston Rd Toronto, ON",West Hill,175000,43.775818,-79.182098,M1E 3J5,Old Kingston Road
+"640 College St Toronto, ON",Little Italy,3500000,43.654957,-79.41551199999999,M6G 3A7,College Street
+"#103 - 60 Annie Craig Dr Toronto, ON",Mimico,384900,43.625118,-79.478767,M8V 0A8,Annie Craig Drive
+"31 Hildenboro Sq Toronto, ON",L'Amoreaux,799000,43.801441,-79.32096899999999,M1W 1Y2,Hildenboro Square
+"1 Lochway Crt Toronto, ON",Eatonville,999900,43.648071,-79.542839,M9B 4G4,Goswell Road
+"#1505 - 25 Capreol Crt Toronto, ON",Downtown,471000,43.640816,-79.395538,M5V 3Z7,Capreol Court
+"#513 - 160 Alton Towers Circ Toronto, ON",Toronto,220000,43.8269,-79.27565,M1V,Seamist Crescent
+"1404 Yonge St Toronto, ON",Midtown Toronto,2150000,43.686679999999996,-79.393684,M4T 1Y5,Yonge Street
+"#602 - 21 Hillcrest Ave Toronto, ON",Willowdale,369000,43.767471,-79.41127,M2N 7K2,Hillcrest Avenue
+"#510 - 280 Donlands Ave Toronto, ON",Pape Village,299999,43.690639000000004,-79.34172099999999,M4J 3R4,East York
+"#17M - 8 Rosebank Dr Toronto, ON",Malvern,369500,43.791835999999996,-79.237404,M1B 5Z3,Rosebank Drive
+"3369 Weston Rd Toronto, ON",Emery,599900,43.745125,-79.54053499999999,M9M 2V6,Weston Road
+"#522 - 120 Dallimore Circ Toronto, ON",Don Mills,319000,43.730209,-79.332375,M3C 4C5,Dallimore Circle
+"40 Daisy Ave Toronto, ON",Long Branch,1249900,43.597946,-79.526306,M8W 1S1,Daisy Avenue
+"153 Harlandale Ave Toronto, ON",Lansing,2499900,43.760494,-79.418968,M2N 1P5,Sheppard Avenue West
+"#139 - 2900 Warden Ave Toronto, ON",Bridlewood,50000,43.798363,-79.318466,M1W 2S8,Ontario
+"#601 - 17 Kenaston Gdns Toronto, ON",Bayview Village,298000,43.766094,-79.385582,M2K 1G7,Kenaston Gardens
+"35 Grenview Blvd Toronto, ON",Sunnylea,1790000,43.635227,-79.500961,M8Y 3R9,Grenview Boulevard South
+"426 Kingston Rd Toronto, ON",Upper Beaches,799000,43.67691,-79.304825,M4L 1T9,Kingston Road
+"#1416 - 103 The Queensway Ave Toronto, ON",Swansea,339000,43.636292,-79.470467,M6S 5B3,The Queensway
+"426 Kingston Rd Toronto, ON",Upper Beaches,799000,43.67691,-79.304825,M4L 1T9,Kingston Road
+"426 Kingston Rd Toronto, ON",Upper Beaches,799000,43.67691,-79.304825,M4L 1T9,Kingston Road
+"#3005 - 60 Brian Harrison Way Toronto, ON",Bendale,284800,43.773312,-79.258728,M1P 5J5,Brian Harrison Way
+"57 Bywood Dr Toronto, ON",Princess - Rosethorn,2799000,43.657253000000004,-79.537888,M9A 1M1,Bywood Drive
+"#9 - 6063 Kingston Rd Toronto, ON",Port Union,289000,43.783237,-79.169342,M1C 1B7,Old Kingston Road
+"187 Gordon Rd Toronto, ON",York Mills,5300000,43.749496,-79.386871,M2P 1E8,Gordon Road
+"#3302 - 15 Viking Lane Toronto, ON",Islington - City Centre West,479000,43.639202000000004,-79.535423,M9B 0A4,Viking Lane
+"#817 - 386 Yonge St Toronto, ON",Downtown,568000,43.659328,-79.382675,M5G 2K2,Old Toronto
+"2146 Bayview Ave Toronto, ON",Midtown Toronto,869900,43.723147999999995,-79.379707,M4N 0A4,Bayview Avenue
+"3011-13 Islington Ave Toronto, ON",Humber Summit,660000,43.759514,-79.57133499999999,M9L 2K9,Islington Avenue
+"3011-13 Islington Ave Toronto, ON",Humber Summit,660000,43.759514,-79.57133499999999,M9L 2K9,Islington Avenue
+"#515 - 825 Church St Toronto, ON",Midtown Toronto,488800,43.672985,-79.38703199999999,M4W 3Z4,Church Street
+"#3008 - 16 Brookers Lane Toronto, ON",Humber Bay Shores,419000,43.626965000000006,-79.47848499999999,M8V 0A5,Brookers Lane
+"#1701 - 170 Sumach St Toronto, ON",Downtown,379900,43.660149,-79.360886,M5A 2B9,Dundas Street East
+"#5 - 1157 Ellesmere Rd Toronto, ON",Bendale,59000,43.767159,-79.27044699999999,M1P 3R1,Ellesmere Road
+"#606 - 9 Bogert Ave Toronto, ON",Lansing,599900,43.760303,-79.411621,M2N 0H3,Bogert Avenue
+"#410 - 15 London Green Crt Toronto, ON",Jane and Finch,125000,43.754375,-79.510368,M3N 1K4,London Green Court
+"656 College St Toronto, ON",Little Italy,299000,43.655308000000005,-79.41642,M6G 1B8,College Street
+"#616 - 4789 Yonge St Toronto, ON",Willowdale,730000,43.760998,-79.410202,M2N 0G3,Yonge Street
+"507 Danforth Ave Toronto, ON",Riverdale,149000,43.677971,-79.348907,M4K 1P5,Danforth Avenue
+"165 Eileen Ave Toronto, ON",Rockcliffe - Smythe,1349000,43.666817,-79.503151,M6N 1W3,Eileen Avenue
+"72 Moira Ave Toronto, ON",Clairlea - Birchmount,129000,43.71006,-79.261116,M1K 1B8,Moira Avenue
+"1059 Briar Hill Ave Toronto, ON",Fairbank,949900,43.702934,-79.449738,M6B 1M8,Briar Hill Avenue
+"#1008 - 300 FRONT ST W Toronto, ON",Downtown,489000,43.644172999999995,-79.38942,M5V 0E9,Front Street West
+"#Ph 5 - 155 DALHOUSIE ST Toronto, ON",Downtown,1298000,43.65765,-79.376762,M5B 2R2,Church Street
+"#4002 - 45 CHARLES ST Toronto, ON",Downtown,769000,43.668777,-79.383995,M4Y 1S2,Charles Street East
+"#1003 - 20 JOE SHUSTER WAY Toronto, ON",Toronto,269900,43.640209000000006,-79.42394300000001,M6K 0A4,Old Toronto
+"#307 - 21 SCOLLARD ST Toronto, ON",Midtown Toronto,549000,43.672318,-79.388817,M5R 1G1,Scollard Street
+"#3604 - 159 DUNDAS ST E Toronto, ON",Downtown,398900,43.656807,-79.37509200000001,M5B 0A9,Old Toronto
+"#1211 - 15 BRUYERES MEWS Toronto, ON",Niagara,309900,43.63715,-79.400604,M5V 0G8,Bruyeres Mews
+"#807 - 311 RICHMOND ST E Toronto, ON",Old Town,254900,43.653126,-79.369339,M5A 1P2,Sherbourne Street
+"#2505 - 50 LOMBARD ST Toronto, ON",Downtown,449900,43.651878,-79.375999,M5C 2X4,Lombard Street
+"161 PARLIAMENT ST Toronto, ON",Downtown,999999,43.654990999999995,-79.363922,M5A 2Z2,Parliament Street
+"#1304 - 170 SUMACH ST Toronto, ON",Downtown,329900,43.660149,-79.360886,M5A 2B9,Dundas Street East
+"#1619 - 38 JOE SHUSTER WAY Toronto, ON",Toronto,245000,43.640335,-79.424477,M6K 0A5,Joe Shuster Way
+"#609 - 39 JARVIS ST Toronto, ON",Downtown,798000,43.650143,-79.371605,Canada,Jarvis Street
+"#506 - 60 MONTCLAIR AVE Toronto, ON",Midtown Toronto,549000,43.687836,-79.413376,M5P 1P7,Montclair Avenue
+"#0103 - 67 RICHMOND ST W Toronto, ON",Downtown,149713,43.650940000000006,-79.381958,M5H 1Z5,Old Toronto
+"396 -400 DUNDAS ST Toronto, ON",Downtown,3749000,43.659191,-79.36776,M5A 2A5,Berkeley Street
+"#3511 - 763 BAY ST Toronto, ON",Downtown,569800,43.660103,-79.385086,M5G,Bay Street
+"2 HANNAFORD ST Toronto, ON",Upper Beaches,700000,43.680572999999995,-79.291595,M4E 3G7,Hannaford Street
+"#320 - 38 JOE SHUSTER WAY Toronto, ON",Toronto,229000,43.640335,-79.424477,M6K 0A5,Joe Shuster Way
+"#112 - 30 ELM AVE Toronto, ON",Midtown Toronto,525000,43.675552,-79.377808,M4W 1N5,Elm Avenue
+"616 LOGAN AVE Toronto, ON",Riverdale,1650000,43.671023999999996,-79.347015,M4K 1C8,Withrow Avenue
+"#502 - 55 CENTRE AVE Toronto, ON",Downtown,499900,43.654587,-79.386658,M5G 2H5,Centre Avenue
+"#4001 - 65 ST MARY ST Toronto, ON",Downtown,1519000,43.666897,-79.389038,M5S 0A6,Bay Street
+"#3202 - 75 QUEENS WHARF RD Toronto, ON",Downtown,438000,43.638477,-79.397987,M5V 0J8,Housey Street
+"#1 - 27 ELM ST Toronto, ON",Downtown,59000,43.657394000000004,-79.383034,M5G 1H1,Elm Street
+"214 KING ST W Toronto, ON",Downtown,99000,43.647537,-79.386871,M5H 3S6,Old Toronto
+"66 TRANBY AVE Toronto, ON",Midtown Toronto,3800000,43.672955,-79.398491,M5R 1N5,Tranby Avenue
+"#307 - 169 FORT YORK BLVD Toronto, ON",Niagara,394900,43.638512,-79.400894,M5V 0C8,Fort York Boulevard
+"#1726 - 38 JOE SHUSTER WAY Toronto, ON",Toronto,364000,43.640335,-79.424477,M6K 0A5,Joe Shuster Way
+"2170 ST CLAIR AVE W Toronto, ON",Harwood,758888,43.670788,-79.476288,M6N 5C1,Saint Clair Avenue West
+"#1109 - 5 ST JOSEPH ST Toronto, ON",Downtown,498000,43.665749,-79.385513,M4Y 0B6,Saint Joseph Street
+"#1902 - 8 MERCER ST Toronto, ON",Downtown,629900,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"317 COXWELL AVE Toronto, ON",Beach Hill,699000,43.674515,-79.319717,M4L 3B5,Coxwell Avenue
+"#305 - 55 FRONT ST E Toronto, ON",Downtown,568800,43.648029,-79.37406899999999,M5E 0A7,Front Street East
+"2481 A YONGE ST Toronto, ON",Midtown Toronto,60000,43.711712,-79.399101,M4P 2H6,Old Toronto
+"#1808 - 45 CARLTON ST Toronto, ON",Downtown,634900,43.661384999999996,-79.380608,M5B 2H9,Carlton Street
+"#1049 - 10 CAPREOL CRT Toronto, ON",Downtown,535800,43.640223999999996,-79.39595,M5V 4A3,Capreol Court
+"#1304 - 33 BAY ST Toronto, ON",Downtown,519900,43.642509000000004,-79.377365,M5J 2Z3,Bay Street
+"1115 20 JOE SHUSTER Way Toronto, ON",Toronto,299900,43.640209000000006,-79.42394300000001,M6K 0A4,Old Toronto
+"281 WILLOW AVE Toronto, ON",The Beach,1548000,43.678608000000004,-79.288513,M4E 3K6,Willow Avenue
+"#611 - 90 BROADVIEW AVE Toronto, ON",Riverdale,379900,43.657913,-79.35006700000001,M4M 3H3,Old Toronto
+"135 GALT AVE Toronto, ON",Leslieville,849000,43.670635,-79.336945,M4M 2Z4,Galt Avenue
+"#802 - 111 ELIZABETH ST Toronto, ON",Downtown,459000,43.655113,-79.384804,M5G 1P7,Elizabeth Street
+"#607 - 44 GERRARD ST W Toronto, ON",Downtown,412500,43.658798,-79.384392,M5G 2K2,Bay Street
+"1447 DUNDAS ST E Toronto, ON",Leslieville,1098000,43.66621,-79.33356500000001,M4M 1S7,Dundas Street East
+"#4006 - 85 QUEENS WHARF RD Toronto, ON",Downtown,669000,43.638866,-79.398438,M5V 1A9,Fort York Boulevard
+"#403 - 15 MERCHANTS WHARF Toronto, ON",Downtown,485000,43.644783000000004,-79.36279300000001,M5A 1B6,Merchants' Wharf
+"#423 - 29 QUEENS QUAY E Toronto, ON",Downtown,979900,43.642272999999996,-79.372704,M5E 1L7,Old Toronto
+"#1511 - 25 MAITLAND ST Toronto, ON",Downtown,375000,43.663963,-79.383064,M4Y 2W1,Maitland Street
+"#523 - 20 BRUYERES MEWS Toronto, ON",Niagara,375000,43.637432000000004,-79.401039,M5V 0G8,Bruyeres Mews
+"#602 - 4 LOWTHER AVE Toronto, ON",Midtown Toronto,1595000,43.671139000000004,-79.395653,M5R 1C6,Lowther Avenue
+"#3310 - 1001 BAY ST Toronto, ON",Downtown,749000,43.665546,-79.387245,M5S 3A6,Saint Joseph Street
+"#501 - 25 CAPREOL CRT Toronto, ON",Downtown,329000,43.640816,-79.395538,M5V 3Z7,Capreol Court
+"#2812 - 21 WIDMER ST Toronto, ON",Downtown,589900,43.647224,-79.391098,M5V 0B8,Widmer Street
+"#304 - 170 SUMACH ST E Toronto, ON",Downtown,339900,43.660149,-79.360886,M5A 2B9,Dundas Street East
+"#905 - 14 YORK ST Toronto, ON",Downtown,559900,43.641788,-79.381874,M5J 0B1,York Street
+"#605 - 550 FRONT ST W Toronto, ON",Downtown,469900,43.641422,-79.39959,M5V 3N5,Front Street West
+"#604 - 220 GEORGE ST Toronto, ON",Downtown,389000,43.655956,-79.37291,M5A 2M9,George Street
+"#316 - 1001 BAY ST Toronto, ON",Downtown,329000,43.665546,-79.387245,M5S 3A6,Saint Joseph Street
+"56 ALBERTA AVE Toronto, ON",Regal Heights,1099000,43.676453,-79.432472,M6H 2R6,Mount Royal Avenue
+"#1043 - 1030 KING ST W Toronto, ON",Niagara,559000,43.641579,-79.415901,M6K 0B4,King Street West
+"236 LAWRENCE AVE E Toronto, ON",Midtown Toronto,1249000,43.727759999999996,-79.389961,M4N 1T2,Midtown Toronto
+"#907 - 2055 DANFORTH AVE Toronto, ON",East Danforth,459900,43.685455,-79.313133,M4C 1J8,Danforth Avenue
+"#1402 - 21 BALMUTO ST Toronto, ON",Downtown,468800,43.669151,-79.387375,M4Y 1W4,Balmuto Street
+"#606 - 600 FLEET ST Toronto, ON",Niagara,329900,43.63673,-79.40050500000001,M5V 1B7,Fleet Street
+"#235 - 1030 KING ST W Toronto, ON",Niagara,377399,43.641579,-79.415901,M6K 0B4,King Street West
+"#710 - 5 MARINER TERR Toronto, ON",Downtown,429900,43.639889000000004,-79.390404,M5V 3V6,Bremner Boulevard
+"#618 - 80 ST PATRICK ST Toronto, ON",Downtown,278500,43.652489,-79.389626,M5T 1V1,Saint Patrick Street
+"110 HILTZ AVE Toronto, ON",Leslieville,765000,43.666988,-79.327621,M4L 2N5,Hiltz Avenue
+"#502 - 22 LEADER LANE Toronto, ON",Downtown,599999,43.649246000000005,-79.375755,M5E 0B2,King Street East
+"#304 - 24 WELLESLEY ST Toronto, ON",Downtown,399000,43.664845,-79.385933,M4Y 2X6,Wellesley Street West
+"#1910 - 426 UNIVERSITY AVE Toronto, ON",Downtown,509000,43.653973,-79.388565,M5G 1S9,Simcoe Street
+"#2401 - 8 MERCER ST Toronto, ON",Downtown,498000,43.645984999999996,-79.389938,M5V 0C4,Mercer Street
+"#218 - 650 QUEENS QUAY Toronto, ON",Niagara,379800,43.635681,-79.398674,M5V 3N2,Queens Quay West
+"#417 - 70 DISTILLERY LANE Toronto, ON",Downtown,675000,43.650082,-79.35797099999999,M5A 0E3,Rack House Mews
+"#4804 - 101 CHARLES ST E Toronto, ON",Downtown,798880,43.669643,-79.380608,M4Y 0A9,Charles Street East
+"#808 - 55 FRONT ST E Toronto, ON",Downtown,524900,43.648029,-79.37406899999999,M5E 0A7,Front Street East
+"#703 - 500 SHERBOURNE ST Toronto, ON",Downtown,497000,43.667915,-79.375679,M4X 1L1,Sherbourne Street
+"#328 - 109 FRONT ST E Toronto, ON",Downtown,435000,43.649055,-79.370361,M5A 4P8,Front Street East
+"#501 - 40 HOMEWOOD AVE Toronto, ON",Downtown,315000,43.664265,-79.37545,M4Y 2K2,Homewood Avenue
+"#636 - 15 ICEBOAT TERR Toronto, ON",Downtown,439900,43.640526,-79.397102,M5V 4A5,Iceboat Terrace
+"#1002 - 35 HAYDEN ST Toronto, ON",Downtown,389000,43.669609,-79.384773,M4Y 3C3,Hayden Street
+"#615 - 352 FRONT ST W Toronto, ON",Downtown,429900,43.643485999999996,-79.392303,M5V 0K3,Front Street West
+"27 SCARTH RD Toronto, ON",Midtown Toronto,3288000,43.677563,-79.380089,M4W 2S5,Scarth Road
+"#3805 - 181 DUNDAS ST E Toronto, ON",Downtown,438000,43.657104,-79.374214,M5A 1Z4,Old Toronto
+"#3711 - 763 BAY ST Toronto, ON",Downtown,580000,43.660103,-79.385086,M5G,Bay Street
+"35 DUART PARK RD Toronto, ON",The Beach,1200000,43.672385999999996,-79.291595,M4E 1J3,Maclean Avenue
+"#502 - 377 MADISON AVE Toronto, ON",Midtown Toronto,491900,43.677021,-79.406387,M4V 3E1,Madison Avenue
+"#11 - 50 HARGRAVE LANE Toronto, ON",Midtown Toronto,999990,43.723293,-79.380356,M4N 0A4,Hargrave Lane
+"41 HILLARY AVE Toronto, ON",Silverthorn,825000,43.680763,-79.469574,M6N 2C1,Hillary Avenue
+"#307 - 2 OLD MILL DR Toronto, ON",Lambton Baby Point,486900,43.648071,-79.486664,M6S,Old Mill Drive
+"#15 - 40 HARGRAVE LANE Toronto, ON",Midtown Toronto,1299000,43.722865999999996,-79.380157,M4N 0A4,Hargrave Lane
+"#615 - 1 OLD MILL DR Toronto, ON",Lambton Baby Point,478800,43.648243,-79.486626,M6S 0A1,Bloor Street West
+"#506 - 2645 JANE ST Toronto, ON",Downsview,159907,43.737915,-79.51136,M3L 1R9,North York
+"#1706 - 238 DORIS AVE Toronto, ON",Willowdale,482888,43.770878,-79.411964,M2N 6W1,Doris Avenue
+"#1209 - 5765 YONGE ST Toronto, ON",Newtonbrook,348000,43.783112,-79.415199,M2M 4H9,Yonge Street
+"68 AGINCOURT DR Toronto, ON",Agincourt,939000,43.789047,-79.284752,M1S 1M6,Agincourt Drive
+"8 BARNES CRES Toronto, ON",Woburn,599000,43.765667,-79.219574,M1G 1Z9,Barnes Crescent
+"19 GATWICK AVE Toronto, ON",Old East York,719000,43.689983000000005,-79.307259,M4C 1W2,Gatwick Avenue
+"618 O&#39;CONNOR DR Toronto, ON",Toronto,849900,43.653225,-79.383186,M5G 1P5,Kennedy Avenue
+"41 HENDON AVE Toronto, ON",Newtonbrook,1690000,43.780803999999996,-79.41912099999999,M2M 1A4,Hendon Avenue
+"#17 A - 2528 FINCH AVE W Toronto, ON",Humber Summit,55000,43.749264000000004,-79.559441,M9M 2G3,Finch Avenue West
+"#2 - 671 HUNTINGWOOD DR Toronto, ON",Tam O'Shanter,533900,43.7897,-79.30526,M1W 1H6,Huntingwood Drive
+"#108 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,309900,43.774895,-79.345955,M2J 1G2,Forest Manor Road
+"117 KING EDWARD AVE Toronto, ON",Woodbine - Lumsden,1150000,43.691368,-79.311615,M4C 5J7,King Edward Avenue
+"#2710 - 90 PARK LAWN RD Toronto, ON",Humber Bay,419900,43.624373999999996,-79.48554200000001,M8Y 0B6,Park Lawn Road
+"#2511 - 5 MASSEY SQ Toronto, ON",Old East York,265000,43.696163,-79.292953,M4C 5M9,Massey Square
+"1623 WESTON RD Toronto, ON",Toronto,369000,43.695999,-79.507645,M9N 1T8,Weston Road
+"14 RICHOME CRT Toronto, ON",Ionview,717000,43.735332,-79.275482,M1K 2Y1,Rosemount Drive
+"17 STRODE DR Toronto, ON",Eglinton East,699000,43.739819,-79.248024,M1J 1L8,Strode Drive
+"7 ATTILA CRT Toronto, ON",Rexdale,599000,43.736565,-79.597107,M9V 4E5,Attila Court
+"7 ROUGE RIVER DR Toronto, ON",Rouge,688500,43.805415999999994,-79.18654599999999,M1B 6J4,Sheppard Avenue East
+"#905 - 31 BALES AVE Toronto, ON",Willowdale,468000,43.760101,-79.40884399999999,M2N 7L6,Bales Avenue
+"#709 - 68 GRANGEWAY AVE Toronto, ON",Woburn,338800,43.773685,-79.249619,M1H 0A1,Grangeway Avenue
+"9 RECTORY RD Toronto, ON",Weston,485900,43.705288,-79.526894,M9N 1P8,Rectory Road
+"#2109 - 4978 YONGE ST Toronto, ON",Willowdale,478000,43.765578999999995,-79.41259000000001,M2N 7G8,Yonge Street
+"#308 - 21 MARKBROOK LANE Toronto, ON",Rexdale,249900,43.758635999999996,-79.58757,M9V 5E4,Markbrook Lane
+"#221 - 60 MENDELSSOHN ST Toronto, ON",Golden Mile,359000,43.716156,-79.281998,M1L 0G9,Scarborough
+"631 ST GERMAIN AVE Toronto, ON",Nortown,2429000,43.726009000000005,-79.42971800000001,M5M 1X8,Saint Germain Avenue
+"75 HOLBORNE AVE Toronto, ON",Old East York,649900,43.693779,-79.322388,M4C 2R2,Holborne Avenue
+"49 HAWKEDON CRES Toronto, ON",Rexdale,669900,43.725483000000004,-79.585327,M9W 3L6,Hawkedon Crescent
+"#412 - 19 FOUR WINDS DR Toronto, ON",Jane and Finch,255000,43.764374,-79.49455999999999,M3J 2S9,Four Winds Drive
+"57 HOPPERTON DR Toronto, ON",St. Andrew - Windfields,2388000,43.763935,-79.370956,M2L 2S7,Hopperton Drive
+"#14 - 242 JOHN GARLAND BLVD Toronto, ON",Rexdale,184500,43.733540000000005,-79.592949,M9V 1N8,John Garland Boulevard
+"202 PEMBERTON AVE Toronto, ON",Newtonbrook,1689000,43.783783,-79.401764,M2M 1Y8,Pemberton Avenue
+"26 VICTORIA ST Toronto, ON",Mimico,659900,43.619488,-79.48820500000001,M8V 1M6,Victoria Street
+"#1604 - 88 CORPORATE DR Toronto, ON",Woburn,385000,43.780956,-79.249779,M1H 3G6,Scarborough
+"3528 ELLESMERE RD Toronto, ON",Highland Creek,859000,43.7897,-79.17645300000001,M1C 3Z2,Ellesmere Road
+"#1133 - 25 BAMBURGH CIRC Toronto, ON",Steeles,479000,43.815434,-79.325745,M1W 3W2,Frank Rivers Drive
+"554 LAUDER AVE Toronto, ON",Oakwood Village,659000,43.691177,-79.444824,M6E 3J4,Lauder Avenue
+"#207 - 1775 MARKHAM RD Toronto, ON",Malvern,377500,43.795006,-79.239113,M1B 2W2,Ormerod Street
+"102 RUSTY CREST WAY Toronto, ON",Don Valley Village,672000,43.788429,-79.355347,M2J 2Y4,Rusty Crestway
+"#310 - 777 STEELES AVE W Toronto, ON",Newtonbrook,395000,43.792667,-79.443939,M2R 3Y4,Steeles Avenue West
+"274 RUMSEY RD Toronto, ON",Leaside,1499000,43.712596999999995,-79.369644,M4G 1R1,Eglinton Avenue East
+"119 CORINTHIAN BLVD Toronto, ON",L'Amoreaux,749888,43.792309,-79.327568,M1W 1B7,Corinthian Boulevard
+"4 HAIDA CRT Toronto, ON",Highland Creek,2497000,43.782387,-79.181709,M1C,Haida Court
+"#3107 - 33 SINGER CRT Toronto, ON",Bayview Village,314900,43.769611,-79.368416,M2K 0B4,Singer Court
+"29 GLANVIL CRES Toronto, ON",Malvern,475000,43.813889,-79.22135899999999,M1B 4R9,Glanvil Crescent
+"#1125 - 5 EVERSON DR Toronto, ON",Willowdale,545000,43.757408,-79.406853,M2N 7C3,Everson Drive
+"#1406 - 5 MASSEY SQ Toronto, ON",Old East York,164900,43.696163,-79.292953,M4C 5M9,Massey Square
+"#405 - 99 BLACKWELL AVE Toronto, ON",Malvern,139900,43.805328,-79.22023,M1B 3R5,Blackwell Avenue
+"#31 - 1396 DON MILLS RD Toronto, ON",Don Mills,675000,43.748825,-79.347603,M3B 3N1,North York
+"61 BOBMAR RD Toronto, ON",Highland Creek,869000,43.786201,-79.178551,M1C 1C8,Bobmar Road
+"#Th 77 - 83 BOROUGH DR Toronto, ON",Bendale,299900,43.772957,-79.261116,M1P 5E5,Scarborough
+"46 B MAYBOURNE AVE Toronto, ON",Clairlea,1279900,43.702293,-79.291161,M1L 2V9,Maybourne Avenue
+"#1107 - 5740 YONGE ST Toronto, ON",Newtonbrook,375800,43.783081,-79.416824,M2M 3T6,Yonge Street
+"66 PIPERBROOK CRES Toronto, ON",West Hill,730000,43.767239000000004,-79.180832,M1E 5G9,Piperbrook Crescent
+"#1501 - 360 RIDELLE AVE Toronto, ON",Midtown Toronto,349900,43.704834000000005,-79.439888,M6B 1K1,Ridelle Avenue
+"#725 - 250 MANITOBA ST Toronto, ON",Mimico,429900,43.624485,-79.49047900000001,M8Y 4G8,Manitoba Street
+"523 C ROYAL YORK RD Toronto, ON",The Queensway,949900,43.624474,-79.501793,M8Y 2S5,Etobicoke
+"52 WATNEY CRES Toronto, ON",Jane and Finch,629000,43.744606,-79.50318100000001,M3L 2E1,Watney Crescent
+"69 BERNICE CRES Toronto, ON",Rockcliffe - Smythe,599000,43.667286,-79.49749,M6N 1W7,Bernice Crescent
+"77 MINTWOOD DR Toronto, ON",Newtonbrook,828000,43.803523999999996,-79.377838,M2M 3A7,Mintwood Drive
+"#2606 - 10 NORTHTOWN WAY Toronto, ON",Willowdale,359000,43.775902,-79.413261,M2N 7L4,Northtown Way
+"#1807 - 61 TOWN CENTRE CRT Toronto, ON",Bendale,268500,43.774338,-79.25259399999999,M1P 5C6,Bushby Drive
+"115 A HOMESTEAD RD Toronto, ON",West Hill,1198000,43.766975,-79.178986,M1E 3S1,Homestead Road
+"#1 - 750 OAKDALE RD Toronto, ON",Jane and Finch,459000,43.751255,-79.528702,M3N,North York
+"#1007 - 3 MARINE PARADE DR Toronto, ON",Mimico,268000,43.630383,-79.47627299999999,M8V 3Z4,Lake Shore Boulevard West
+"24 A MASSIE ST Toronto, ON",White Haven,749900,43.790119,-79.24427800000001,M1S 3Z6,Massie Street
+"#1707 - 5168 YONGE ST Toronto, ON",Willowdale,455000,43.769829,-79.413467,M2N 0G1,Yonge Street
+"#1829 - 500 DORIS AVE Toronto, ON",Willowdale,519500,43.776451,-79.414017,M2N 0C1,Doris Avenue
+"#407 - 5 ROWNTREE RD Toronto, ON",Rexdale,245000,43.74955,-79.58075,M9V 5G9,Etobicoke
+"#310 - 99 BLACKWELL AVE Toronto, ON",Malvern,125000,43.805328,-79.22023,M1B 3R5,Blackwell Avenue
+"#Ph 2 - 15 LEGION RD Toronto, ON",Mimico,675000,43.621376,-79.483429,M8V 0B1,Etobicoke
+"#301 - 45 SILVERSTONE DR Toronto, ON",Rexdale,299999,43.744343,-79.587379,M9V 4B1,Silverstone Drive
+"#52 - 1667 ALBION RD Toronto, ON",Rexdale,424999,43.742409,-79.598518,,
+"#105 - 1795 MARKHAM RD Toronto, ON",Malvern,339000,43.795254,-79.239372,,
+"#D12 - 63 SILVER STAR BLVD Toronto, ON",Milliken,299000,43.806938,-79.29091600000001,,
+"43 BENLIGHT CRES Toronto, ON",Ben Jungle,795000,43.761955,-79.23864,,
+"#514 - 1470 MIDLAND AVE Toronto, ON",Dorset Park,269000,43.75235,-79.265923,,
+"#1910 - 190 BOROUGH DR Toronto, ON",Bendale,435000,43.772877,-79.25395999999999,,
+"69 STEWART SMITH DR Toronto, ON",Brookhaven - Amesbury,449900,43.698521,-79.497978,,
+"#407 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,369888,43.774895,-79.345955,,
+"7 VAN ALLAN RD Toronto, ON",Woburn,615000,43.757694,-79.222122,,
+"42 CONLINS RD Toronto, ON",Highland Creek,999000,43.785759000000006,-79.182869,,
+"#615 - 15 JAMES FINLAY WAY Toronto, ON",Downsview,399000,43.726418,-79.47994200000001,,
+"548 PRINCE EDWARD DR N Toronto, ON",The Kingsway,1879000,43.659264,-79.510025,,
+"#3012 - 1 MASSEY SQ Toronto, ON",Old East York,184000,43.69614,-79.294983,,
+"31 MELDAZY DR Toronto, ON",Bendale,799000,43.761456,-79.250458,,
+"#113 - 1200 DON MILLS RD Toronto, ON",Don Mills,499900,43.739239000000005,-79.344574,,
+"7 GLENSTROKE DR Toronto, ON",White Haven,879900,43.789085,-79.251717,,
+"30 ALEXIS BLVD Toronto, ON",Wilson Heights,999000,43.754162,-79.440613,,
+"42 STEPHEN DR Toronto, ON",Humber Bay,669000,43.632587,-79.485214,,
+"#15 - 431 MILITARY TR Toronto, ON",Morningside,435000,43.788143,-79.207649,,
+"517 CRANBROOKE AVE Toronto, ON",Nortown,2495000,43.724655,-79.424278,,
+"#5002 - 16 HARBOUR ST Toronto, ON",Downtown,1329900,43.642578,-79.3769,,
+"#911 - 1060 SHEPPARD AVE W Toronto, ON",Downsview,519900,43.750595000000004,-79.464058,,
+"#2503 - 9 BOGERT AVE Toronto, ON",Lansing,675000,43.760303,-79.411621,,
+"#808 - 29 QUEENS QUAY E Toronto, ON",Downtown,1149000,43.642272999999996,-79.372704,,
+"#406 - 4 PARK VISTA DR Toronto, ON",Woodbine Gardens,219000,43.698101,-79.29943100000001,,
+"#Ph18 - 5 SHEPPARD AVE E Toronto, ON",Willowdale,2150000,43.761501,-79.409882,,
+"#3007 - 59 ANNIE CRAIG DR Toronto, ON",Mimico,549900,43.624969,-79.478081,,
+"#808 - 880 GRANDVIEW WAY Toronto, ON",Willowdale,428800,43.775146,-79.412666,,
+"#1406 - 80 MARINE PARADE DR Toronto, ON",Mimico,399900,43.625541999999996,-79.477242,,
+"#315 - 352 FRONT ST W Toronto, ON",Downtown,345000,43.643485999999996,-79.392303,,
+"#Ph1421 - 629 KING ST W Toronto, ON",Downtown,1699990,43.643947999999995,-79.401474,,
+"496 -498 HORNER AVE Toronto, ON",Alderwood,1148000,43.602165,-79.544388,,
+"#1303 - 32 DAVENPORT RD Toronto, ON",Midtown Toronto,738000,43.673171999999994,-79.389687,,
+"#2519 - 25 GREENVIEW AVE Toronto, ON",Newtonbrook,562000,43.78067,-79.41834300000001,,
+"#2905 - 18 YONGE ST Toronto, ON",Downtown,389000,43.644455,-79.37653399999999,,
+"#3208 - 9 BOGERT AVE Toronto, ON",Lansing,629900,43.760303,-79.411621,,
+"#1604 - 215 FORT YORK BLVD Toronto, ON",Niagara,559000,43.636345,-79.404808,,
+"#2710 - 155 LEGION RD Toronto, ON",Mimico,349000,43.62381,-79.488022,,
+"#122 - 5225 FINCH AVE E Toronto, ON",Bridlewood,279800,43.796768,-79.315636,,
+"#507 - 12 YORK ST Toronto, ON",Downtown,549000,43.641632,-79.38205,,
+"#609 - 70 TEMPERANCE ST Toronto, ON",Downtown,458900,43.650372,-79.382347,,
+"#819 - 25 GREENVIEW AVE Toronto, ON",Newtonbrook,514900,43.78067,-79.41834300000001,,
+"#1 - 288 ST CLAIR AVE W Toronto, ON",Midtown Toronto,2275990,43.685131,-79.410217,,
+"#233 - 25 BAMBURGH CIRC Toronto, ON",Steeles,508888,43.815434,-79.325745,,
+"#40 - 30 IRONSIDE CRES Toronto, ON",Armdale,366735,43.825053999999994,-79.24681899999999,,
+"#2510 - 33 EMPRESS AVE Toronto, ON",Willowdale,559000,43.769207,-79.412132,,
+"#2301 - 5162 YONGE ST Toronto, ON",Willowdale,475000,43.769665,-79.41378,,
+"#709 - 28 BYNG AVE Toronto, ON",Willowdale,419800,43.777054,-79.41378,,
+"#310 - 5508 YONGE ST Toronto, ON",Willowdale,425000,43.778439,-79.416069,,
+"#352 - 1030 KING ST W Toronto, ON",Niagara,549000,43.641579,-79.415901,,
+"#901 - 4968 YONGE ST Toronto, ON",Willowdale,339000,43.76556,-79.41280400000001,,
+"#913 - 21 GRAND MAGAZINE ST Toronto, ON",Niagara,479000,43.63641,-79.402,,
+"#2706 - 2220 LAKESHORE RD Toronto, ON",Mimico,343000,43.62273,-79.483192,,
+"#526 - 560 KING ST W Toronto, ON",Downtown,479999,43.644852,-79.399101,,
+"#1601 - 33 CHARLES ST E Toronto, ON",Downtown,449000,43.668785,-79.384766,,
+"#4505 - 45 CHARLES ST E Toronto, ON",Downtown,422000,43.668777,-79.383995,,
+"#2311 - 352 FRONT ST W Toronto, ON",Downtown,412000,43.643485999999996,-79.392303,,
+"#B6 - 4227 SHEPPARD AVE E Toronto, ON",Agincourt,168000,43.785206,-79.277573,,
+"#110 - 2772 KEELE ST Toronto, ON",Downsview,379999,43.727539,-79.482857,,
+"#2210 - 36 LEE CENTRE DR Toronto, ON",Woburn,325000,43.78167,-79.247215,,
+"#2902 - 390 CHERRY ST Toronto, ON",Downtown,769000,43.650555,-79.357384,,
+"#1306 - 318 KING ST E Toronto, ON",Downtown,649000,43.652454,-79.363731,,
+"#405 - 1 Michael Power Pl Toronto, ON",Islington - City Centre West,329900,43.643925,-79.528885,,
+"#707 - 2 Aberfoyle Cres Toronto, ON",Islington - City Centre West,859000,43.646122,-79.521828,,
+"##1008 - 420 Mill Rd Toronto, ON",Eringate - Centennial - West Deane,335000,43.644711,-79.58869200000001,,
+"#514 - 9 Michael Power Pl Toronto, ON",Islington - City Centre West,349900,43.644661,-79.529335,,
+"32B Keith Ave Toronto, ON",Fairbank,799000,43.690666,-79.46199,,
+"1 Pegasus Tr Toronto, ON",Woburn,649000,43.779556,-79.225761,,
+"14 Elmview Dr Toronto, ON",Birch Cliff,1089900,43.684292,-79.27916,,
+"144 Rory Rd Toronto, ON",Maple Leaf,499900,43.720539,-79.48439,,
+"75 Cayuga Ave Toronto, ON",Harwood,419900,43.678665,-79.478302,,
+"3 Acton Ave Toronto, ON",Bathurst Manor,999000,43.760948,-79.44489300000001,,
+"71 Delemere Ave Toronto, ON",Lambton,639000,43.670361,-79.501076,,
+"12 Waring Crt Toronto, ON",Willowdale,3588000,43.77668,-79.401146,,
+"46 Cole St Toronto, ON",Downtown,363900,43.660629,-79.364532,,
+"3 Burkwood Cres Toronto, ON",Malvern,539900,43.802864,-79.214462,,
+"220 Gilbert Ave Toronto, ON",Toronto,559000,43.682990999999994,-79.459412,,
+"52 Malta St Toronto, ON",Birch Cliff,599900,43.704281,-79.257225,,
+"113 Moreau Tr Toronto, ON",Clairlea,1199000,43.711281,-79.283325,,
+"#707 - 1 King St Toronto, ON",Weston,320000,43.701572,-79.52018699999999,,
+"28 Rowse Cres Toronto, ON",The Westway,824888,43.691151,-79.54287,,
+"52B Hilldale Rd Toronto, ON",Harwood,869000,43.676849,-79.482109,,
+"92 Rushley Dr Toronto, ON",Bendale,549900,43.755604,-79.260536,,
+"#17 - 117 Omni Dr Toronto, ON",Bendale,439000,43.77195,-79.261711,,
+"28 Glanvil Cres Toronto, ON",Malvern,518000,43.813629,-79.221588,,
+"36 Bonis Ave Toronto, ON",Tam O'Shanter,500000,43.783947,-79.298721,,
+"15 Kengate Dr Toronto, ON",Malvern,830000,43.820240000000005,-79.20294200000001,,
+"#4002 - 33 Bay St Toronto, ON",Downtown,430000,43.642509000000004,-79.377365,,
+"#67 - 42 Pinery Tr Toronto, ON",Malvern,234900,43.807106,-79.227829,,
+"4 Big Red Ave Toronto, ON",Agincourt,629900,43.814487,-79.26992800000001,,
+"43B Foch Ave Toronto, ON",Alderwood,1349999,43.595139,-79.545746,,
+"700 Wilson Ave Toronto, ON",Downsview,758800,43.731644,-79.462372,,
+"18 Dignam Crt Toronto, ON",Bendale,728888,43.754463,-79.243851,,
+"383 Shuter St Toronto, ON",Downtown,699900,43.657340999999995,-79.362579,,
+"26 JOSEPH ST Toronto, ON",Weston,748800,43.705509,-79.518242,,
+"165 Legion Road Toronto, ON",Mimico,399000,43.624207,-79.488228,,
+"8 ADAMS DR Toronto, ON",West Hill,1779999,43.763065000000005,-79.19657099999999,,
+"#1007 - 2050 Bridletowne Circ Toronto, ON",Milliken,279800,43.797787,-79.313347,,
+"#3304 - 21 Grenville St Toronto, ON",Downtown,714900,43.661792999999996,-79.384506,,
+"#1501 - 60 Berwick Ave Toronto, ON",Midtown Toronto,419000,43.703773,-79.399658,,
+"#514 - 210 Simcoe St Toronto, ON",Downtown,479999,43.652451,-79.388931,,
+"#Ph614 - 380 Macpherson Ave Toronto, ON",Midtown Toronto,1080000,43.676369,-79.405739,,
+"#912 - 352 Front St Toronto, ON",Downtown,334900,43.643485999999996,-79.392303,,
+"#612 - 2 Old Mill Dr Toronto, ON",Lambton Baby Point,539900,43.648071,-79.486664,,
+"#17G - 6 Rosebank Dr Toronto, ON",Malvern,249990,43.791725,-79.23687,,
+"#1506 - 60 Pavane Link Way Toronto, ON",Flemingdon Park,299000,43.711529,-79.32289899999999,,
+"182 Patricia Ave Toronto, ON",Newtonbrook,1480000,43.788563,-79.426552,,
+"#08 - 341 Military Tr Toronto, ON",Morningside,429900,43.78614,-79.211952,,
+"#2202 - 88 Grangeway Ave Toronto, ON",Woburn,349000,43.773827000000004,-79.250023,,
+"16 Larkfield Dr Toronto, ON",Windfields,3388000,43.737522,-79.358696,,
+"430 Military Tr Toronto, ON",Morningside,699900,43.788639,-79.207932,,
+"17 Hildenboro Sq Toronto, ON",L'Amoreaux,688000,43.801937,-79.321388,,
+"14 Miniot Circ Toronto, ON",Kennedy Park,649900,43.727692,-79.269615,,
+"#709 - 455 Sentinel Rd Toronto, ON",York University Heights,239000,43.762249,-79.500114,,
+"26 Yorkview Dr Toronto, ON",Willowdale,1498000,43.774139,-79.427925,,
+"#18 - 170 Wickson Tr Toronto, ON",Malvern,318000,43.805099,-79.21195999999999,,
+"553 Blackthorn Ave Toronto, ON",Silverthorn,629000,43.690616999999996,-79.46476,,
+"#4012 - 763 Bay St Toronto, ON",Downtown,525900,43.660103,-79.385086,,
+"#815 - 39 Queens Quay Way Toronto, ON",Downtown,1349000,43.641346,-79.372421,,
+"#308 - 350 Lonsdale Rd Toronto, ON",Midtown Toronto,789000,43.688499,-79.414642,,
+"#169 - 28 Stadium Rd Toronto, ON",Niagara,449900,43.633461,-79.399681,,
+"#2504 - 500 Sherbourne St Toronto, ON",Downtown,385000,43.667915,-79.375679,,
+"#610 - 1169 Queen St Toronto, ON",Little Portugal,418000,43.642593,-79.425537,,
+"187 Gowan Ave Toronto, ON",Pape Village,699000,43.68848,-79.347557,,
+"119 Park Home Ave Toronto, ON",Willowdale,1998000,43.767403,-79.421387,,
+"20 Shrewsbury Sq Toronto, ON",Tam O'Shanter - Sullivan,788000,43.772118,-79.309311,,
+"1254 Broadview Ave Toronto, ON",Old East York,850000,43.691109000000004,-79.35553,,
+"43 Franel Cres Toronto, ON",Humber Summit,649000,43.753605,-79.569298,,
+"#807 - 330 Alton Towers Circ Toronto, ON",Milliken,329000,43.822525,-79.276451,,
+"8 Firestone Rd Toronto, ON",Eringate - Centennial - West Deane,799000,43.666061,-79.57621800000001,,
+"35 B Green Belt Dr Toronto, ON",Don Mills,868880,43.730297,-79.336617,,
+"28 Goodwood Park Cres Toronto, ON",Old East York,539900,43.695007000000004,-79.299088,,
+"34 Burnhamthorpe Cres Toronto, ON",Islington,1250000,43.649994,-79.53022800000001,,
+"694 Morrish Rd Toronto, ON",Highland Creek,725000,43.79467,-79.17546800000001,,
+"#4105 - 2200 Lake Shore Blvd Toronto, ON",Mimico,305000,43.622883,-79.481972,,
+"#824 - 525 Wilson Ave Toronto, ON",Wilson Heights,529900,43.734478,-79.446472,,
+"20 Warvet Cres Toronto, ON",O'Connor - Parkview,599000,43.708248,-79.302658,,
+"#805 - 168 Bonis Ave Toronto, ON",Tam O'Shanter,749800,43.785709000000004,-79.293724,,
+"#68 - 15 Pebble Byway Way Toronto, ON",Hillcrest Village,390000,43.802334,-79.353668,,
+"#2912 - 275 Yorkland Rd Toronto, ON",Henry Farm,294900,43.774746,-79.336929,,
+"6 Woody Vineway Way Toronto, ON",Bayview Village,529000,43.788269,-79.368301,,
+"#511 - 301 Prudential Dr Toronto, ON",Dorset Park,241900,43.750229,-79.268051,,
+"#411 - 121 Trudelle St Toronto, ON",Eglinton East,185000,43.740406,-79.237946,,
+"#2702 - 101 Charles St Toronto, ON",Downtown,559800,43.669643,-79.380608,,
+"#301 - 650 SHEPPARD AVE E Toronto, ON",Bayview Village,320000,43.768475,-79.38160699999999,,
+"118 Saturn Rd Toronto, ON",Eatonville,1099000,43.641037,-79.573959,,
+"5 Compton Dr Toronto, ON",Wexford,799900,43.750195,-79.292679,,
+"5 Vankirk Rd Toronto, ON",Dorset Park,639900,43.756271000000005,-79.28295899999999,,
+"10 Flora Dr Toronto, ON",McGregor Park,625000,43.742405,-79.281387,,
+"70 Poynter Dr Toronto, ON",Richview,785000,43.692615999999994,-79.54583000000001,,
+"#2302 - 1 Aberfoyle Cres Toronto, ON",Islington - City Centre West,875000,43.645920000000004,-79.519623,,
+"#1703 - 75 QUEENS WHARF RD E Toronto, ON",Downtown,419900,43.638477,-79.397987,,
+"#203 - 170 ROEHAMPTON AVE Toronto, ON",Midtown Toronto,339999,43.709068,-79.393547,,
+"#207 - 245 DAVISVILLE AVE Toronto, ON",Midtown Toronto,449000,43.699954999999996,-79.387505,,
+"#2005 - 103 THE QUEENSWAY AVE Toronto, ON",Swansea,498000,43.636292,-79.470467,,
+"#301 - 155 YORKVILLE AVE Toronto, ON",Midtown Toronto,599900,43.670319,-79.394432,,
+"#411 - 812 LANSDOWNE AVE Toronto, ON",Wallace Emerson,315000,43.665203000000005,-79.447601,,
+"#3409 - 105 THE QUEENSWAY AVE Toronto, ON",Swansea,250000,43.636173,-79.47075699999999,,
+"#416 - 103 THE QUEENSWAY AVE Toronto, ON",Swansea,345000,43.636292,-79.470467,,
+"#3805 - 8 THE ESPLANADE AVE Toronto, ON",Downtown,899000,43.64613,-79.375778,,
+"#614 - 18 VALLEY WOODS RD Toronto, ON",Parkwoods - Donalda,248800,43.752784999999996,-79.332695,,
+"#1949 - 25 VIKING LANE Toronto, ON",Islington - City Centre West,538000,43.638737,-79.535606,,
+"#603 - 65 SPRING GARDEN AVE Toronto, ON",Willowdale,698000,43.764441999999995,-79.408936,,
+"#4105 - 2200 LAKE SHORE BLVD Toronto, ON",Mimico,305000,43.622883,-79.481972,,
+"1803 - 1300 ISLINGTON Avenue Toronto, ON",Islington - City Centre West,549000,43.650017,-79.52639,,
+"#1706 - 40 RICHVIEW RD Toronto, ON",Humber Heights - Westmount,419900,43.684998,-79.515526,,
+"#3007 - 2200 LAKE SHORE BLVD W Toronto, ON",Mimico,469980,43.622883,-79.481972,,
+"#607 - 140 WIDDICOMBE HILL BLVD Toronto, ON",Richview,479900,43.677921000000005,-79.556534,,
+"2229 LAWRENCE AVE W Toronto, ON",Humber Heights - Westmount,889000,43.697753999999996,-79.524979,,
+"#50 - 100 BRIDLETOWNE CIRC Toronto, ON",Bridlewood,479999,43.793938,-79.318443,,
+"#820 - 135 VILLAGE GREEN SQ Toronto, ON",Agincourt,272900,43.777565,-79.281006,,
+"#711 - 125 VILLAGE GREEN SQ Toronto, ON",Agincourt,325800,43.778103,-79.281586,,
+"#312 - 300 ALTON TOWERS CIRC Toronto, ON",Milliken,329900,43.824017,-79.2771,,
+"#68 - 15 PEBBLE BYWAY WAY Toronto, ON",Hillcrest Village,390000,43.802334,-79.353668,,
+"#120 - 80 HARRISON GARDEN BLVD Toronto, ON",Willowdale,529000,43.756294,-79.406532,,
+"#1026 - 80 HARRISON GARDEN BLVD Toronto, ON",Willowdale,548800,43.756294,-79.406532,,
+"#1023 - 100 HARRISON GARDEN BLVD Toronto, ON",Willowdale,599900,43.757233,-79.404686,,
+"#Ph02 - 51 HARRISON GARDEN BLVD Toronto, ON",Willowdale,459990,43.756668,-79.407768,,
+"#1609 - 2015 SHEPPARD AVE E Toronto, ON",Henry Farm,269900,43.775208,-79.336426,,
+"#815 - 39 QUEENS QUAY WAY E Toronto, ON",Downtown,1349000,43.641346,-79.372421,,
+"#909 - 5 VICORA LINKWAY WAY Toronto, ON",Flemingdon Park,248500,43.711658,-79.324539,,
+"#601 - 1555 FINCH AVE E Toronto, ON",Don Valley Village,398000,43.793056,-79.35228000000001,,
+"#1110 - 60 PAVANE LINK WAY Toronto, ON",Flemingdon Park,314900,43.711529,-79.32289899999999,,
+"#1817 - 800 LAWRENCE AVE W Toronto, ON",Lawrence Heights,328888,43.714591999999996,-79.452911,,
+"#502 -50- 255 DUNCAN MILLS RD Toronto, ON",Toronto,589900,43.761299,-79.351776,,
+"#801 - 4727 SHEPPARD AVE E Toronto, ON",White Haven,308000,43.789639,-79.25361600000001,,
+"#1905 - 17 Anndale Dr Toronto, ON",Willowdale,568000,43.760135999999996,-79.40789000000001,,
+"169 Beaconsfield Ave Toronto, ON",Little Portugal,929000,43.649033,-79.427734,,
+"#2202 - 88 Grangeway Ave Toronto, ON",Woburn,349000,43.773827000000004,-79.250023,,
+"#302 - 169 Fort York Blvd Toronto, ON",Niagara,553000,43.638512,-79.400894,,
+"83 Cambridge Ave Toronto, ON",Playter Estates,849000,43.678246,-79.359482,,
+"28 COSMIC DR Toronto, ON",Windfields,3488000,43.749664,-79.373573,,
+"82 JOSEPH GRIFFITH LANE Toronto, ON",Downsview,499900,43.726799,-79.52217900000001,,
+"17 MARTORINO DR Toronto, ON",Kennedy Park,647000,43.723759,-79.270348,,
+"#Th7 - 96-104 Coxwell Ave Toronto, ON",Leslieville,779900,43.669174,-79.317986,,
+"#501 - 101 Prudential Dr Toronto, ON",Dorset Park,190000,43.749035,-79.266685,,
+"1348 QUEEN ST E Toronto, ON",Leslieville,1588888,43.664227000000004,-79.326431,,
+"39 Victoria Blvd Toronto, ON",Mount Dennis,480000,43.690044,-79.49445300000001,,
+"#1002 - 33 ELMHURST AVE Toronto, ON",Lansing,558888,43.762423999999996,-79.41282700000001,,
+"5688 SHEPPARD AVE E Toronto, ON",Malvern,499000,43.79504,-79.234375,,
+"45 BARRYMORE RD Toronto, ON",Bendale,589800,43.751591,-79.247688,,
+"#1501 - 1121 BAY ST Toronto, ON",Downtown,499999,43.667976,-79.38855,,
+"977 Lillian St Toronto, ON",Newtonbrook,1880000,43.793953,-79.409225,,
+"#104 - 56 SIDNEY BELSEY CRES Toronto, ON",Mount Dennis,350000,43.692898,-79.506203,,
+"190 CHAMBERS AVE Toronto, ON",Silverthorn,624880,43.681507,-79.465294,,
+"7 GREENBROOK DR Toronto, ON",Beechborough - Greenbrook,699000,43.696888,-79.476875,,
+"206 LAUDER AVE Toronto, ON",Oakwood Village,1459000,43.680222,-79.44054399999999,,
+"185 ATLAS AVE Toronto, ON",Midtown Toronto,529000,43.68705,-79.433083,,
+"#806 - 335 MILL RD Toronto, ON",Eringate - Centennial - West Deane,259000,43.639858000000004,-79.584564,,
+"#508 - 551 THE WEST MALL RD Toronto, ON",Etobicoke West Mall,288000,43.651909,-79.569687,,
+"#1111 - 123 Eglinton Ave Toronto, ON",Midtown Toronto,799900,43.707485,-79.39328,,
+"37 Stephenfrank Rd Toronto, ON",Bendale,805000,43.758404,-79.257812,,
+"#502 - 215 Fort York Blvd Toronto, ON",Niagara,475000,43.636345,-79.404808,,
+"#3 - 300 New Toronto St Toronto, ON",New Toronto,699000,43.604565,-79.518341,,
+"#2204 - 44 ST JOSEPH ST Toronto, ON",Downtown,410000,43.66592,-79.386963,,
+"#3103 - 386 YONGE ST Toronto, ON",Downtown,599900,43.659328,-79.382675,,
+"#1711 - 21 WIDMER ST Toronto, ON",Downtown,714900,43.647224,-79.391098,,
+"#630 - 20 BRUYERES MEWS Toronto, ON",Niagara,371999,43.637432000000004,-79.401039,,
+"379 HARBORD ST Toronto, ON",Little Italy,188000,43.658806,-79.422653,,
+"97 GLADSTONE AVE Toronto, ON",Little Portugal,1495000,43.645592,-79.428123,,
+"#4910 - 386 YONGE ST Toronto, ON",Downtown,1288000,43.659328,-79.382675,,
+"1315 DANFORTH RD Toronto, ON",Eglinton East,629900,43.742371,-79.245285,,
+"#207 - 1960 QUEEN ST E Toronto, ON",The Beach,1099500,43.669734999999996,-79.30205500000001,,
+"#411 - 12 YONGE ST Toronto, ON",Downtown,539900,43.642872,-79.376221,,
+"#901 - 120 LOMBARD ST Toronto, ON",Downtown,350000,43.652531,-79.373039,,
+"#703 - 8 MERCER ST Toronto, ON",Downtown,329000,43.645984999999996,-79.389938,,
+"#601 - 270 WELLINGTON ST W Toronto, ON",Downtown,367500,43.645069,-79.390862,,
+"2373 GERRARD ST E Toronto, ON",Upper Beaches,549900,43.685767999999996,-79.291336,,
+"#62 - 55 FOUNDRY AVE Toronto, ON",Davenport,618900,43.670906,-79.449074,,
+"105 The Queensway Road Toronto, ON",Swansea,329900,43.636173,-79.47075699999999,,
+"#Ph 6 - 130 CARLTON ST Toronto, ON",Downtown,1380000,43.662857,-79.376274,,
+"#2504 - 8 MERCER ST Toronto, ON",Downtown,406000,43.645984999999996,-79.389938,,
+"#708 - 10 MORRISON ST Toronto, ON",Downtown,479000,43.645573,-79.39899399999999,,
+"#629 - 20 BRUYERES MEWS Toronto, ON",Niagara,479000,43.637432000000004,-79.401039,,
+"401 PARLIAMENT AVE Toronto, ON",Downtown,169000,43.662125,-79.36685899999999,,
+"66 EMERSON AVE Toronto, ON",Wallace Emerson,1075000,43.661148,-79.441711,,
+"#2308 - 225 SACKVILLE ST Toronto, ON",Downtown,385000,43.659824,-79.362724,,
+"9 KINTYRE AVE Toronto, ON",Riverside,1250000,43.66016,-79.35141800000001,,
+"#1019 - 39 QUEENS QUAY E Toronto, ON",Downtown,568888,43.641346,-79.372421,,
+"#211 - 510 KING ST E Toronto, ON",Downtown,729900,43.656361,-79.357277,,
+"325 WINDERMERE AVE Toronto, ON",Swansea,989000,43.648193,-79.479431,,
+"169 BEACONSFIELD AVE Toronto, ON",Little Portugal,949000,43.649033,-79.427734,,
+"#1470 - 209 FORT YORK BLVD Toronto, ON",Niagara,545000,43.636963,-79.404671,,
+"#520 /52- 62/64 NIAGARA ST Toronto, ON",Niagara,1924000,43.641808000000005,-79.403,,
+"#604 - 225 SACKVILLE ST Toronto, ON",Downtown,469900,43.659824,-79.362724,,
+"#1002 - 83 REDPATH AVE Toronto, ON",Midtown Toronto,424900,43.706425,-79.39222,,
+"#3403 - 105 THE QUEENSWAY Toronto, ON",Swansea,499000,43.636173,-79.47075699999999,,
+"#2003 - 1 THE ESPLANADE Toronto, ON",Downtown,480000,43.645695,-79.376144,,
+"#209 - 170 AVENUE RD Toronto, ON",Midtown Toronto,498000,43.675331,-79.397125,,
+"#2401 - 633 BAY ST Toronto, ON",Downtown,658000,43.656731,-79.383461,,
+"#5105 - 2191 YONGE ST Toronto, ON",Davisville,968000,43.705597,-79.397453,,
+"476 DOVERCOURT RD Toronto, ON",Dufferin Grove,1900000,43.654331,-79.427017,,
+"#423 - 89 MCCAUL ST Toronto, ON",Grange Park,325000,43.653053,-79.390884,,
+"#618 - 219 FORT YORK BLVD Toronto, ON",Niagara,319900,43.63665,-79.40570100000001,,
+"# 2407 - 75 ST NICHOLAS ST Toronto, ON",Downtown,475000,43.667709,-79.386383,,
+"#406 - 78 TECUMSETH ST Toronto, ON",Niagara,664900,43.643116,-79.405334,,
+"#1031 - 39 QUEENS QUAY E Toronto, ON",Downtown,464900,43.641346,-79.372421,,
+"#4212 - 85 QUEENS WHARF RD Toronto, ON",Downtown,549900,43.638866,-79.398438,,
+"#278 - 209 FORT YORK BLVD Toronto, ON",Niagara,489900,43.636963,-79.404671,,
+"#1811 - 295 ADELAIDE ST W Toronto, ON",Downtown,419900,43.647663,-79.390419,,
+"2052 QUEEN ST E Toronto, ON",The Beach,350000,43.670821999999994,-79.29759200000001,,
+"#1805 - 11 PEEL AVE Toronto, ON",Little Portugal,379000,43.642963,-79.428223,,
+"#518 - 35 HAYDEN ST Toronto, ON",Downtown,729000,43.669609,-79.384773,,
+"6 ROSEHEATH AVE Toronto, ON",East Danforth,569900,43.681171,-79.31703900000001,,
+"115 B HOMESTEAD RD Toronto, ON",West Hill,1238000,43.766975,-79.178986,,
+"#900 - 33 SHEPPARD AVE Toronto, ON",Willowdale,348800,43.761196000000005,-79.408951,,
+"15 COACH LITEWAY WAY Toronto, ON",Newtonbrook,529000,43.780006,-79.450439,,
+"#2701 - 155 LEGION RD N Toronto, ON",Mimico,375000,43.62381,-79.488022,,
+"23 TARBERT RD Toronto, ON",Bayview Woods - Steeles,1750000,43.802509,-79.390968,,
+"229 CATALINA DR Toronto, ON",Guildwood,715000,43.743652000000004,-79.20015,,
+"130 SPRING GARDEN AVE Toronto, ON",Willowdale,2450000,43.765537,-79.405388,,
+"14 DANESBURY AVE Toronto, ON",Briar Hill,549000,43.702183000000005,-79.444046,,
+"106 BALLACAINE DR Toronto, ON",Toronto,1089000,43.6357,-79.495644,,
+"#516 - 340 DIXON RD Toronto, ON",Kingsview Village,99900,43.696312,-79.553864,,
+"#513 - 4200 BATHURST ST Toronto, ON",Wilson Heights,284000,43.749321,-79.437149,,
+"216 B FINCH AVE Toronto, ON",Willowdale,999000,43.775954999999996,-79.433769,,
+"#1107 - 3 REAN DR Toronto, ON",Bayview Village,298200,43.765289,-79.382339,,
+"97 GALLOWAY RD Toronto, ON",West Hill,599900,43.757496,-79.192497,,
+"1375 WILSON AVE Toronto, ON",Downsview,235000,43.722858,-79.498878,,
+"34 WHITE BIRCH RD Toronto, ON",Birch Cliff,869000,43.686226,-79.269264,,
+"#201 - 80 MARINE PARADE DR Toronto, ON",Mimico,339900,43.625541999999996,-79.477242,,
+"#119 - 700 HUMBERWOOD BLVD Toronto, ON",Rexdale,304900,43.724765999999995,-79.616486,,
+"#17 - 501 PASSMORE AVE Toronto, ON",Armdale,449000,43.829632000000004,-79.254021,,
+"37 BLANEY CRES Toronto, ON",Jane and Finch,609000,43.754471,-79.522911,,
+"#1105 - 50 LOTHERTON PKWY Toronto, ON",Glen Park,192900,43.705845000000004,-79.466965,,
+"#Uph03 - 1 AVONDALE AVE Toronto, ON",Willowdale,399880,43.757996,-79.409592,,
+"#737 - 1881 MCNICOLL AVE Toronto, ON",Milliken,459000,43.810703000000004,-79.302322,,
+"#409 - 17 BARBERRY PL Toronto, ON",Bayview Village,309990,43.765186,-79.38472,,
+"487 GLENGARRY AVE Toronto, ON",Nortown,2248800,43.72076,-79.425728,,
+"#504 - 3 MASSEY SQ Toronto, ON",Old East York,239900,43.696827,-79.29341099999999,,
+"#3 - 50 WEYBRIGHT CRT Toronto, ON",Agincourt,235000,43.781467,-79.27889300000001,,
+"297 MAXWELL ST Toronto, ON",Bathurst Manor,1098888,43.765511,-79.458313,,
+"#104 - 1785 MARKHAM RD Toronto, ON",Malvern,365000,43.795147,-79.23880799999999,,
+"#105 - 200 LOTHERTON PTWY Toronto, ON",Glen Park,207777,43.707066,-79.466217,,
+"1021 WESTON RD Toronto, ON",Mount Dennis,549000,43.685081,-79.485382,,
+"#1207 - 29 ROSEBANK DR Toronto, ON",Malvern,529900,43.791267,-79.234779,,
+"7 DARTMOUTH CRES Toronto, ON",Mimico,1579000,43.606827,-79.492538,,
+"#1918 - 35 HOLLYWOOD AVE Toronto, ON",Willowdale,478000,43.765842,-79.410057,,
+"#506 - 190 MANITOBA ST Toronto, ON",Mimico,320000,43.623661,-79.491394,,
+"#2105 - 4968 YONGE ST Toronto, ON",Willowdale,309900,43.76556,-79.41280400000001,,
+"#1507 - 90 PARK LAWN RD Toronto, ON",Humber Bay,469900,43.624373999999996,-79.48554200000001,,
+"239 TAYSHAM CRES Toronto, ON",Rexdale,549900,43.739346000000005,-79.575073,,
+"31 VESSEL CRES Toronto, ON",Port Union,699900,43.777721,-79.137276,,
+"2071 KEELE ST Toronto, ON",Silverthorn,589000,43.692989000000004,-79.47444200000001,,
+"#3 D - 6 ROSEBANK DR Toronto, ON",Malvern,228000,43.791725,-79.23687,,
+"67 PIDGEON ST Toronto, ON",Clairlea - Birchmount,634900,43.716999,-79.277588,,
+"36 AMIENS RD Toronto, ON",West Hill,399000,43.775135,-79.187401,,
+"#307 - 5795 YONGE ST Toronto, ON",Newtonbrook,339000,43.78434,-79.41544300000001,,
+"#2205 - 115 OMNI DR Toronto, ON",Bendale,305990,43.771384999999995,-79.260765,,
+"#Uph02 - 885 PROGRESS AVE Toronto, ON",Woburn,155000,43.780998,-79.235863,,
+"4 DUBARRY AVE Toronto, ON",West Hill,669900,43.760811,-79.18306,,
+"18 SHADBERRY DR Toronto, ON",Hillcrest Village,1499000,43.803513,-79.35165400000001,,
+"70 STRUTHERS ST Toronto, ON",Mimico,799900,43.608631,-79.49889399999999,,
+"#2807 - 90 PARK LAWN RD Toronto, ON",Humber Bay,457000,43.624373999999996,-79.48554200000001,,
+"673 EGLINTON AVE E Toronto, ON",Leaside,1299900,43.711868,-79.3722,,
+"34 HELMSDALE CRES Toronto, ON",Rexdale,569900,43.748492999999996,-79.60374499999999,,
+"#2515 - 90 PARK LAWN RD Toronto, ON",Humber Bay,370000,43.624373999999996,-79.48554200000001,,
+"#2221 - 165 LEGION RD N Toronto, ON",Mimico,319900,43.624207,-79.488228,,
+"#812 - 177 LINUS RD Toronto, ON",Don Valley Village,319000,43.791103,-79.357162,,
+"602 2737 Keele Street Toronto, ON",Downsview,199900,43.72578,-79.48075899999999,,
+"#209 - 238 DORIS AVE Toronto, ON",Willowdale,445000,43.770878,-79.411964,,
+"#104 - 80 ALTON TOWERS CIRC Toronto, ON",Toronto,329900,43.824078,-79.27377299999999,,
+"#1903 - 25 TOWN CENTRE CRT Toronto, ON",Bendale,293000,43.773403,-79.254951,,
+"#607 - 4 ELSINORE PATH Toronto, ON",New Toronto,248888,43.601498,-79.51007800000001,,
+"#1109 - 629 KING ST W Toronto, ON",Downtown,469900,43.643947999999995,-79.401474,,
+"#3705 - 45 CHARLES ST E Toronto, ON",Downtown,412900,43.668777,-79.383995,,
+"#6016 - 388 YONGE ST Toronto, ON",Downtown,1108800,43.659534,-79.382828,,
+"#812 - 5162 YONGE ST Toronto, ON",Willowdale,565000,43.769665,-79.41378,,
+"808 825 Church Street Toronto, ON",Midtown Toronto,485800,43.672985,-79.38703199999999,,
+"#1828 - 165 LEGION RD N Toronto, ON",Mimico,349900,43.624207,-79.488228,,
+"12 PRINGDALE GARDEN CIRC Toronto, ON",Eglinton East,699800,43.742512,-79.244614,,
+"#513 - 17 KENASTON GDNS Toronto, ON",Bayview Village,358800,43.766094,-79.385582,,
+"#3108 - 45 CHARLES ST E Toronto, ON",Downtown,422000,43.668777,-79.383995,,
+"#1510 - 59 ANNIE CRAIG DR Toronto, ON",Mimico,399900,43.624969,-79.478081,,
+"#1706 - 101 PETER ST Toronto, ON",Downtown,556000,43.647514,-79.3927,,
+"#824 - 525 WILSON AVE Toronto, ON",Wilson Heights,529900,43.734478,-79.446472,,
+"#313 - 435 RICHMOND ST W Toronto, ON",Downtown,398000,43.647816,-79.396873,,
+"#2709 - 70 TEMPERANCE ST Toronto, ON",Downtown,495000,43.650372,-79.382347,,
+"#1309 - 320 RICHMOND ST E Toronto, ON",Old Town,380000,43.65406,-79.369118,,
+"#4202 - 12 YORK ST Toronto, ON",Downtown,600000,43.641632,-79.38205,,
+"#809 - 1 Hycrest Ave Toronto, ON",Willowdale,318000,43.766571,-79.392365,,
+"#2604 - 1 King St Toronto, ON",Weston,336800,43.701572,-79.52018699999999,,
+"260 Valermo Dr Toronto, ON",Alderwood,848000,43.610023,-79.530464,,
+"21 BYNG AVE Toronto, ON",Willowdale,789500,43.776798,-79.413834,,
+"#2410 - 5 Valhalla Inn Rd Toronto, ON",Islington - City Centre West,314900,43.640293,-79.559761,,
+"#906 - 215 Sherway Gardens Rd Toronto, ON",Islington - City Centre West,289900,43.609992999999996,-79.55748,,
+"#1202 - 39 QUEENS QUAY E Toronto, ON",Central Waterfront,1588000,43.641346,-79.372421,,
+"#919 - 18 William Carson  Crescent Toronto, ON",York Mills,443888,43.749531,-79.407188,,
+"#3 - 108 CALEDONIA PARK RD Toronto, ON",Earlscourt,518888,43.674403999999996,-79.454514,,
+"#503 - 18 SPRING GARDEN AVE Toronto, ON",Willowdale,392888,43.764893,-79.410446,,
+"#Lph05 - 18 HARRISON GARDEN BLVD Toronto, ON",Willowdale,338000,43.757355,-79.409355,,
+"#21 - 901 KENNEDY RD Toronto, ON",Ionview,385000,43.741141999999996,-79.271408,,
+"#121 - 3765 SHEPPARD AVE E Toronto, ON",Tam O'Shanter,458000,43.781490000000005,-79.294304,,
+"#202 - 1665 VICTORIA PARK AVE Toronto, ON",Wexford,375000,43.733746000000004,-79.305702,,
+"#1710 - 88 CORPORATE DR Toronto, ON",Woburn,264900,43.780956,-79.249779,,
+"#406 - 2 GLAMORGAN AVE Toronto, ON",Dorset Park,172000,43.769417,-79.28241,,
+"25 Fort Dearborn Dr Toronto, ON",L'Amoreaux,799000,43.807235999999996,-79.303368,,
+"64 STRUTHERS ST Toronto, ON",Mimico,575000,43.608696,-79.49859599999999,,
+"1530 ALBION RD Toronto, ON",Rexdale,99900,43.741695,-79.584373,,
+"26 VICTORIA ST Toronto, ON",Mimico,614700,43.619488,-79.48820500000001,,
+"51 OURLAND AVE Toronto, ON",Mimico,899000,43.617924,-79.508667,,
+"#2 - 1185 Birchmount Rd Toronto, ON",Dorset Park,399900,43.742672,-79.282539,,
+"175 Calverley Tr Toronto, ON",Highland Creek,700000,43.795937,-79.179733,,
+"55 MUNSON CRES Toronto, ON",Bendale,699900,43.761173,-79.264542,,
+"135 Alexmuir Blvd Toronto, ON",Agincourt,649900,43.810509,-79.286644,,
+"20 ALANBULL SQ Toronto, ON",Milliken,1029900,43.819481,-79.274834,,
+"54 DEERBROOK TR Toronto, ON",Bridlewood,1158880,43.801292,-79.328476,,
+"21 COLLINGWOOD ST Toronto, ON",Agincourt,880000,43.782043,-79.285095,,
+"170 BERTRAND AVE Toronto, ON",Ionview,950000,43.737572,-79.2705,,
+"#504 - 5 MICHAEL POWER PL Toronto, ON",Islington - City Centre West,317000,43.644081,-79.5289,,
+"#Ph 8 - 2111 LAKE SHORE BLVD W Toronto, ON",Mimico,749900,43.628983000000005,-79.477852,,
+"PH 8 2111 Lake Shore Boulevard W Toronto, ON",Mimico,749900,43.628983000000005,-79.477852,,
+"# 3323 - 135 VILLAGE GREEN SQ Toronto, ON",Agincourt,342000,43.777565,-79.281006,,
+"#806 - 1 VALHALLA INN RD Toronto, ON",Islington - City Centre West,295000,43.640285,-79.559464,,
+"#2709 - 2220 LAKE SHORE BLVD Toronto, ON",Mimico,438000,43.62273,-79.483192,,
+"#1102 - 2045 LAKE SHORE BLVD W Toronto, ON",Mimico,449000,43.631355,-79.474609,,
+"#606 - 59 EAST LIBERTY ST Toronto, ON",Liberty Village,335000,43.638573,-79.41375,,
+"#1812 - 51 EAST LIBERTY ST Toronto, ON",Liberty Village,329000,43.638607,-79.411858,,
+"#1003 - 75 EAST LIBERTY ST Toronto, ON",Liberty Village,488800,43.638306,-79.414787,,
+"#Block1 - 6443 KINGSTON RD Toronto, ON",Highland Creek,1065900,43.791302,-79.158119,,
+"#Block - 6443 KINGSTON RD Toronto, ON",Highland Creek,1040900,43.791302,-79.158119,,
+"#1608 - 60 BRIAN HARRISON WAY Toronto, ON",Bendale,274900,43.773312,-79.258728,,
+"1163 VICTORIA PARK AVE N Toronto, ON",Clairlea - Birchmount,730000,43.709938,-79.296143,,
+"#332 - 665 KENNEDY RD Toronto, ON",Scarborough Junction,166500,43.72599,-79.265015,,
+"#906 - 3380 EGLINTON AVE E Toronto, ON",Scarborough Village,188900,43.744811999999996,-79.214561,,
+"#3802 - 60 BRIAN HARRISON WAY Toronto, ON",Bendale,289900,43.773312,-79.258728,,
+"#Ph109 - 330 ALTON TOWERS CIRC Toronto, ON",Milliken,319000,43.822525,-79.276451,,
+"73 NORTH WOODROW BLVD Toronto, ON",Clairlea - Birchmount,699900,43.711819,-79.265274,,
+"#1103 - 4091 SHEPPARD AVE E Toronto, ON",Agincourt,229000,43.783657,-79.28441600000001,,
+"#503 -50- 18 WYNFORD DR Toronto, ON",Wynford-Concorde,798050,43.723839,-79.337303,,
+"3436 Lakeshore Boulevard W Toronto, ON",Long Branch,150000,43.595627,-79.529289,,
+"Unit 19 4780 EGLINTON AVE Toronto, ON",Wexford - Maryvale,849990,43.725372,-79.299263,,
+"#4502 - 2200 LAKESHORE BLVD W Toronto, ON",Mimico,361900,43.622883,-79.481972,,
+"#134 - 50 Scarborough Golf Clu Rd Toronto, ON",Scarborough Village,199900,43.744296999999996,-79.209541,,
+"#303 - 51 EAST LIBERTY ST Toronto, ON",Liberty Village,319000,43.638607,-79.411858,,
+"#418 - 155 YORKVILLE AVE Toronto, ON",Midtown Toronto,399000,43.670319,-79.394432,,
+"#1705 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,359900,43.774895,-79.345955,,
+"#501 - 10 MARTHA EATON WAY Toronto, ON",Brookhaven,206900,43.697231,-79.49009699999999,,
+"#2 - 1448 LAWRENCE AVE E Toronto, ON",Parkwoods - Donalda,79000,43.742146000000005,-79.31460600000001,,
+"#66 - 15 PEBBLE BYWAY WAY Toronto, ON",Hillcrest Village,394800,43.802334,-79.353668,,
+"5415 Dundas Street W Toronto, ON",Islington - City Centre West,395000,43.633957,-79.541298,,
+"#806 - 2 COVINGTON RD Toronto, ON",Englemount - Lawrence,448000,43.721115000000005,-79.430847,,
+"#724 - 135 VILLAGE GREEN SQ Toronto, ON",Agincourt,365000,43.777565,-79.281006,,
+"#311 - 840 QUEEN&#39;S PLATE DR Toronto, ON",Rexdale,394900,43.722698,-79.60234799999999,,
+"#Ph205 - 8 COVINGTON RD Toronto, ON",Englemount - Lawrence,959000,43.720905,-79.43096899999999,,
+"#209 - 51 EAST LIBERTY ST Toronto, ON",Liberty Village,519500,43.638607,-79.411858,,
+"#816 - 1040 THE QUEENSWAY AVE Toronto, ON",The Queensway,309000,43.623482,-79.516762,,
+"Ph 4603 -2045 LAKE SHORE BLVD Toronto, ON",Parkdale,1050000,43.635376,-79.440872,,
+"#1808 - 68 CANTERBURY PL N Toronto, ON",Willowdale,399000,43.773746,-79.41551199999999,,
+"#1302 - 151 VILLAGE GREEN SQ Toronto, ON",Agincourt,339000,43.778614000000005,-79.281258,,
+"#509 - 40 SYLVAN VALLEY WAY Toronto, ON",Bedford Park,575000,43.725037,-79.415611,,
+"#1108 - 3131 BRIDLETOWNE CIRC Toronto, ON",Bridlewood,318000,43.798969,-79.320328,,
+"#21 - 102 GEORGE HENRY BLVD Toronto, ON",Henry Farm,496000,43.773528999999996,-79.34764100000001,,
+"#326 - 100 HARRISON GARDEN BLVD Toronto, ON",Willowdale,408000,43.757233,-79.404686,,
+"#1804 - 60 BRIAN HARRISON WAY Toronto, ON",Bendale,358000,43.773312,-79.258728,,
+"#1906 - 1 MICHAEL POWER PL Toronto, ON",Islington - City Centre West,323800,43.643925,-79.528885,,
+"#605 - 50 BRIAN HARRISON WAY Toronto, ON",Bendale,273000,43.773582,-79.25891899999999,,
+"#1012 - 78 HARRISON GARDEN BLVD Toronto, ON",Willowdale,540000,43.7561,-79.406914,,
+"#911 - 1030 SHEPPARD AVE W Toronto, ON",Bathurst Manor,409900,43.751059999999995,-79.460693,,
+"#704 - 150 ALTON TOWERS CIRC Toronto, ON",Toronto,318000,43.826328000000004,-79.273155,,
+"1466 THE QUEENSWAY AVE Toronto, ON",Islington - City Centre West,219900,43.619194,-79.534035,,
+"#520 - 399 SPRING GARDEN AVE Toronto, ON",Willowdale,629000,43.768574,-79.389618,,
+"#256 - 1496 VICTORIA PARK AVE Toronto, ON",Toronto,449900,43.723991,-79.30246,,
+"#907 - 420 MILL RD Toronto, ON",Eringate - Centennial - West Deane,345800,43.644711,-79.58869200000001,,
+"#1208 - 714 THE WEST MALL RD Toronto, ON",Eringate - Centennial - West Deane,269900,43.656895,-79.57040400000001,,
+"#406 - 2825 ISLINGTON AVE Toronto, ON",Humber Summit,174900,43.748459000000004,-79.568283,,
+"#318 - 800 LAWRENCE AVE W Toronto, ON",Lawrence Heights,359900,43.714591999999996,-79.452911,,
+"#610 - 1070 SHEPPARD AVE W Toronto, ON",York University Heights,335000,43.750637,-79.465103,,
+"#2338 - 35 Viking Lane Toronto, ON",Islington - City Centre West,349900,43.638172,-79.536194,,
+"#706 - 10 Martha Eaton Way Toronto, ON",Brookhaven,184900,43.697231,-79.49009699999999,,
+"#1709 - 18 Kenaston Gdns Toronto, ON",Bayview Village,489000,43.765575,-79.38604699999999,,
+"118 Estelle Ave Toronto, ON",Willowdale,2998800,43.777824,-79.394302,,
+"#1803 - 22 Olive Ave Toronto, ON",Willowdale,302000,43.779659,-79.414589,,
+"#2819 - 88 Corporate Dr Toronto, ON",Woburn,275000,43.780956,-79.249779,,
+"#909 - 35 Empress Ave Toronto, ON",Willowdale,409000,43.769257,-79.411339,,
+"53 Cobblestone Dr Toronto, ON",Don Valley Village,1299000,43.785778,-79.36545600000001,,
+"#1806 - 1 Rean Dr Toronto, ON",Bayview Village,359000,43.76498,-79.383522,,
+"9 Isaac Devins Blvd Toronto, ON",Humberlea,975000,43.729229,-79.534203,,
+"#2630 - 500 Doris Ave Toronto, ON",Willowdale,399900,43.776451,-79.414017,,
+"#119 - 45 Overlea Blvd Toronto, ON",Thorncliffe Park,190000,43.705597,-79.345993,,
+"#1206 - 330 Alton Towers Circ Toronto, ON",Milliken,317000,43.822525,-79.276451,,
+"#172 - 209 Fort York Blvd Toronto, ON",Niagara,287900,43.636963,-79.404671,,
+"#912 - 23 Sheppard Ave Toronto, ON",Willowdale,299900,43.761154,-79.408836,,
+"#1617 - 36 Lisgar St Toronto, ON",Little Portugal,338000,43.641697,-79.42343100000001,,
+"99 Seventeenth St Toronto, ON",New Toronto,599000,43.602878999999994,-79.517662,,
+"#804 - 581 Avenue Rd Toronto, ON",Midtown Toronto,319000,43.689021999999994,-79.402077,,
+"#8 - 29 Fundy Bay Blvd Toronto, ON",L'Amoreaux,545000,43.810116,-79.313377,,
+"596 College St Toronto, ON",Little Italy,69000,43.655296,-79.41403199999999,,
+"45 Canary Cres Toronto, ON",Bayview Village,1888000,43.781353,-79.388954,,
+"#103 - 5101 Dundas St Toronto, ON",Islington,369000,43.644779,-79.531929,,
+"209 Ellendale Dr Toronto, ON",Dorset Park,599000,43.752731,-79.277641,,
+"1571 Pharmacy Ave Toronto, ON",Wexford - Maryvale,799000,43.763725,-79.311943,,
+"1465A Birchmount Rd Toronto, ON",Dorset Park,579000,43.755790999999995,-79.28788,,
+"1201 St Clair Ave Toronto, ON",Earlscourt,99000,43.677417999999996,-79.444275,,
+"#808 - 300 Front St Toronto, ON",Downtown,512000,43.644172999999995,-79.38942,,
+"#433 - 90 Stadium Rd Toronto, ON",Niagara,329900,43.634632,-79.40139,,
+"1043 Victoria Park Ave Toronto, ON",Woodbine Gardens,1895000,43.705692,-79.294601,,
+"#321 - 29 Queens Quay Toronto, ON",Central Waterfront,595900,43.642272999999996,-79.372704,,
+"#744 - 38 Grand Magazine St Toronto, ON",Niagara,410000,43.637035,-79.402863,,
+"174 Sloane Ave Toronto, ON",Victoria Village,1088000,43.735703,-79.31237800000001,,
+"#3206 - 5162 Yonge St Toronto, ON",Willowdale,618000,43.769665,-79.41378,,
+"10 Vista Humber Dr Toronto, ON",Humber Heights - Westmount,999888,43.697479,-79.520531,,
+"216 Owen Blvd Toronto, ON",St. Andrew - Windfields,4499900,43.749846999999995,-79.386124,,
+"39 Lyon Heights Rd Toronto, ON",Bendale,799900,43.758427000000005,-79.259102,,
+"123 Oakcrest Ave Toronto, ON",The Danforth,649000,43.684208,-79.307358,,
+"#755 - 10 Capreol Crt Toronto, ON",Downtown,474900,43.640223999999996,-79.39595,,
+"#1811W - 36 Lisgar St Toronto, ON",Little Portugal,309900,43.641697,-79.42343100000001,,
+"#908 - 2119 Lake Shore Blvd Toronto, ON",Mimico,899000,43.627769,-79.478523,,
+"#Ph202 - 212 Eglinton Ave Toronto, ON",Midtown Toronto,399000,43.708298,-79.39209,,
+"#1001 - 5162 Yonge St Toronto, ON",Willowdale,465000,43.769665,-79.41378,,
+"872 College St Toronto, ON",Dufferin Grove,1599000,43.654137,-79.424477,,
+"#2507 - 1815 Yonge St Toronto, ON",Midtown Toronto,449000,43.696033,-79.395668,,
+"#2605 - 75 QUEENS WHARF RD Toronto, ON",Downtown,427500,43.638477,-79.397987,,
+"680 BLOOR ST W Toronto, ON",Midtown Toronto,149900,43.664047,-79.416756,,
+"161 Concord Ave Toronto, ON",Dufferin Grove,1079000,43.65834,-79.42532299999999,,
+"#704 - 20 GOTHIC AVE Toronto, ON",High Park North,629500,43.653648,-79.467949,,
+"#205 - 7 Broadway Ave Toronto, ON",Sherwood Park,489900,43.709553,-79.39827,,
+"#1105 - 15 BRUYERES MEWS Toronto, ON",Niagara,309000,43.63715,-79.400604,,
+"#2001 - 65 Bremner Blvd Toronto, ON",Downtown,539900,43.64286,-79.38073,,
+"#2211 - 2191 YONGE ST Toronto, ON",Midtown Toronto,675000,43.705635,-79.398087,,
+"#2504 - 208 QUEENS QUAY W Toronto, ON",Downtown,399000,43.640259,-79.381729,,
+"#611 - 38 NIAGARA ST Toronto, ON",Fashion District,339990,43.642097,-79.401573,,
+"#602 - 736 SPADINA AVE Toronto, ON",Downtown,449500,43.665878,-79.403633,,
+"#3205 - 101 PETER ST Toronto, ON",Downtown,353000,43.647514,-79.3927,,
+"#902 - 20 AVOCA AVE Toronto, ON",Midtown Toronto,498000,43.687923,-79.38916,,
+"11 ST PATRICKS SQ Toronto, ON",Downtown,849900,43.650604,-79.390419,,
+"378 COLLEGE ST Toronto, ON",Downtown,380000,43.657272,-79.40509,,
+"193 KINGSTON RD Toronto, ON",The Beach Triangle,699900,43.672482,-79.309364,,
+"101 VALECREST DR Toronto, ON",Edenbridge - Humber Valley,2495000,43.675282,-79.520859,,
+"#35 - 384 YONGE ST Toronto, ON",Downtown,89900,43.659237,-79.38290400000001,,
+"496 Victoria Park Ave Toronto, ON",Upper Beaches,598800,43.684193,-79.285645,,
+"16 ELDON AVE Toronto, ON",Danforth Village,595000,43.691051,-79.291878,,
+"#605 - 5 ST JOSEPH ST Toronto, ON",Downtown,588000,43.665749,-79.385513,,
+"514 HORNER AVE Toronto, ON",Alderwood,1398000,43.60165,-79.54632600000001,,
+"662 SHEPPARD AVE E Toronto, ON",Bayview Village,55000,43.768501,-79.380798,,
+"#1002 - 1338 York Mills Rd Toronto, ON",Parkwoods - Donalda,275000,43.762363,-79.320976,,
+"75 Shropshire Dr Toronto, ON",Dorset Park,599900,43.760220000000004,-79.285583,,
+"525 Danforth Rd Toronto, ON",Scarborough Junction,995000,43.709301,-79.266144,,
+"10 Joshua Ave Toronto, ON",West Humber Estates,649999,43.727283,-79.58503,,
+"91 Lonborough Ave Toronto, ON",Silverthorn,649000,43.693424,-79.471298,,
+"146 Kennedy Rd Toronto, ON",Birch Cliff,839900,43.703812,-79.25638599999999,,
+"#Ph206 - 99 Blackwell Ave Toronto, ON",Malvern,149900,43.805328,-79.22023,,
+"70 Glenside Ave Toronto, ON",Leslieville,649000,43.673747999999996,-79.32719399999999,,
+"71 Somerset Ave Toronto, ON",Davenport,699000,43.673634,-79.431572,,
+"2A Twenty Seventh St Toronto, ON",Long Branch,1329000,43.595715000000006,-79.524788,,
+"133 Torbarrie Rd Toronto, ON",Downsview,512900,43.726418,-79.523224,,
+"16 Twenty Second St Toronto, ON",New Toronto,749000,43.598137,-79.52170600000001,,
+"48 Roebuck Dr Toronto, ON",Kennedy Park,619000,43.723442,-79.273499,,
+"20 Mellowood Dr Toronto, ON",St. Andrew - Windfields,1995000,43.75679,-79.368561,,
+"#1020 - 39 Queens Quay Toronto, ON",Central Waterfront,572900,43.641346,-79.372421,,
+"#105 - 60 Haslett Ave Toronto, ON",The Beach,625000,43.674232,-79.307144,,
+"#715 - 6 Parkwood Ave Toronto, ON",Midtown Toronto,409900,43.685623,-79.409592,,
+"#6 - 175 Jones Ave Toronto, ON",Leslieville,747400,43.667384999999996,-79.334412,,
+"#3706 - 120 HOMEWOOD AVE Toronto, ON",Downtown,357000,43.666752,-79.37623599999999,,
+"704 20 GOTHIC Avenue Toronto, ON",High Park North,629500,43.653648,-79.467949,,
+"#405 - 5 HANNA AVE Toronto, ON",Niagara,409900,43.637386,-79.418587,,
+"#411 - 21 Grand Magazine St Toronto, ON",Niagara,435000,43.63641,-79.402,,
+"238 Firgrove Cres Toronto, ON",Jane and Finch,668800,43.751919,-79.52205699999999,,
+"#1909 - 35 Mariner Terr Toronto, ON",Downtown,800000,43.639683000000005,-79.39211999999999,,
+"523 C ROYAL YORK RD Toronto, ON",The Queensway,998800,43.624474,-79.501793,,
+"#201 - 35 Finch Ave Toronto, ON",Willowdale,359000,43.779987,-79.412735,,
+"#823 - 28 Tandridge Cres Toronto, ON",The Elms,259900,43.729645,-79.547989,,
+"3616 DUFFERIN ST Toronto, ON",Wilson Heights,60000,43.731609000000006,-79.458794,,
+"23 KATHERINE RD Toronto, ON",Downsview,834900,43.733833000000004,-79.461113,,
+"12 FULWELL CRES Toronto, ON",York University Heights,946000,43.749916,-79.503555,,
+"977 LILLIAN ST Toronto, ON",Newtonbrook,1880000,43.793953,-79.409225,,
+"50 STALEY TERR Toronto, ON",Milliken,868000,43.806877,-79.311211,,
+"#1501 - 7 MABELLE AVE Toronto, ON",Islington - City Centre West,405000,43.646941999999996,-79.525818,,
+"#1206 - 2240 LAKE SHORE BLVD W Toronto, ON",Mimico,579000,43.621063,-79.483322,,
+"#E109 - 555 WILSON AVE W Toronto, ON",Wilson Heights,549900,43.734035,-79.447968,,
+"#E109 - 555 WILSON AVE W Toronto, ON",Wilson Heights,549900,43.734035,-79.447968,,
+"#4308 - 8 THE ESPLANADE AVE Toronto, ON",Downtown,421995,43.64613,-79.375778,,
+"#1415 - 80 HARRISON GARDEN BLVD Toronto, ON",Willowdale,359900,43.756294,-79.406532,,
+"#1910 - 50 BRIAN HARRISON WAY Toronto, ON",Bendale,273900,43.773582,-79.25891899999999,,
+"#Main - 2657 EGLINTON AVE E Toronto, ON",Kennedy Park,789000,43.735638,-79.250687,,
+"#10 - 1448 LAWRENCE AVE E Toronto, ON",Parkwoods - Donalda,179900,43.742146000000005,-79.31460600000001,,
+"#504 - 840 QUEEN&#39;S PLATE DR Toronto, ON",Rexdale,350900,43.722698,-79.60234799999999,,
+"205 Steeles Ave Toronto, ON",Newtonbrook,1950000,43.801323,-79.403679,,
+"#112 - 363 SORAUREN AVE W Toronto, ON",Roncesvalles Village,735000,43.650043,-79.444771,,
+"#605 - 188 EGLINTON AVE E Toronto, ON",Midtown Toronto,635000,43.708324,-79.392746,,
+"#520 - 245 Dalesford Rd Toronto, ON",The Queensway,474900,43.625931,-79.490524,,
+"#1406 - 551 THE WEST MALL RD Toronto, ON",Etobicoke West Mall,279900,43.651909,-79.569687,,
+"939 Warden Ave Toronto, ON",Golden Mile,2799900,43.733063,-79.28968,,
+"#708 A - 7 MABELLE AVE Toronto, ON",Islington - City Centre West,223500,43.646941999999996,-79.525818,,
+"#513 - 18 VALLEY WOODS RD Toronto, ON",Parkwoods - Donalda,338000,43.752784999999996,-79.332695,,
+"#1404 - 88 Corporate Dr Toronto, ON",Woburn,394900,43.780956,-79.249779,,
+"#2510 - 5 VALHALLA INN RD Toronto, ON",Islington - City Centre West,315900,43.640293,-79.559761,,
+"#1811W - 36 Lisgar St Toronto, ON",Little Portugal,309900,43.641697,-79.42343100000001,,
+"#1603 - 530 ST CLAIR AVE Toronto, ON",Midtown Toronto,529000,43.683132,-79.41928100000001,,
+"#808 - 10 Dean Park Rd Toronto, ON",Rouge,298000,43.802887,-79.169403,,
+"#2801 - 101 Charles St Toronto, ON",Downtown,734800,43.669643,-79.380608,,
+"#219 - 1 Massey Sq Toronto, ON",Old East York,159000,43.69614,-79.294983,,
+"38 Winona Dr Toronto, ON",Bracondale Hill,810000,43.675793,-79.430817,,
+"#4404 - 101 Charles St Toronto, ON",Downtown,774800,43.669643,-79.380608,,
+"5 Armitage Dr Toronto, ON",Wexford - Maryvale,618000,43.767246,-79.306763,,
+"96 Toronto St Kingston, ON",Sunnyside,359900,44.232288,-76.504181,,
+"#201 - 10 Martha Eaton Way Toronto, ON",Brookhaven,189900,43.697231,-79.49009699999999,,
+"#32 - 452 Silverstone Dr Toronto, ON",Silverstone,409800,43.741440000000004,-79.598236,,
+"#4 - 375 Cook Rd Toronto, ON",York University Heights,469900,43.766647,-79.50237299999999,,
+"##201 - 4062 Lawrence Ave Toronto, ON",West Hill,80000,43.765910999999996,-79.19754,,
+"#11 - 90 Crockamhill Dr Toronto, ON",Agincourt,449000,43.799244,-79.28229499999999,,
+"#149 - 254 John Garland Blvd Toronto, ON",Rexdale,259000,43.733340999999996,-79.593048,,
+"30 Gillbank Cres Toronto, ON",Morningside,729999,43.789196000000004,-79.21835300000001,,
+"1728 Eglinton Ave Toronto, ON",Belgravia,2798800,43.696498999999996,-79.447227,,
+"#1704 - 65 ST MARY ST Toronto, ON",Downtown,924900,43.666897,-79.389038,,
+"#5201 - 16 HARBOUR ST Toronto, ON",Downtown,1688000,43.642578,-79.3769,,
+"#702 - 500 SHERBOURNE ST Toronto, ON",Downtown,375000,43.667915,-79.375679,,
+"#901 - 980 YONGE ST Toronto, ON",Midtown Toronto,499000,43.675289,-79.389023,,
+"16 ROSEMARY LANE Toronto, ON",Midtown Toronto,5250000,43.700210999999996,-79.423698,,
+"#1317 - 38 JOE SHUSTER WAY Toronto, ON",Toronto,239900,43.640335,-79.424477,,
+"#863 - 155 DALHOUSIE ST Toronto, ON",Downtown,375000,43.65765,-79.376762,,
+"#728 - 2 OLD MILL DR Toronto, ON",Lambton Baby Point,399900,43.648071,-79.486664,,
+"154 DUNBLAINE AVE Toronto, ON",Nortown,2650000,43.734093,-79.42907,,
+"#728 - 2 EVA RD Toronto, ON",Eatonville,295000,43.639694,-79.563148,,
+"#1410 - 1 HICKORY TREE RD Toronto, ON",Weston,199900,43.698143,-79.51377099999999,,
+"4986 DUNDAS ST W Toronto, ON",Eatonville,149000,43.647232,-79.530617,,
+"385 THE WEST MALL Toronto, ON",Eatonville,99000,43.641918,-79.565247,,
+"#1016 - 15 NORTHTOWN WAY Toronto, ON",Willowdale,317000,43.774834000000006,-79.41330699999999,,
+"4151 KINGSTON RD Toronto, ON",West Hill,2880000,43.758629,-79.197571,,
+"#706 - 121 MCMAHON DR Toronto, ON",Bayview Village,329000,43.767746,-79.370918,,
+"99 IONVIEW RD Toronto, ON",Ionview,699000,43.738369,-79.27385699999999,,
+"18 GREENVIEW AVE Toronto, ON",Newtonbrook,1500000,43.779987,-79.418968,,
+"143 RENAULT CRES Toronto, ON",Humber Heights - Westmount,848000,43.688128999999996,-79.523537,,
+"#22 - 67 KIRKDENE DR Toronto, ON",Rouge,899900,43.794567,-79.139496,,
+"#1904 - 3 MARINE PARADE DR Toronto, ON",Mimico,520000,43.630383,-79.47627299999999,,
+"#806 - 3390 WESTON RD Toronto, ON",Emery,94900,43.749187,-79.542702,,
+"139 OVERTURE RD E Toronto, ON",West Hill,425000,43.764301,-79.198959,,
+"74 HUNTINGDALE BLVD Toronto, ON",Bridlewood,658000,43.796352,-79.323875,,
+"36 TUNBRIDGE CRES Toronto, ON",Etobicoke West Mall,749000,43.644119,-79.571426,,
+"#1207 - 19 SINGER CRT Toronto, ON",Bayview Village,329000,43.769569,-79.369514,,
+"#214 - 4064 LAWRENCE AVE Toronto, ON",West Hill,199900,43.76638,-79.197601,,
+"#219 - 19 SINGER CRT Toronto, ON",Bayview Village,349900,43.769569,-79.369514,,
+"264 REINER RD Toronto, ON",Wilson Heights,1788000,43.748413,-79.456345,,
+"548 B SCARLETT RD Toronto, ON",Humber Heights - Westmount,698800,43.688320000000004,-79.51422099999999,,
+"#Th05 - 25 SINGER CRT Toronto, ON",Bayview Village,699900,43.769740999999996,-79.369698,,
+"64 EDGECROFT RD Toronto, ON",The Queensway,1524000,43.629078,-79.510864,,
+"#10 - 800 ARROW RD Toronto, ON",Emery,649900,43.74855,-79.53274499999999,,
+"#208 - 70 FOREST MANOR RD Toronto, ON",Henry Farm,339000,43.774895,-79.345955,,
+"120 CEDRIC AVE Toronto, ON",Midtown Toronto,799999,43.687363,-79.436615,,
