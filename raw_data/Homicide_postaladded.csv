@@ -1,150 +1,76 @@
-,Homicide_Year,Homicide_Lat,Homicide_Lng,Homicide_Neighbourhood,Homicide_Postal_Code,Homicide_Neighborhood2,Homicide_Postal_Group
-658,2016,43.6673737,-79.3816376,Church-Yonge Corridor (75),M4Y 1L5,Church Street,M4Y
-662,2016,43.705143,-79.5294037,Weston (113),M9N 1Z2,Weston Road,M9N
-666,2016,43.7427292,-79.5403366,Humbermede (22),M9M 1N6,Weston Road,M9M
-670,2016,43.7045708,-79.3967972,Mount Pleasant West (104),M4S 1V5,Soudan Avenue,M4S
-674,2016,43.6572113,-79.4040756,University (79),M5T 3A9,College Street,M5T
-678,2016,43.6572113,-79.4040756,University (79),M5T 3A9,College Street,M5T
-682,2016,43.6491318,-79.4379425,Little Portugal (84),M6K 2S5,Saint Clarens Avenue,M6K
-685,2016,43.7080193,-79.3413849,Thorncliffe Park (55),M4H 1C5,East York,M4H
-780,2016,43.7378082,-79.520134,Glenfield-Jane Heights (25),M3N 2T5,John Cabot Way,M3N
-783,2016,43.6504669,-79.3719101,Moss Park (73),M5C 1G8,Jarvis Street,M5C
-785,2016,43.7529755,-79.2580719,Bendale (127),M1P 3S5,Scarborough,M1P
-788,2016,43.6694145,-79.3824921,Church-Yonge Corridor (75),M4Y 2G3,Charles Street East,M4Y
-791,2016,43.6771507,-79.334877,Blake-Jones (69),M4J 1E9,Queen Victoria Street,M4J
-794,2016,43.6573067,-79.3734589,Moss Park (73),M5A 1Z4,George Street,M5A
-797,2016,43.6661606,-79.3529129,North Riverdale (68),M4K 2M7,Old Toronto,M4K
-800,2016,43.6419144,-79.4127045,Niagara (82),M6K 3G9,King Street West,M6K
-803,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-806,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-809,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-812,2016,43.6600647,-79.3523102,South Riverdale (70),M4M 2S6,Munro Street,M4M
-867,2016,43.6373482,-79.4253387,South Parkdale (85),M6K 3L5,Mowat Avenue,M6K
-868,2016,43.7685204,-79.5005569,York University Heights (27),M3J 0B9,Assiniboine Road,M3J
-869,2016,43.7743988,-79.2535477,Bendale (127),M1P 4Y7,Town Centre Court,M1P
-870,2016,43.6702118,-79.4570313,Weston-Pellam Park (91),M6N 2Y2,Davenport Road,M6N
-871,2016,43.7341003,-79.6099167,West Humber-Clairville (1),M9W 5P5,Finch Avenue West,M9W
-873,2016,43.7006035,-79.5177917,Weston (113),M9N 1W4,Weston Road,M9N
-875,2016,43.7470398,-79.6001587,West Humber-Clairville (1),M9V 3K1,Lexington Avenue,M9V
-877,2016,43.6995316,-79.5563736,Kingsview Village-The Westway (6),M9R 3G1,Saint Andrews Boulevard,M9R
-879,2016,43.7640533,-79.2056274,Morningside (135),M1G 1R8,Scarborough,M1G
-881,2016,43.6554642,-79.4126129,Palmerston-Little Italy (80),M6G 1B2,College Street,M6G
-883,2016,43.7260284,-79.3135223,Victoria Village (43),M4A,North York,M4A
-885,2016,43.769165,-79.5187607,Black Creek (24),M3N 1T4,North York,M3N
-887,2016,43.6617737,-79.3529434,South Riverdale (70),M4M 1P9,Munro Street,M4M
-889,2016,43.7506409,-79.4415665,Clanton Park (33),M3H 2K7,Verwood Avenue,M3H
-891,2016,43.7553139,-79.5269089,Black Creek (24),M3N,North York,M3N
-893,2016,43.6937408,-79.3427277,Old East York (58),M4J 3S2,Donlands Avenue,M4J
-895,2016,43.7450218,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
-897,2016,43.6527443,-79.4316788,Dufferin Grove (83),M6H 1B4,College Street,M6H
-899,2016,43.700161,-79.5162048,Weston (113),M9N 1H7,York,M9N
-901,2016,43.7013283,-79.5486755,Kingsview Village-The Westway (6),Canada,Islington Avenue,Can
-903,2016,43.6561661,-79.3701248,Moss Park (73),M5A,Shuter Street,M5A
-912,2016,43.6931458,-79.2912979,Taylor-Massey (61),M4C 1X1,Thyra Avenue,M4C
-913,2016,43.7965355,-79.4104843,Newtonbrook East (50),M2M 3G1,Lillian Street,M2M
-914,2016,43.6719971,-79.5434952,Princess-Rosethorn (10),M9A 1Z9,The Kingsway,M9A
-915,2016,43.7981796,-79.3331299,L'Amoreaux (117),M1W 2N6,Victoria Park Avenue,M1W
-916,2016,43.5997925,-79.5097122,New Toronto (18),M8V 1K5,Lake Shore Boulevard West,M8V
-917,2016,43.7716827,-79.2536545,Bendale (127),M1P 4J1,Scarborough,M1P
-918,2016,43.7082405,-79.4658127,Yorkdale-Glen Park (31),M6B,Caledonia Road,M6B
-919,2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Spadina Avenue,M5T
-920,2016,43.736351,-79.5810471,Mount Olive-Silverstone-Jamestown (2),M9V 1P9,Warrendale Court,M9V
-921,2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Spadina Avenue,M5T
-922,2016,43.6523972,-79.5722122,Etobicoke West Mall (13),M9C 1G9,Etobicoke,M9C
-923,2016,43.7159882,-79.3049393,Victoria Village (43),M4B 3P4,O'Connor Drive,M4B
-924,2016,43.7028809,-79.5038376,Rustic (28),M9N,Lawrence Avenue West,M9N
-925,2016,43.7064896,-79.2894745,Clairlea-Birchmount (120),M1L 3G9,Pharmacy Avenue,M1L
-926,2016,43.692627,-79.5174942,Humber Heights-Westmount (8),M9P 1T2,Scarlett Road,M9P
-927,2016,43.7450218,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
-928,2016,43.7443428,-79.213768,Scarborough Village (139),M1J 3N5,Eglinton Avenue East,M1J
-929,2016,43.6524124,-79.3906631,Kensington-Chinatown (78),M5T 2X1,McCaul Street,M5T
-930,2016,43.7971191,-79.3051605,L'Amoreaux (117),M1W,Birchmount Road,M1W
-931,2016,43.7152748,-79.5108109,Pelmo Park-Humberlea (23),M9N 2V6,Gordon Mackay Road,M9N
-932,2016,43.6622849,-79.3405991,South Riverdale (70),M4M 2R3,Carlaw Avenue,M4M
-933,2016,43.6556168,-79.3644638,Regent Park (72),M5A,Queen Street East,M5A
-934,2016,43.7489891,-79.4948578,York University Heights (27),M3J 1A8,Benjamin Boake Trail,M3J
-935,2016,43.6702271,-79.3867874,Rosedale-Moore Park (98),M4Y 2B6,Bloor Street West,M4Y
-936,2016,43.6117668,-79.4965363,Mimico (includes Humber Bay Shores) (17),M8V 2V6,Royal York Road,M8V
-937,2016,43.6831207,-79.3247681,Danforth (66),M4J 1N4,Danforth Avenue,M4J
-938,2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Ellesmere Road,M1R
-939,2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Ellesmere Road,M1R
-940,2016,43.7320251,-79.5894241,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V
-942,2016,43.8065376,-79.2186508,Malvern (132),M1B,Neilson Road,M1B
-943,2016,43.8065376,-79.2186508,Malvern (132),M1B,Neilson Road,M1B
-944,2016,43.8065376,-79.2186508,Malvern (132),M1B,Neilson Road,M1B
-945,2016,43.8065376,-79.2186508,Malvern (132),M1B,Neilson Road,M1B
-957,2016,43.7320251,-79.5894241,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V658,2016,43.6673737,-79.38163759999999,Church-Yonge Corridor (75),M4Y 1L5,Church Street,M4Y
-662,2016,43.705143,-79.5294037,Weston (113),M9N 1Z2,Weston Road,M9N
-666,2016,43.7427292,-79.54033659999999,Humbermede (22),M9M 1N6,Weston Road,M9M
-670,2016,43.7045708,-79.39679720000001,Mount Pleasant West (104),M4S 1V5,Soudan Avenue,M4S
-674,2016,43.65721129999999,-79.4040756,University (79),M5T 3A9,College Street,M5T
-678,2016,43.65721129999999,-79.4040756,University (79),M5T 3A9,College Street,M5T
-682,2016,43.6491318,-79.4379425,Little Portugal (84),M6K 2S5,Saint Clarens Avenue,M6K
-685,2016,43.7080193,-79.34138490000001,Thorncliffe Park (55),M4H 1C5,East York,M4H
-780,2016,43.7378082,-79.520134,Glenfield-Jane Heights (25),M3N 2T5,John Cabot Way,M3N
-783,2016,43.6504669,-79.3719101,Moss Park (73),M5C 1G8,Jarvis Street,M5C
-785,2016,43.7529755,-79.2580719,Bendale (127),M1P 3S5,Scarborough,M1P
-788,2016,43.6694145,-79.3824921,Church-Yonge Corridor (75),M4Y 2G3,Charles Street East,M4Y
-791,2016,43.677150700000006,-79.334877,Blake-Jones (69),M4J 1E9,Queen Victoria Street,M4J
-794,2016,43.65730670000001,-79.3734589,Moss Park (73),M5A 1Z4,George Street,M5A
-797,2016,43.666160600000005,-79.3529129,North Riverdale (68),M4K 2M7,Old Toronto,M4K
-800,2016,43.6419144,-79.4127045,Niagara (82),M6K 3G9,King Street West,M6K
-803,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-806,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-809,2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Lawndale Road,M1M
-812,2016,43.66006470000001,-79.3523102,South Riverdale (70),M4M 2S6,Munro Street,M4M
-867,2016,43.637348200000005,-79.4253387,South Parkdale (85),M6K 3L5,Mowat Avenue,M6K
-868,2016,43.7685204,-79.5005569,York University Heights (27),M3J 0B9,Assiniboine Road,M3J
-869,2016,43.77439879999999,-79.25354770000001,Bendale (127),M1P 4Y7,Town Centre Court,M1P
-870,2016,43.6702118,-79.4570313,Weston-Pellam Park (91),M6N 2Y2,Davenport Road,M6N
-871,2016,43.734100299999994,-79.6099167,West Humber-Clairville (1),M9W 5P5,Finch Avenue West,M9W
-873,2016,43.7006035,-79.5177917,Weston (113),M9N 1W4,Weston Road,M9N
-875,2016,43.747039799999996,-79.60015870000001,West Humber-Clairville (1),M9V 3K1,Lexington Avenue,M9V
-877,2016,43.6995316,-79.55637359999999,Kingsview Village-The Westway (6),M9R 3G1,Saint Andrews Boulevard,M9R
-879,2016,43.7640533,-79.20562740000001,Morningside (135),M1G 1R8,Scarborough,M1G
-881,2016,43.655464200000004,-79.41261290000001,Palmerston-Little Italy (80),M6G 1B2,College Street,M6G
-883,2016,43.7260284,-79.3135223,Victoria Village (43),M4A,North York,M4A
-885,2016,43.769165,-79.5187607,Black Creek (24),M3N 1T4,North York,M3N
-887,2016,43.661773700000005,-79.3529434,South Riverdale (70),M4M 1P9,Munro Street,M4M
-889,2016,43.7506409,-79.44156650000001,Clanton Park (33),M3H 2K7,Verwood Avenue,M3H
-891,2016,43.7553139,-79.52690890000001,Black Creek (24),M3N,North York,M3N
-893,2016,43.6937408,-79.3427277,Old East York (58),M4J 3S2,Donlands Avenue,M4J
-895,2016,43.745021799999996,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
-897,2016,43.652744299999995,-79.4316788,Dufferin Grove (83),M6H 1B4,College Street,M6H
-899,2016,43.700161,-79.5162048,Weston (113),M9N 1H7,York,M9N
-901,2016,43.7013283,-79.5486755,Kingsview Village-The Westway (6),Canada,Islington Avenue,Can
-903,2016,43.6561661,-79.3701248,Moss Park (73),M5A,Shuter Street,M5A
-912,2016,43.693145799999996,-79.2912979,Taylor-Massey (61),M4C 1X1,Thyra Avenue,M4C
-913,2016,43.7965355,-79.4104843,Newtonbrook East (50),M2M 3G1,Lillian Street,M2M
-914,2016,43.6719971,-79.54349520000001,Princess-Rosethorn (10),M9A 1Z9,The Kingsway,M9A
-915,2016,43.798179600000005,-79.33312990000002,L'Amoreaux (117),M1W 2N6,Victoria Park Avenue,M1W
-916,2016,43.5997925,-79.5097122,New Toronto (18),M8V 1K5,Lake Shore Boulevard West,M8V
-917,2016,43.77168270000001,-79.25365450000001,Bendale (127),M1P 4J1,Scarborough,M1P
-918,2016,43.7082405,-79.4658127,Yorkdale-Glen Park (31),M6B,Caledonia Road,M6B
-919,2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Spadina Avenue,M5T
-920,2016,43.736351,-79.58104709999999,Mount Olive-Silverstone-Jamestown (2),M9V 1P9,Warrendale Court,M9V
-921,2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Spadina Avenue,M5T
-922,2016,43.6523972,-79.5722122,Etobicoke West Mall (13),M9C 1G9,Etobicoke,M9C
-923,2016,43.715988200000005,-79.30493929999999,Victoria Village (43),M4B 3P4,O'Connor Drive,M4B
-924,2016,43.702880900000004,-79.5038376,Rustic (28),M9N,Lawrence Avenue West,M9N
-925,2016,43.7064896,-79.2894745,Clairlea-Birchmount (120),M1L 3G9,Pharmacy Avenue,M1L
-926,2016,43.692627,-79.5174942,Humber Heights-Westmount (8),M9P 1T2,Scarlett Road,M9P
-927,2016,43.745021799999996,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
-928,2016,43.7443428,-79.213768,Scarborough Village (139),M1J 3N5,Eglinton Avenue East,M1J
-929,2016,43.6524124,-79.3906631,Kensington-Chinatown (78),M5T 2X1,McCaul Street,M5T
-930,2016,43.797119099999996,-79.3051605,L'Amoreaux (117),M1W,Birchmount Road,M1W
-931,2016,43.715274799999996,-79.51081090000001,Pelmo Park-Humberlea (23),M9N 2V6,Gordon Mackay Road,M9N
-932,2016,43.662284899999996,-79.34059909999999,South Riverdale (70),M4M 2R3,Carlaw Avenue,M4M
-933,2016,43.6556168,-79.3644638,Regent Park (72),M5A,Queen Street East,M5A
-934,2016,43.7489891,-79.49485779999999,York University Heights (27),M3J 1A8,Benjamin Boake Trail,M3J
-935,2016,43.6702271,-79.3867874,Rosedale-Moore Park (98),M4Y 2B6,Bloor Street West,M4Y
-936,2016,43.6117668,-79.4965363,Mimico (includes Humber Bay Shores) (17),M8V 2V6,Royal York Road,M8V
-937,2016,43.6831207,-79.3247681,Danforth (66),M4J 1N4,Danforth Avenue,M4J
-938,2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Ellesmere Road,M1R
-939,2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Ellesmere Road,M1R
-940,2016,43.7320251,-79.58942409999999,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V
-942,2016,43.8065376,-79.21865079999999,Malvern (132),M1B,Neilson Road,M1B
-943,2016,43.8065376,-79.21865079999999,Malvern (132),M1B,Neilson Road,M1B
-944,2016,43.8065376,-79.21865079999999,Malvern (132),M1B,Neilson Road,M1B
-945,2016,43.8065376,-79.21865079999999,Malvern (132),M1B,Neilson Road,M1B
-957,2016,43.7320251,-79.58942409999999,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V
+Homicide_Year,Homicide_Lat,Homicide_Lng,Homicide_Neighbourhood,Homicide_Postal_Code,Homicide_Neighborhood2,Homicide_Postal_Group
+2016,43.6673737,-79.3816376,Church-Yonge Corridor (75),M4Y 1L5,Old Toronto,M4Y
+2016,43.705143,-79.5294037,Weston (113),M9N 1Z2,North York,M9N
+2016,43.7427292,-79.5403366,Humbermede (22),M9M 1N6,Toronto,M9M
+2016,43.7045708,-79.3967972,Mount Pleasant West (104),M4S 1V5,Old Toronto,M4S
+2016,43.6572113,-79.4040756,University (79),M5T 3A9,Old Toronto,M5T
+2016,43.6572113,-79.4040756,University (79),M5T 3A9,Old Toronto,M5T
+2016,43.6491318,-79.4379425,Little Portugal (84),M6K 2S5,Old Toronto,M6K
+2016,43.7080193,-79.3413849,Thorncliffe Park (55),M4H 1C5,East York,M4H
+2016,43.7378082,-79.520134,Glenfield-Jane Heights (25),M3N 2T5,Toronto,M3N
+2016,43.6504669,-79.3719101,Moss Park (73),M5C 1G8,Old Toronto,M5C
+2016,43.7529755,-79.2580719,Bendale (127),M1P 3S5,Scarborough,M1P
+2016,43.6694145,-79.3824921,Church-Yonge Corridor (75),M4Y 2G3,Old Toronto,M4Y
+2016,43.6771507,-79.334877,Blake-Jones (69),M4J 1E9,Old Toronto,M4J
+2016,43.6573067,-79.3734589,Moss Park (73),M5A 1Z4,Old Toronto,M5A
+2016,43.6661606,-79.3529129,North Riverdale (68),M4K 2M7,Old Toronto,M4K
+2016,43.6419144,-79.4127045,Niagara (82),M6K 3G9,Old Toronto,M6K
+2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Scarborough,M1M
+2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Scarborough,M1M
+2016,43.7395859,-79.2228241,Scarborough Village (139),M1M 3R6,Scarborough,M1M
+2016,43.6600647,-79.3523102,South Riverdale (70),M4M 2S6,Old Toronto,M4M
+2016,43.6373482,-79.4253387,South Parkdale (85),M6K 3L5,Old Toronto,M6K
+2016,43.7685204,-79.5005569,York University Heights (27),M3J 0B9,North York,M3J
+2016,43.7743988,-79.2535477,Bendale (127),M1P 4Y7,Scarborough,M1P
+2016,43.6702118,-79.4570313,Weston-Pellam Park (91),M6N 2Y2,Old Toronto,M6N
+2016,43.7341003,-79.6099167,West Humber-Clairville (1),M9W 5P5,Etobicoke,M9W
+2016,43.7006035,-79.5177917,Weston (113),M9N 1W4,Toronto,M9N
+2016,43.7470398,-79.6001587,West Humber-Clairville (1),M9V 3K1,Etobicoke,M9V
+2016,43.6995316,-79.5563736,Kingsview Village-The Westway (6),M9R 3G1,Etobicoke,M9R
+2016,43.7640533,-79.2056274,Morningside (135),M1G 1R8,Scarborough,M1G
+2016,43.6554642,-79.4126129,Palmerston-Little Italy (80),M6G 1B2,Old Toronto,M6G
+2016,43.7260284,-79.3135223,Victoria Village (43),M4A,North York,M4A
+2016,43.769165,-79.5187607,Black Creek (24),M3N 1T4,North York,M3N
+2016,43.6617737,-79.3529434,South Riverdale (70),M4M 1P9,Old Toronto,M4M
+2016,43.7506409,-79.4415665,Clanton Park (33),M3H 2K7,North York,M3H
+2016,43.7553139,-79.5269089,Black Creek (24),M3N,North York,M3N
+2016,43.6937408,-79.3427277,Old East York (58),M4J 3S2,East York,M4J
+2016,43.7450218,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
+2016,43.6527443,-79.4316788,Dufferin Grove (83),M6H 1B4,Old Toronto,M6H
+2016,43.700161,-79.5162048,Weston (113),M9N 1H7,York,M9N
+2016,43.7013283,-79.5486755,Kingsview Village-The Westway (6),Canada,Toronto,Can
+2016,43.6561661,-79.3701248,Moss Park (73),M5A,Toronto,M5A
+2016,43.6931458,-79.2912979,Taylor-Massey (61),M4C 1X1,East York,M4C
+2016,43.7965355,-79.4104843,Newtonbrook East (50),M2M 3G1,North York,M2M
+2016,43.6719971,-79.5434952,Princess-Rosethorn (10),M9A 1Z9,Etobicoke,M9A
+2016,43.7981796,-79.3331299,L'Amoreaux (117),M1W 2N6,Scarborough,M1W
+2016,43.5997925,-79.5097122,New Toronto (18),M8V 1K5,Etobicoke,M8V
+2016,43.7716827,-79.2536545,Bendale (127),M1P 4J1,Scarborough,M1P
+2016,43.7082405,-79.4658127,Yorkdale-Glen Park (31),M6B,Toronto,M6B
+2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Toronto,M5T
+2016,43.736351,-79.5810471,Mount Olive-Silverstone-Jamestown (2),M9V 1P9,Etobicoke,M9V
+2016,43.6558533,-79.399231,Kensington-Chinatown (78),M5T,Toronto,M5T
+2016,43.6523972,-79.5722122,Etobicoke West Mall (13),M9C 1G9,Etobicoke,M9C
+2016,43.7159882,-79.3049393,Victoria Village (43),M4B 3P4,East York,M4B
+2016,43.7028809,-79.5038376,Rustic (28),M9N,Toronto,M9N
+2016,43.7064896,-79.2894745,Clairlea-Birchmount (120),M1L 3G9,Scarborough,M1L
+2016,43.692627,-79.5174942,Humber Heights-Westmount (8),M9P 1T2,Etobicoke,M9P
+2016,43.7450218,-79.219696,Scarborough Village (139),M1J 3G1,Scarborough,M1J
+2016,43.7443428,-79.213768,Scarborough Village (139),M1J 3N5,Scarborough,M1J
+2016,43.6524124,-79.3906631,Kensington-Chinatown (78),M5T 2X1,Old Toronto,M5T
+2016,43.7971191,-79.3051605,L'Amoreaux (117),M1W,Toronto,M1W
+2016,43.7152748,-79.5108109,Pelmo Park-Humberlea (23),M9N 2V6,North York,M9N
+2016,43.6622849,-79.3405991,South Riverdale (70),M4M 2R3,Old Toronto,M4M
+2016,43.6556168,-79.3644638,Regent Park (72),M5A,Toronto,M5A
+2016,43.7489891,-79.4948578,York University Heights (27),M3J 1A8,North York,M3J
+2016,43.6702271,-79.3867874,Rosedale-Moore Park (98),M4Y 2B6,Old Toronto,M4Y
+2016,43.6117668,-79.4965363,Mimico (includes Humber Bay Shores) (17),M8V 2V6,Etobicoke,M8V
+2016,43.6831207,-79.3247681,Danforth (66),M4J 1N4,Old Toronto,M4J
+2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Scarborough,M1R
+2016,43.7584152,-79.3129272,Wexford/Maryvale (119),M1R 4G5,Scarborough,M1R
+2016,43.7320251,-79.5894241,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V
+2016,43.8065376,-79.2186508,Malvern (132),M1B,Toronto,M1B
+2016,43.8065376,-79.2186508,Malvern (132),M1B,Toronto,M1B
+2016,43.8065376,-79.2186508,Malvern (132),M1B,Toronto,M1B
+2016,43.8065376,-79.2186508,Malvern (132),M1B,Toronto,M1B
+2016,43.7320251,-79.5894241,Mount Olive-Silverstone-Jamestown (2),M9V 4J1,Etobicoke,M9V
